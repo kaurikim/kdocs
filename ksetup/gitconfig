@@ -1,0 +1,14 @@
+[user]
+	name = 김성조
+	email = kauri@piolink.com
+
+[color]
+	ui = auto
+
+[core]
+	excludesfile = /home/kauri/.gitignore
+
+[alias]
+    co = checkout
+    st = status
+    ci = commit

@@ -1,0 +1,86 @@
+" Configuration file for vim
+" Written for Debian GNU/Linux by W.Akkerman <wakkerma@debian.org>
+" Some modifications by J.H.M. Dassen <jdassen@wi.LeidenUniv.nl>
+" LIKO version modifications by SiO4, Yong Hwan <sio4@linuxkorea.co.kr>
+
+" for 2Byte char ...
+		   
+"set background=dark
+" ----------------------------------------------------------------------------
+
+"set nocompatible	" Use Vim defaults (much better!)
+"set backspace=2		" allow backspacing over everything in insert mode
+set cindent
+"set autoindent		" always set autoindenting on
+"set textwidth=0		" Don't wrap words by default
+"set nobackup		" Don't keep a backup file
+"set viminfo='20,\"50	" read/write a .viminfo file, don't store more than
+			" 50 lines of registers
+set history=50		" keep 50 lines of command line history
+"set ruler		" show the cursor position all the time
+set ts=4
+set sw=4
+set sts=4
+set fo=
+set nowrap
+set et
+
+" for rfc
+" Suffixes that get lower priority when doing tab completion for filenames.
+" These are files we are not likely to want to edit or read.
+"set suffixes=.bak,~,.swp,.o,.info,.aux,.log,.dvi,.bbl,.blg,.brf,.cb,.ind,.idx,.ilg,.inx,.out,.toc
+
+if has("syntax") && &t_Co > 2
+  syntax on
+  set hlsearch
+endif
+
+
+" Debian uses compressed helpfiles. We must inform vim that the main
+" helpfiles is compressed. Other helpfiles are stated in the tags-file.
+" set helpfile=$VIMRUNTIME/doc/help.txt.gz
+
+"if has("autocmd")
+
+" Set some sensible defaults for editing C-files
+"augroup cprog
+  " Remove all cprog autocommands
+"  au!
+
+  " When starting to edit a file:
+  "   For *.c and *.h files set formatting of comments and set C-indenting on.
+  "   For other files switch it off.
+  "   Don't change the order, it's important that the line with * comes first.
+"  autocmd BufRead *       set formatoptions=tcql nocindent comments&
+  "autocmd BufRead *.c,*.h set formatoptions=croql cindent comments=sr:/*,mb:*,el:*/,://
+"augroup END
+"endif
+
+" The following are commented out as they cause vim to behave a lot
+" different from regular vi. They are highly recommended though.
+"set showcmd		" Show (partial) command in status line.
+"set showmatch		" Show matching brackets.
+"set smartindent
+"set ignorecase		" Do case insensitive matching
+"set incsearch		" Incremental search
+"set autowrite		" Automatically save before commands like :next and :make
+"set ff=unix
+"set gfn=Bitstream\ Vera\ Sans\ Mono\ 8
+"set tags=./tags
+
+color desert
+
+
+"set csverb
+
+map <F2> i/* kauri
+map <F3> :set ts=8 sw=8 sts=8 fo=
+map <F4> :set ts=4 sw=4 sts=4 fo=
+
+"============== for manpage ================
+func! Man()
+	let sm = expand("<cword>")
+	exe "!man -S 2:3:4:5:6:7:8:9:tcl:n:l:p:o ".sm
+endfunc
+nmap ,ma :call Man()<cr><cr>
+

@@ -1,0 +1,33 @@
+
+set -o vi 
+export LANG=ko_KR.UTF-8
+
+export PATH=$PATH:${HOME}/bin
+export LD_LIBRARY_PATH=${HOME}/boost_1_45_0/stage/x86
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${HOME}/projects/x86/build_plos/gtest-1.5.0/lib/.libs
+
+alias   pygrep='find . -name "*.py" |xargs grep  -n $1'
+alias   kgrep='find . -name "Kconfig" |xargs grep  -n $1'
+alias   mgrep='find . -name "Makefile" |xargs grep  -n $1'
+alias   chgrep='find . -name "*.[ch]" |xargs grep  -n $1'
+alias   hgrep='find . -name "*.h" |xargs grep  -n $1'
+alias   cgrep='find . -name "*.[cC]" |xargs grep  -n $1'
+alias   cppgrep='find . -name "*.cpp" |xargs grep  -n $1'
+alias   sgrep='find . -name "*.S" |xargs grep  -n $1'
+alias   c2grep='find . -name "*.c_" |xargs grep  -n $1'
+alias   hhgrep='find . -name "*.hh" |xargs grep  -n $1'
+alias   ccgrep='find . -name "*.cc" |xargs grep  -n $1'
+alias   agrep='find . -name "*" |xargs grep  -n $1'
+alias   hppgrep='find . -name "*.hpp" |xargs grep  -n $1'
+
+alias   getubs='git clone https://code.google.com/p/uri-nos.build/ ubs'
+alias   getmbs='git clone git://git.piolink.com/k2/branch/medusa/medusa_build.git'
+
+export URI_ROOT=${HOME}/projects/uri
+alias   uri='cd $URI_ROOT;export URI_BASE=$URI_ROOT;'
+
+export MIH_ROOT=${HOME}/projects/mih
+alias   mih='cd $MIH_ROOT;export URI_BASE=$MIH_ROOT;'
+
+export MII_ROOT=${HOME}/projects/mii
+alias   mii='cd $MII_ROOT;export URI_BASE=$MII_ROOT;'
