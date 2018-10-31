@@ -1,0 +1,4 @@
+
+:filetype indent on
+:set filetype=html           # abbrev -  :set ft=html
+:set smartindent  

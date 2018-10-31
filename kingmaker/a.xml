@@ -1,0 +1,3449 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+ <head>
+  <meta charset="UTF-8" />
+  <title>
+   Feats - Pathfinder: Kingmaker Wiki
+  </title>
+  <script>
+   document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Feats","wgTitle":"Feats","wgCurRevisionId":3732,"wgRevisionId":3732,"wgArticleId":764,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Stubs","Feats"],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Feats","wgRelevantArticleId":764,"wgRequestId":"1d179c9838b4270a59684643","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":false,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.siteGlobals.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","skins.vector.styles.responsive":"ready","ext.social.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","skins.hydra.netbar":"ready","skins.hydra.footer":"ready","skins.hydra.advertisements.styles":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@0h7ex46",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.siteGlobals.scripts","ext.collapsiblevector.collapsibleNav","ext.bunnyears","ext.claimWiki.styles","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.hydraAuth.banners","skins.vector.js","skins.hydra.advertisements.js","skins.hydra.footer.js","ext.social.scripts"]);});
+  </script>
+  <link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=ext.siteGlobals.styles%7Cext.social.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.hydra.advertisements.styles%7Cskins.hydra.footer%2Cnetbar%7Cskins.vector.styles%7Cskins.vector.styles.responsive%7Cskins.z.hydra.dark&amp;only=styles&amp;skin=hydradark" />
+  <script async="" src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hydradark">
+  </script>
+  <meta name="ResourceLoaderDynamicStyles" content="" />
+  <link rel="stylesheet" href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=hydradark" />
+  <meta name="generator" content="MediaWiki 1.29.3" />
+  <meta property="og:title" content="Feats" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://d1u5p3l4wpay3k.cloudfront.net/pathfinderkingmaker_gamepedia_en/b/bc/Wiki.png?version=2226bff72327fd0fe3cbc0b59de500c9" />
+  <meta property="og:url" content="https://pathfinderkingmaker.gamepedia.com/Feats" />
+  <meta property="og:site_name" content="Pathfinder: Kingmaker Wiki" />
+  <meta name="description" />
+  <meta name="keywords" content="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="alternate" type="application/x-wiki" title="Edit" href="/index.php?title=Feats&amp;action=edit" />
+  <link rel="edit" title="Edit" href="/index.php?title=Feats&amp;action=edit" />
+  <link rel="apple-touch-icon" href="" />
+  <link rel="shortcut icon" href="https://d1u5p3l4wpay3k.cloudfront.net/pathfinderkingmaker_gamepedia_en/6/64/Favicon.ico?version=bd32421b65e59bc003dc1113f546315d" />
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Pathfinder: Kingmaker Wiki (en)" />
+  <link rel="EditURI" type="application/rsd+xml" href="https://pathfinderkingmaker.gamepedia.com/api.php?action=rsd" />
+  <link rel="copyright" href="//creativecommons.org/licenses/by-nc-sa/3.0/" />
+  <link rel="alternate" type="application/atom+xml" title="Pathfinder: Kingmaker Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom" />
+  <link rel="canonical" href="https://pathfinderkingmaker.gamepedia.com/Feats" />
+  <meta itemprop="author" content="Gamepedia" />
+  <link rel="stylesheet" type="text/css" href="https://stations.cursetech.com/be/bunnyears-1.1.min.css" />
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Feats rootpage-Feats skin-hydradark action-view site-pathfinderkingmaker-gamepedia show-ads">
+  <script type="application/ld+json">
+   {
+	"@context": "http://schema.org/",
+	"@type": "Article",
+	"name": "Feats",
+	"headline": "Feats",
+	"image": {
+		"@type": "ImageObject",
+		"url": "https://d1u5p3l4wpay3k.cloudfront.net/pathfinderkingmaker_gamepedia_en/b/bc/Wiki.png?version=2226bff72327fd0fe3cbc0b59de500c9",
+		"width": "362",
+		"height": "159"
+	},
+	"author": {
+		"@type": "Organization",
+		"name": "Pathfinder: Kingmaker Wiki"
+	},
+	"publisher": {
+		"@type": "Organization",
+		"name": "Gamepedia",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://pathfinderkingmaker.gamepedia.com/skins/Hydra/images/icons/gp-pub-logo.png"
+		},
+		"sameAs": [
+			"https://twitter.com/CurseGamepedia", "https://www.facebook.com/CurseGamepedia", "https://www.twitch.tv/curse/videos/all"
+		]
+	},
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://pathfinderkingmaker.gamepedia.com/index.php?title=Special:Search&amp;search={search_term}",
+		"query-input": "required name=search_term"
+	},
+	"datePublished": "2018-10-29T16:04:24Z",
+	"dateModified": "2018-10-29T16:04:24Z",
+	"mainEntityOfPage": "https://pathfinderkingmaker.gamepedia.com/Feats"
+}
+  </script>
+  <script type="text/javascript">
+   //Copyright Instart Logic Tue Jul 17 2018 - All rights reserved - version: 10.2.8
+!function(t){if(function(){var n=!0,e=!1,i="";try{var r="object"==typeof t.IXC_198_8424151822013404&amp;&amp;t.IXC_198_8424151822013404;if(n=!r||void 0===r.CanRun||"_198_8424151822013404"!==r._198_8424151822013404||r.CanRun("abd"))r=t.IXC_198_8424151822013404=t.IXC_198_8424151822013404||{},r.InitStartTime=(t.performance?t.performance:Date).now(),r._198_8424151822013404="_198_8424151822013404",t.INSTART_TARGET_NAME="abd",t.I11C=t.I11C||{};else{var o=t.INSTART_TARGET_NAME;i="double nanovisor injection: abd after "+o,(e="abd"!==o)&amp;&amp;console.warn(i)}t.INSTART=t.INSTART||{},t.INSTART.Init=function(){e&amp;&amp;console.error("ignored Init call after "+i)}}catch(t){try{console.error(t)}catch(t){}n=!0}return n}()){!function(){function n(){return(n=Object.assign||function(t){for(var n,e=1,i=arguments.length;e&lt;i;e++){n=arguments[e];for(var r in n)Object.prototype.hasOwnProperty.call(n,r)&amp;&amp;(t[r]=n[r])}return t}).apply(this,arguments)}function e(t,n){return(e=Object.setPrototypeOf||{__proto__:[]}instanceof Array&amp;&amp;function(t,n){t.__proto__=n}||function(t,n){for(var e in n)n.hasOwnProperty(e)&amp;&amp;(t[e]=n[e])})(t,n)}function i(){if(void 0!==nt)return nt;var n=!0;try{if("l2n9s8hg5p"!==t.atob(t.btoa("l2n9s8hg5p")))throw"l2n9s8hg5p";n=!1}catch(t){}return nt=n}function r(t){return void 0===t&amp;&amp;(t=q),1===t.l.iytep}function o(t){return void 0===t&amp;&amp;(t=q),4===t.l.iytep}function u(t){return void 0===t&amp;&amp;(t=q),2===t.l.iytep}function c(t){return void 0===t&amp;&amp;(t=q),3===t.l.iytep}function s(t){return void 0===t&amp;&amp;(t=q),5===t.l.iytep}function a(t){return q=new et(t),K=q.l,tt=q.w,q}function h(t,n){function i(){this.constructor=t}e(t,n),t.prototype=null===n?Object.create(n):(i.prototype=n.prototype,new i)}function d(t,n){t||(console.error(n),0&lt;(t=[]).length&amp;&amp;console.log(t))}function f(t){return t.split("").filter(function(t,n){return 0==n%2}).reverse().join("")}function l(t){var n=tn[t]?tn[t]:null;if(n)return v(n);if(!(n=nn.exec(""+t)))return{ihcseme:null,iedercslaitn:null,imodnia:null,ioptr:null,ihtapeman:t,iuqyre:null,igarftnem:null};var e=n[7];e=v(n={ihcseme:b(n[1]),iedercslaitn:b(n[2]),imodnia:b(n[3]),ioptr:b(n[4]),ihtapeman:b(n[5]),iuqyre:b(n[6]),igarftnem:"string"==typeof e?e:null});var i=Object.keys(tn);return 0!==i.length&amp;&amp;i.length&gt;Kt-1&amp;&amp;delete tn[i[i.length%Kt]],tn[t]=e,n}function b(t){return"string"==typeof t&amp;&amp;0&lt;t.length?t:null}function v(t){return{ihcseme:t.ihcseme,iedercslaitn:t.iedercslaitn,imodnia:t.imodnia,ioptr:t.ioptr,ihtapeman:t.ihtapeman,iuqyre:t.iuqyre,igarftnem:t.igarftnem}}function m(t){return{ihcseme:t[0],iedercslaitn:t[1],imodnia:t[2],ioptr:t[3],ihtapeman:t[4],iuqyre:t[5],igarftnem:t[6]}}function p(){document.cookie=xt+"="+Date.now()+";max-age=86400",document.cookie=At+"=1;max-age=86400",document.cookie=Vt+"="+document.referrer+";path=/;max-age=10";var n=new fn(t.location.href),e="i10c.encReferrer="+encodeURIComponent(t.btoa(document.referrer)),i=Bt,r=n.iaptegemanht();r&amp;&amp;("/"!==r[0]&amp;&amp;(i+="/"),i+=r),n.iaptesemanht(i),n.iqddayreu(e),n.ieuqddamarapyr("i10c.ua",K.iytep.toString()),t.location.replace(n.itegferh()),document.close()}function w(t,n,e){var i=Object.getOwnPropertyDescriptor(t,n)||{};if(!1!==i.writable){i.writable=!1,i.value=e;try{Object.defineProperty(t,n,i)}catch(t){}}else d(i.value===e,n+" is already defined on object with different value");return e}function y(t,n,e){try{t[n]=e}catch(t){}return e}function L(n,e,i){n=n.split("."),i=i?w:y;for(var r,o=t||{},u=0;u&lt;n.length-1;++u){if(r=n[u],!o)return;o=i(o,r,o[r]||{})}r=n[n.length-1],o&amp;&amp;(d(!!r,"In Export, name not defined"),i(o,r,e))}function R(t,n){L(at+"."+t,n),L(st+"."+t,n)}function g(){for(var t=[],n=0;n&lt;arguments.length;n++)t[n]=arguments[n];qt?t.forEach(function(t){return t(qt)}):ln=ln.concat(t)}function N(n,e){qt=n;var i=!0;try{ln.forEach(function(t){i=t(n)&amp;&amp;i});var r=e&amp;&amp;t[e];r&amp;&amp;r instanceof Array&amp;&amp;(r.forEach(function(t){i=t(n)&amp;&amp;i}),r.push=g)}catch(t){i=!1}return i}function S(t,n,e,i){if(t||(t={}),n)for(var r=Object.keys(n),o=r.length-1;0&lt;=o;--o){var u=r[o],c=t[u];c=(void 0===c?pn:i&amp;&amp;i[u]||e)(c,n[u]),t[u]=c}return t}function j(t,n){return function(e,i){return null===i||"object"!=typeof i||i instanceof RegExp?i:Array.isArray(i)?!Array.isArray(e)&amp;&amp;e?(console.error("Error while attempting to merge an array "+i+" with a non-array "+e),i):t(e,i):n(e,i)}}function D(t,n){return S(t,n,pn)}function E(t,n){for(var e=0;e&lt;n.length;e++)t=S(t,n[e],pn);return t}function T(t,n){var e=n&amp;&amp;E({},n);return function(n,i){return S(n,i,t,e)}}function _(t,n){return S(t,n,wn)}function Y(t,n){return S(t,n,yn)}function k(t,n){return t?n?function(){t.apply(this,arguments),n.apply(this,arguments)}:t:n}function H(t,n){return null===t?t===n:t.toLowerCase()===n.toLowerCase()}function O(t,n){return null!==t&amp;&amp;void 0!==t&amp;&amp;n.test(t)}function F(t,n,e){var i={};return i.iytep=t,i[Gt]=n,e&amp;&amp;(i[It]=e),i}function M(n){try{var e=t[n];return e.setItem("TEST","TEST"),e.removeItem("TEST"),!0}catch(t){return!1}}function W(t,n){var e="";if(t){var i=t.indexOf(n);-1&lt;i&amp;&amp;(t=t.slice(i),n=n.replace(/[.]/g,"[.]").replace(/\$/g,"[$]"),(t=new RegExp("(?:\\b"+n+"\\b\\s*=\\s*)([^;]*);?").exec(t))&amp;&amp;t[1]&amp;&amp;(e=t[1]))}return e}function Z(){var t={};try{if(M(Ut)){var n=sessionStorage._198_8424151822013404;n&amp;&amp;(t=JSON.parse(n))}}catch(t){}return t}function x(t,n,e){try{Object.defineProperty(t,n,e)}catch(t){}}function A(t,n){var e=typeof t;if(t&amp;&amp;("object"===e||"function"===e)&amp;&amp;!ee.call(t,"__ext")){if(t instanceof NodeList||t instanceof HTMLCollection){for(n=t.length,e=0;e&lt;n;e++)A(t[e]);return t}n||(1===(e=t.nodeType)&amp;&amp;(n=te[t.nodeName]),n||(n=Kn[e]),n||(n=t.__pext)),n&amp;&amp;(e={Dc:{},Lb:n,Ba:ne++},ie.value=e,Object.defineProperty(t,"__ext",ie),n.Da(t))}return t}function V(t,n){var e=t.__ext;return e||(A(t),e=t.__ext),(t=(t=e)&amp;&amp;t.Lb)?t.pb(n):null}function B(t,n){for(var e=Object.getOwnPropertyNames(t),i=0,r=e.length;i&lt;r;++i){var o=e[i];if(!(o in n)){var u=Object.getOwnPropertyDescriptor(t,o);try{Object.defineProperty(n,o,u)}catch(t){}}}if((e=t.prototype)&amp;&amp;(n.prototype=e),t=t.name)try{Object.defineProperty(n,"name",{value:t})}catch(t){}}function C(t){t.B.aa(function(){var n=V(this,t.ianem);return n?n.sc(this):t.B.v.call(this)}),t.Set.aa(function(n){var e=V(this,t.ianem);return e?e.Set(this,n,!0,!1):t.Set.v.call(this,n),n})}function G(t){be.Na.Set.Ob(function(n){for(var e=0;e&lt;t.iadb.iawirudatsilhct.length;e++)if(t.iadb.iawirudatsilhct[e].test(n)){this.addEventListener("error",function(){ve.b(n),n&amp;&amp;(pe[n]=!0)}),this.addEventListener("load",function(){n&amp;&amp;(me[n]=!0)});break}})}function I(){if(void 0!==we)return we;var t=!1,n=Object.getOwnPropertyDescriptor(HTMLIFrameElement.prototype,"contentWindow");return(n=n&amp;&amp;n.get&amp;&amp;n.get.toString())&amp;&amp;(t=-1===n.indexOf(ft)),we=t}function z(){return new Ee(function(t){function n(n){var i=!1;"load"===n.type?i=!1:"error"===n.type&amp;&amp;(i=!0),t(F(Lt,i,n.currentTarget.src)),e&amp;&amp;(n=n.target)&amp;&amp;n.parentNode&amp;&amp;n.parentNode.removeChild(n)}var e=4===K.iytep&amp;&amp;3===tt.iytep,i=document.createElement("img");i.onload=n,i.onerror=n;var r=Math.floor(Math.random()*Qn.length);i.src=Qn[r]+"?"+Te[Math.floor(Math.random()*Te.length)],e&amp;&amp;document.body.appendChild(i),1&lt;Qn.length&amp;&amp;Qn.splice(r,1)})}function X(t,n,e,i,c){return new Ee(function(s){var a="script"===t?yt:Rt,h=o();if(r()||h||u()){var d;h&amp;&amp;(d=setTimeout(function(){s(F(a,!1,"Timed out on error"))},500));var f=!1,l=function(t){if(!f){f=!0,h&amp;&amp;clearTimeout(d);var n=!1;"load"===t.type?n=!1:"error"===t.type&amp;&amp;(n=!0),s(F(a,n,t.currentTarget.href)),b&amp;&amp;b.parentNode&amp;&amp;b.parentNode.removeChild(b)}},b=document.createElement("link");b.onload=l,b.onerror=l,b.rel=c||u()?"prefetch":"preload",b.as=t,e&amp;&amp;b.setAttribute("crossorigin","anonymous"),i&amp;&amp;b.setAttribute("referrerpolicy","no-referrer"),l=Math.floor(Math.random()*n.length),b.href=n[l],De&amp;&amp;De.parentNode?De&amp;&amp;De.parentNode&amp;&amp;De.parentNode.insertBefore(b,De):document.head.appendChild(b),1&lt;n.length&amp;&amp;n.splice(l,1)}else s(F(a,!1,"Neither Chrome nor Safari"))})}function P(){return new Ee(function(t){var n=_e[Math.floor(Math.random()*_e.length)],e=document.createElement(n[0]);e.id=n[1],e.style.width="1px",e.style.height="1px",e.style.top="-555px",e.style.left="-555px",e.style.display="block";var i=setInterval(function(){document&amp;&amp;document.body&amp;&amp;(document.body.appendChild(e),clearInterval(i),setTimeout(function(){var n,i=getComputedStyle(e),r=!1;("none"===i.display||(n=i.getPropertyValue("-moz-binding"))&amp;&amp;-1!==n.indexOf("abp-elemhidehit"))&amp;&amp;(r=!0),t(F(Tt,r)),e&amp;&amp;e.parentNode&amp;&amp;e.parentNode.removeChild(e)},200))},10)})}function Q(t,n){void 0===n&amp;&amp;(n=He);var e=new n.ab,i=null;if("string"!=typeof t.url&amp;&amp;(i=t.url.itegferh()),t.url=i||t.url,t.onload&amp;&amp;(e.onload=function(){return t.onload(new ke(e,t))}),t.onerror&amp;&amp;(e.onerror=function(){return t.onerror(new ke(e,t))}),e.withCredentials=!!t.credentials,t.lc&amp;&amp;e.overrideMimeType(t.lc),n.Ib.call(e,t.method,t.url,!1!==t.async),t.ca)for(i=0;i&lt;t.ca.length;i++)e.setRequestHeader(t.ca[i].ianem,t.ca[i].ec);i=t.body&amp;&amp;("string"==typeof t.body?t.body:JSON.stringify(t.body));var r=!1===t.async;try{n.Xb.call(e,i)}catch(n){r&amp;&amp;t.onerror&amp;&amp;t.onerror(null)}return r?new ke(e,t):null}function U(t){return t[Gt]||"BFRAME"===t.iytep}function J(n,e){try{var i=[];i=e.Results&amp;&amp;(e[Gt]?e.Results:e.Results.filter(U)),Oe[Gt]&amp;&amp;i.push(Oe);var r={adbType:[e[Gt]?"PRESENT":"NOT"],otherData:JSON.stringify(i),clientIpAddr:"",userAgent:navigator.userAgent,pageUrl:t.location.href,detectionTime:e[Xt]},o={data_stream_type:"adb",json_data:JSON.stringify(r),generated_timestamp_msec:Date.now()};t.navigator.sendBeacon?t.navigator.sendBeacon(n,JSON.stringify(o)):Q({method:"POST",url:n,body:o,async:!0,onload:void 0,onerror:void 0,onchange:void 0,ca:[{ianem:"Content-type",ec:"text/plain"}]})}catch(t){}return!0}function $(){"d3d3Lndhc2hpbmd0b25wb3N0LmNvbQ=="===t.btoa(t.location.hostname)&amp;&amp;g(function(n){if(n[Gt])try{if(t.localStorage.setItem("__iabcd","true"),"true"===t.localStorage.getItem("__iabcr")||-1&lt;document.cookie.indexOf("__iabcr=true"))return!0}catch(t){}else try{t.localStorage.removeItem("__iabcd")}catch(t){}return!1})}var q,K,tt,nt=void 0,et=function(){function t(t){this.l=this.Ca(t,[{i:/MSIE\s([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:3},{i:/Edge\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:5},{i:/Trident.*rv:([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:3},{i:/Chrome\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:1},{i:/Firefox\/([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:2},{i:/Version\/([\d]+)(\.([\d]+))?(\.([\d]+))?.*Safari/,iytep:4}])||{iytep:0,Z:0,ka:0,ja:0},this.w=this.Ca(t,[{i:/Android\s([\d]+)(\.([\d]+))?(\.([\d]+))?/,iytep:1},{i:/CPU OS ([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:2},{i:/CPU iPhone OS ([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:2},{i:/Mac OS X ([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:3},{i:/Windows NT ([\d]+)(.([\d]+))?(.([\d]+))?/,iytep:4},{i:/Linux [a-z]*([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:5},{i:/CrOS [a-z]*([\d]+)(_([\d]+))?(_([\d]+))?/,iytep:5}])||{iytep:0,Z:0,ka:0,ja:0}}return t.prototype.Ca=function(t,n){for(var e=0;e&lt;n.length;++e){var i=n[e],r=i.i.exec(t);if(null!==r)return{iytep:i.iytep,Z:parseInt(r[1])||0,ka:parseInt(r[3])||0,ja:parseInt(r[5])||0}}return{iytep:0,Z:0,ja:0,ka:0}},t}();a("undefined"!=typeof navigator&amp;&amp;navigator.userAgent?navigator.userAgent:"");var it={T:et,get uc(){return q},get l(){return K},get w(){return tt},vc:r,Bc:o,wc:u,Ac:c,zc:s,yc:function(t){return void 0===t&amp;&amp;(t=q),3===t.w.iytep},xc:function(t){return void 0===t&amp;&amp;(t=q),2===t.w.iytep},tc:a,pc:function(t){switch(t){case 0:return"Unknown";case 1:return"Chrome";case 2:return"Firefox";case 3:return"Msie";case 4:return"Safari";case 5:return"Msedge"}},rc:function(t){switch(t){case 0:return"Unknown";case 1:return"Android";case 2:return"IOS";case 3:return"Mac";case 4:return"Windows";case 5:return"Linux"}}},rt=function(){function t(){this.b=this.U}return t.prototype.U=function(){},t.prototype.Aa=function(){return this.b!=this.U},t.prototype.G=function(t){return function(){for(var n=0,e=t.length;n&lt;e;++n)t[n].apply(this,arguments)}},t.prototype.A=function(t){if(this.b===this.U)this.b=t;else if(this.b!==this.Oa){var n=this.qa;n||(n=this.qa=[this.b,t],this.b=this.Oa=this.G(n))}else this.qa.push(t)},t.prototype.dc=function(){this.b!==this.U&amp;&amp;(this.b!==this.Oa?this.b=this.U:this.qa.length=0)},t}(),ot=function(t){function n(){var n=t.call(this)||this;return n.Pa=!1,t.prototype.A.call(n,function(){}),n}return h(n,t),n.prototype.G=function(t){return function(){if(!this.Pa){for(var n=0,e=t.length;n&lt;e;++n)t[n].apply(this,arguments);this.Pa=!0}}},n}(function(t){function n(){var n=t.call(this)||this;return t.prototype.A.call(n,function(){n.Fb=this,n.Fa=arguments}),n}return h(n,t),n.prototype.G=function(n){var e=this,i=t.prototype.G.call(this,n);return function(){i.apply(this,arguments),e.dc()}},n.prototype.A=function(n){this.Fa?n.apply(this.Fb,this.Fa):t.prototype.A.call(this,n)},n}(rt)),ut=void 0,ct=new ot;r()&amp;&amp;new Promise(function(n,e){if(void 0!==ut)ut?n():e();else var i={attributes:!0},r=new MutationObserver(function(t){for(var e=0;e&lt;t.length;e++){var i=t[e];"attributes"==i.type&amp;&amp;"hidden"===i.attributeName&amp;&amp;(ut=!0,i.target&amp;&amp;i.target.remove(),n())}}),o=setInterval(function(){if(t.document.body){t.clearInterval(o);var n=t.document.createElement("img");n.width=0,n.height=0,t.document.body.appendChild(n),n.src="https://www.nanovisor.io/adblock?ads=1",r.observe(n,i),setTimeout(function(){n&amp;&amp;n.remove(),e(),ut=!1},1e3)}},100)}).then(function(){ct.b(!0)}).catch(function(){ct.b(!1)});var st=f("C31716I2"),at=f("C50717I5"),ht=f("T9R2A8T9S6N5I3"),dt=f("d9e2r6i4f7_0d0a9o3l7n2o0_0e4l6g1o9o2g6"),ft=f("e7d0o6c2 9e6v9i2t6a5n7"),lt=f("k0c9a1b4l0l6a2C6d1b9A3r2e5t8s4i6g1e0R9"),bt=f("E5B2U7O5Y2");f("B7U6O7Y1"),f("P2B4A6");var vt=f("B1A4"),mt=f("S2T9A5T2S8B0D2A0");f("G0D9A3"),f("P5C5X2E3");var pt=f("X5L8O9V5");f("E2N7O5N1");var wt=f("E4V3A2R1B9"),yt=f("T8P1I3R6C1S0B9"),Lt=f("G6M7I0B6"),Rt=f("L5M6T0H1B3"),gt=f("I4R9U3D4A9D7E0K4C9O4L1B4"),Nt=f("E4M0A6R6F4B3");f("D2E8T5S0E6U6Q5E2R9D5A2P0F7D3");var St=f("D3E9D4A4O0L7P2F1D4"),jt=f("E3L0B0A7W6E0I5V1P5F2D7"),Dt=f("E6G4N0A4H8C1W4E3I6V6P6F2D9"),Et=f("D2E9R9E9D6N5E1R2P1F1D0"),Tt=f("T5N5E2M9E2L2E0"),_t=f("D0F2"),Yt=f("T3S0I2H4"),kt=f("I3R0U3D3A2D2E5D5A5O0L1"),Ht=f("K4R6O9W3T6E3N9"),Ot=f("O1F0N4I5G3I4S5N1O3N6");f("S5T4A4T2S1D6I3B7E5R9P4"),f("S5T1S5E4T6G1I0S7N7O0N9T8P9R9");var Ft=f("T1L1U1S9E7R9D2E3R6O4T4S4"),Mt=f("T6N5E0S6E2R8P4"),Wt=f("T3O5N9"),Zt=f("Y1D2A0E4R4T3O3N0"),xt=f("e7t4u3o2r4.0h599r908m0"),At=f("c10616i3h1p7r9o9m4"),Vt=f("r6e6r4r6e6f9e7r8.1c00919i8"),Bt=f("0805g6/7");f("e9t8a0t6S7h3p8r4o3M2"),f("d3e6k6c7o4l3b5"),f("d5e0k4c4o2l0b2n9u7");var Ct=f("/7)9]7z5-3a797-206[7]698-405[2g7:9?7(5/3^7"),Gt=f("d0e4t5c0e9t5e1D1"),It=f("n4o3s5a6e0R5"),zt=f("s5t4l4u2s3e9R8"),Xt=f("y9c7n9e0t5a8L6n0o7i7t2c4e4t3e5D9"),Pt=f("D1E8D3A2O1L8_7V4"),Qt=f("D3E3D8A4O7L2T3O9N0_3V6"),Ut=f("e3g2a2r0o3t4S1n8o4i8s7s7e1s4"),Jt=f("d2f6c10014i8"),$t=f("l1r6u1d4b9a9t7e6g8.1c60317i1");f("k1c0a5b1l0l2a5c1a4h9c1t6p2a1c9"),f("a3h5c8t4p5a7c6e6r4g7"),f("o5x667N505Y2P3k4d9S3V2k136J4V4v1x51637N565X2q3k4e9v3M2f1Z6z4t4H1"),f("e3i4k1o6o4c3"),f("b0d9d4d7b5.5c30313i9"),f("e2m9o0r3h0c0"),f("i5s6c6"),f("T6d3a6o9l4n7o3"),f("n1o1i5s5s6i6m0r0e8p0"),f("s5n6o1i8s7s2i1m1r8e1p5"),f("y3r6e1u3q5"),f("d6e7i3n0e5d1"),f("t2p3m9o8r3p4"),f("r5e7v2i8r4d9b6e2w9"),f("k9c9i0l6c0"),f("t7r0a1t4s5h2c4u5o5t9"),f("s0s4e8r2p1y3e7k4"),f("l0l6o0r2c4s6"),f("t1u7p1n8i0"),f("e9t5s5a1p6"),f("n3o2i4t2o9m7e8c5i2v1e3d6"),f("m0o5t7n8a0h4p8_1"),f("m5o8t9n3a2h0P2l2l4a7c8"),f("s2j6m2o6t2n2a7h4p9");var qt,Kt=5,tn={},nn=/^(?:([^:/?#]+):)?(?:\/\/+(?:([^/?#]*)@)?([^/?#:@]*)(?::([0-9]+)?)?)?([^?#]+)?(?:\?([^#]*))?(?:#(.*))?$/,en=/[#\/\?@]/g,rn=/[#\/\?]/g,on=/[#\?]/g,un=/[#]/g,cn=/(\/|^)(?:[^./][^/]*|\.{2,}(?:[^./][^/]*)|\.{3,}[^/]*)\/\.\.(?:\/|$)/,sn=/^([/])?(?:\.\.(?:[/]|$))+/,an=/(^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$)|([^.]+[.](?:([^.]{2}[.][^.]{2})|([^.]+))$)/,hn=/[^.]+[.](no|com|co|io|it|de|net|org|fr|one|tv|today|fm|kr|jp|com[.]au|co[.]uk|ca)$/,dn=/^([^=]*)(?:=(.*))?$/,fn=function(){function t(t){t&amp;&amp;(this.israpirude="string"==typeof t?l(t):t),this.israpirude||(this.israpirude={ihcseme:null,iedercslaitn:null,imodnia:null,ioptr:null,ihtapeman:null,iuqyre:null,igarftnem:null}),this.iacehc={s:null,iironig:null,L:null,P:null,S:null,o:[null]}}return t.prototype.itegferh=function(){var t;if(!(t=this.iacehc.s)){var n="";null!==(t=this.israpirude).ihcseme&amp;&amp;(n+=t.ihcseme+":"),null!==t.imodnia&amp;&amp;(n+="//",null!==t.iedercslaitn&amp;&amp;(n+=t.iedercslaitn+"@"),n+=t.imodnia,null!==t.ioptr&amp;&amp;(n+=":"+t.ioptr)),null!==t.ihtapeman&amp;&amp;(n+=t.ihtapeman),null!==t.iuqyre&amp;&amp;(n+="?"+t.iuqyre),null!==t.igarftnem&amp;&amp;(n+="#"+t.igarftnem),t=this.iacehc.s=n}return t},t.prototype.iotegnigir=function(){var t=this.iacehc;if(!t.iironig){var n="",e=this.istegemehc();this.icurtssilruderut()||!e?(e&amp;&amp;(n+=e+":"),(e=this.itegtsoh())&amp;&amp;(n+="//"+e),t.iironig=""!==n?n:null):t.iironig="null"}return t.iironig},t.prototype.istegemehc=function(){return this.israpirude.ihcseme},t.prototype.iosbasilruetul=function(){return!!this.israpirude.ihcseme&amp;&amp;!!this.israpirude.imodnia},t.prototype.icurtssilruderut=function(){var t=this.israpirude.ihcseme;return null!==t&amp;&amp;("http"===t||"https"===t||"ftp"===t)},t.prototype.istesemehc=function(t){return null!==t&amp;&amp;en.test(t)?this:(this.israpirude.ihcseme=t?t.toLowerCase():null,t=this.iacehc,t.s=null,t.iironig=null,this)},t.prototype.irpteglocoto=function(){var t=this.istegemehc();return t&amp;&amp;t+":"},t.prototype.iderctegslaitne=function(){return this.israpirude.iedercslaitn},t.prototype.iderctesslaitne=function(t){return null!==t&amp;&amp;en.test(t)?this:(this.israpirude.iedercslaitn=t,this.iacehc.s=null,this)},t.prototype.itegtsoh=function(){var t=this.iacehc;if(!t.L){var n="",e=this.idtegniamo();e&amp;&amp;(n+=e,(e=this.itegtrop())&amp;&amp;(n+=":"+e)),t.L=""!==n?n:null}return t.L},t.prototype.idtegniamo=function(){return this.israpirude.imodnia},t.prototype.idtesniamo=function(t){return null!==t&amp;&amp;rn.test(t)?this:(this.israpirude.imodnia=t,(t=this.israpirude.ihtapeman)&amp;&amp;"/"!==t[0]&amp;&amp;(this.israpirude.ihtapeman="/"+t),t=this.iacehc,t.s=null,t.iironig=null,t.L=null,t.P=null,t.S=null,this)},t.prototype.iamodtoorkcehcehcacdltdnani=function(){var t=this.iacehc;if(!t.P){var n=this.idtegniamo();if(n){var e=hn.exec(n);e?(t.P=e[0],t.S=e[1]):(e=an.exec(n))&amp;&amp;(t.P=e[0],(t.S=e[4]||null)||(t.S=e[3]))}}},t.prototype.ielpottegniamodlev=function(){return this.iamodtoorkcehcehcacdltdnani(),this.iacehc.S},t.prototype.ioortegniamodt=function(){return this.iamodtoorkcehcehcacdltdnani(),this.iacehc.P||this.idtegniamo()},t.prototype.itegtrop=function(){return this.israpirude.ioptr},t.prototype.itestrop=function(t){if(t){if((t=Number(t))!==(65535&amp;t))return this;this.israpirude.ioptr=""+t}else this.israpirude.ioptr=null;return t=this.iacehc,t.s=null,t.iironig=null,t.L=null,this},t.prototype.iteghtap=function(){var t="",n=this.iaptegemanht();return n&amp;&amp;(t+=n),(n=this.iqtegyreu())&amp;&amp;(t+="?"+n),(n=this.irftegtnemga())&amp;&amp;(t+="#"+n),""!==t?t:null},t.prototype.iaptegemanht=function(){return this.israpirude.ihtapeman},t.prototype.iaptesemanht=function(n,e){if(n){if(on.test(n))return this;n=!e||!this.icurtssilruderut()&amp;&amp;this.istegemehc()?n:t.Za(n),this.israpirude.ihtapeman=this.israpirude.imodnia&amp;&amp;"/"!==n[0]?"/"+n:n||null}else this.israpirude.ihtapeman=null;return this.iacehc.s=null,this},t.prototype.izilamronemanhtape=function(){return this.iaptesemanht(this.israpirude.ihtapeman,!0)},t.prototype.isteghcrae=function(){var t=this.iqtegyreu();return t&amp;&amp;"?"+t},t.prototype.iqtegyreu=function(){return this.israpirude.iuqyre},t.prototype.iqtesyreu=function(t){return null!==t&amp;&amp;un.test(t)?this:(this.israpirude.iuqyre=t,t=this.iacehc,t.s=null,t.o=[null],this)},t.prototype.iteghsah=function(){var t=this.irftegtnemga();return t&amp;&amp;"#"+t},t.prototype.irftegtnemga=function(){return this.israpirude.igarftnem},t.prototype.irftestnemga=function(t){return this.israpirude.igarftnem=t,this.iacehc.s=null,this},t.prototype.iqddayreu=function(t){var n=t;return this.israpirude.iuqyre&amp;&amp;(n=this.israpirude.iuqyre+"&amp;"+t),this.iqtesyreu(n)},t.prototype.ieuqddamarapyr=function(t,n){return this.iqddayreu(n?t+"="+n:t)},t.prototype.iarapkcehcehcacretem=function(){var t=this.iacehc;if(1===t.o.length&amp;&amp;null===t.o[0]){var n=this.israpirude.iuqyre;if(n){for(var e=[],i=-1,r=0,o=(n=n.split("&amp;")).length;r&lt;o;++r){var u=dn.exec(n[r]);u&amp;&amp;(e[++i]=u[1],u[2]||""===u[2]?e[++i]=u[2]:e[++i]=null)}t.o=e}else t.o=[]}},t.prototype.iapllatessretemar=function(t){for(var n="",e="",i=t.length,r=0;r&lt;i;){var o=t[r++],u=t[r++];n+=e+o,e="&amp;",(u||""===u)&amp;&amp;(n+="="+u)}return this.iqtesyreu(n||null)},t.prototype.iemaraptesseulavret=function(t,n){"string"==typeof n&amp;&amp;(n=[n]),this.iarapkcehcehcacretem();for(var e=0,i=this.iacehc.o,r=[],o=0,u=i.length;o&lt;u;o+=2)t===i[o]?e&lt;n.length&amp;&amp;r.push(t,n[e++]):r.push(i[o],i[o+1]);for(;e&lt;n.length;)r.push(t,n[e++]);return this.iapllatessretemar(r),this},t.prototype.ipevomerretemara=function(t){return this.iemaraptesseulavret(t,[])},t.prototype.iapllategsretemar=function(){return this.iarapkcehcehcacretem(),this.iacehc.o.slice(0,this.iacehc.o.length)},t.prototype.iemaraptegseulavret=function(t){this.iarapkcehcehcacretem();for(var n=this.iacehc.o,e=[],i=0,r=n.length;i&lt;r;i+=2)t===n[i]&amp;&amp;e.push(n[i+1]);return e},t.prototype.imaraptegeulavrete=function(t){this.iarapkcehcehcacretem();for(var n=this.iacehc.o,e=0,i=n.length;e&lt;i;e+=2)if(t===n[e])return n[e+1];return null},t.Za=function(t){t=t.replace(/(^|\/)\.(?:\/|$)/g,"$1").replace(/\/{2,}/g,"/");for(var n;(n=t.replace(cn,"$1"))!=t;t=n);return t=t.replace(sn,"$1")},t.prototype.itumetaercwodahselba=function(n){return new(n=n||t)(Object.create(this.israpirude))},t.prototype.ierfeze=function(){return Object.freeze(this.israpirude),this},t.prototype.ilceno=function(){return new t({ihcseme:this.israpirude.ihcseme,iedercslaitn:this.israpirude.iedercslaitn,imodnia:this.israpirude.imodnia,ioptr:this.israpirude.ioptr,ihtapeman:this.israpirude.ihtapeman,iuqyre:this.israpirude.iuqyre,igarftnem:this.israpirude.igarftnem})},t.prototype.iiresezila=function(){var t=this.israpirude;return[t.ihcseme,t.iedercslaitn,t.imodnia,t.ioptr,t.ihtapeman,t.iuqyre,t.igarftnem]},t}(),ln=[];R(lt,g);try{var bn="moc.tsopnotgnihsaw".split("").reverse().join(""),vn=-1!==t.location.host.indexOf(bn);i()&amp;&amp;ct.A(function(t){t||(t=N({Detected:!0,Results:[],DetectionLatency:0},vn?"__il_wapo":void 0),!vn&amp;&amp;t&amp;&amp;setTimeout(p(),200))})}catch(t){p()}var mn=/webcache[.]googleusercontent[.]com|cc[.]bingj[.]com|web[.]archive[.]org/i,pn=j(function(t,n){return n.slice()},D),wn=j(function(t,n){return t.concat(n)},_),yn=j(function(t,n){return t.concat(n.filter(function(n){return 0&gt;t.indexOf(n)}))},Y),Ln=Object.create(null,{Version:{value:"10.2.8",writable:!1,configurable:!1,enumerable:!0}}),Rn=function(t,n,e){var i=this,r=D(e||{},Ln);this.F=function(e,i,o,u){i=new t(i);var c=Object.create(r);return o&amp;&amp;(c=n(c,o)),e(i,function(t){return t?n(c,t):c}),u&amp;&amp;(c=n(c,u)),c},this.Ka=function(){},this.ComputeAll=function(t,n,e){return i.F(i.Ka,t,n,e)}},gn=function(){function t(t){this.D=t instanceof fn?t:new fn(t&amp;&amp;m(t))}return t.prototype.a=function(t){return this.D.ioortegniamodt()===t},t.prototype.scheme=function(t){return this.D.istegemehc()===t},t.prototype.domain=function(t){return this.D.idtegniamo()===t},t.prototype.jc=function(t){return O(this.D.idtegniamo(),t)},t.prototype.mc=function(){return O(this.D.iqtegyreu(),/abdtrigger/)},t.prototype.ba=function(t){t:{for(var n=this.D.iemaraptegseulavret("abdtrigger"),e=0;e&lt;n.length;e++)if(n[e]===t){t=!0;break t}t=!1}return t},t.prototype.port=function(t){return this.D.itegtrop()===t},t}(),Nn={ie:3,chrome:1,edge:5,firefox:2,safari:4},Sn={android:1,ios:2,mac:3,windows:4,linux:5},jn=function(t){function n(n){(n=n||{}).headers=n.headers||{};var e=n.uri,i=n.url;return(e=e instanceof fn?e:new fn(e?m(e):i?l(i):void 0)).idtegniamo()||(i=new fn("//"+n.headers.host),e.idtesniamo(i.idtegniamo()),e.itestrop(i.itegtrop())),e=t.call(this,e)||this,e.oa=n,n=n.headers["user-agent"],e.T=n?new et(n):q,e}return h(n,t),n.prototype.ha=function(t){var n=this.oa.headers;return n&amp;&amp;n[t]||null},n.prototype.wa=function(){var t=this.oa.headers;return t&amp;&amp;t.cookie||""},n.prototype.Ea=function(t,n,e){return t=t.Z,void 0===e&amp;&amp;(e=n),void 0!==t&amp;&amp;n&lt;=t&amp;&amp;t&lt;=e},n.prototype.method=function(t){return this.oa.method===t},n.prototype.Qa=function(t,n){return H(this.ha(t),n)},n.prototype.host=function(t){return this.Qa("host",t)},n.prototype.ic=function(t){return O(this.wa(),t)},n.prototype.cookie=function(t,n){return-1!==this.wa().indexOf(t)&amp;&amp;this.ic(new RegExp(t+"s*=[^;]*"+n+"[^;]*"))},n.prototype.g=function(t,n,e){return void 0===(t=Nn[t])&amp;&amp;(t=0),this.T.l.iytep===t&amp;&amp;this.Ea(this.T.l,n||Number.MIN_VALUE,e||Number.MAX_VALUE)},n.prototype.Ra=function(t){return void 0===(t=Sn[t])&amp;&amp;(t=0),this.T.w.iytep===t&amp;&amp;this.Ea(this.T.w,Number.MIN_VALUE,Number.MAX_VALUE)},n}(gn),Dn={ietupmochctefno:new Rn(jn,_).F},En=T(pn,[{i_irurefed:D,ii_irueniln:D,iart_iruremrofsn:_,itcelloc_irustats_frep_:D,i_iruepyt:D}]),Tn=new Rn(gn,En).F,_n=function(){},Yn=function(){function t(t){this.fc=t||""}return t.prototype.pattern=function(t){return O(this.fc,t)},t}(),kn=function(){function t(t){this.Bb=t||{}}return t.prototype.contentType=function(t){return this.Bb.oc===t},t}(),Hn=n({},Dn,{isetupmoctcejbobu:new Rn(function(t){void 0===t&amp;&amp;(t={}),this.uri=new gn(t.uri),this.tag=new _n(t.tag),this.nc=new Yn(t.nc),this.kc=new kn(t.kc)},T(pn,[{i_irurefed:D,ii_irueniln:D,iart_iruremrofsn:_,itcelloc_irustats_frep_:D,i_iruepyt:D,imrofsnartelbatnoita:_,irttnetnocremrofsna:_}])).F,ibusetupmociruecruoser:Tn,ixorpetupmocesnopsernoy:new Rn(function(){function t(t){this.Wb=t=t||{}}return t.prototype.ha=function(t){var n=this.Wb.headers;return n&amp;&amp;n[t]||null},t.prototype.Qa=function(t,n){return H(this.ha(t),n)},t}(),_).F,idleihsdaetupmoctseuqerdedocedno:new Rn(jn,_).F}),On=function(t){function n(n,e,i){return t.call(this,function(t){this.env=new n(t.env),this.req=new e(t.req),this.inp=new e(t.inp)},i,Hn)||this}return h(n,t),n}(Rn),Fn=function(){function t(t){void 0===t&amp;&amp;(t={}),this.ea=t}return t.prototype.applicationName=function(t){return this.ea.applicationName===t},t.prototype.applicationVersion=function(t){return this.ea.applicationVersion===t},t.prototype.instanceName=function(t){return t===this.ea.instanceName},t}(),Mn=E({},[{Version:function(t){return console.error("Version cannot be changed from "+t),t},ilgo:_},{ireggolgifnoc:Y,itreggoltropsnar:_,icirtemgifnoc:Y,itcirtemtropsnar:D,if_nohcte:k}]);T(pn,[Mn]);var Wn=T(wn,[{iedoced_notseuqer_d:k}]),Zn=T(pn,[{ier_noesnops:k,irapyreuqecalperma:wn}]),xn=T(pn,[{uri:k}]),An=new On(Fn,jn,T(pn,[Mn,{inv:_,igolreg:_,ihsdadlei:Wn,iobxot:D,impp:D,ieis:D,irpyxo:Zn,irmu:_,ieikooctcelfer:_,iciruotpyr:D,iletdayrteme:D,iosivonanecivres_r:D,imarfieerte:D,ierbusecruos:xn,iobustcejb:k,i_emonececivres:D}])),Vn=An.ComputeAll;An.Ka=function(n,e){(n.req.g("chrome",46,1e3)||n.req.g("safari",10,1e3))&amp;&amp;e({iadb:{ierelbanenoitcerid:!0}}),(n.req.g("chrome",46,1e3)||n.req.g("firefox",38,1e3)||n.req.g("safari",10,1e3)||n.req.g("ie",10,1e3)&amp;&amp;document&amp;&amp;10&gt;document.documentMode||n.req.g("edge",12,1e3))&amp;&amp;e({iadb:{idelbanenoitcete:!0}}),e({iadb:{ivetatselbaira:"MorphState",iolbetatseulavdekc:"blocked",ilbtonetatseulavdekco:"not-blocked",iycnetalelbairav:"Abdt",iircsdekcolbmunsrotcetedkniltp:4,isdekcolbnamregmunsrotcetedkniltpirc:0,imthdekcolbmunsrotcetedknill:4,ihtnemelemunsrotcetededi:4,iidekcolbmunsrotcetedgm:4,inoitceteddlohserht:3,ilufelbanenoitcetedl:!0,iyrotsihelbanenoitceriderrof:!1,irotsihmundlohserhty:1,iawirudatsilhct:[/(?:pubads[.])|(?:prebid[.]js)|(?:openx[.]net)|(?:googlesyndication[.](?:net|com))|(?:indexww[.]com)|(?:[.]adnxs[.]com)/i],itemeletdbatniopdneyr:"/g00/2_d3d3LmJvc3Rvbi5jb20%3D_/TU9SRVBIRVVTOCRodHRwOi8vY3AtaW4ubmFub3Zpc29yLmlvL2NsaWVudHByb2ZpbGVyL2FkYj9pMTBjLm1hcmsuc2NyaXB0LnR5cGU%3D_$/$/$",iceriderelbasidnoissesrofnoit:!1,isabnoitceriderelbanesrotcetedkniltpircsde:!0,ietedtratsemitnoitc:0}}),n.req.g("safari",10,1e3)&amp;&amp;e({iadb:{icolbdaslru_k:"https://s0.2mdn.net/ads/richmedia/studio/pv2/60282074/20170720084443516/script.js https://cdn.doubleverify.com/dv-match4.js https://cdn.springserve.com/vd/vd0.2.82.8.js https://cdn.revcontent.com/build/css/rev2.min.css https://c.betrad.com/a/n/269/635.js https://s0.2mdn.net/6440533/1495124845208/Raise%20Your%20Hands_728x90/global.min.css".split(" ")}}),(n.req.g("firefox",38,1e3)||n.req.g("safari",10,1e3)||n.req.g("ie",10,1e3)&amp;&amp;document&amp;&amp;10&gt;document.documentMode||n.req.g("edge",12,1e3))&amp;&amp;e({iadb:{ilufelbanenoitcetedl:!1,iyrotsihelbanenoitceriderrof:!1,iceriderelbasidnoissesrofnoit:!1}}),(n.req.domain(t.atob("d3d3LmxpZmV3aXJlLmNvbQ=="))||n.req.domain(t.atob("d3d3LnRoZWJhbGFuY2UuY29t"))||n.req.domain(t.atob("d3d3LnRoZXNwcnVjZS5jb20="))||n.req.domain(t.atob("d3d3LnRob3VnaHRjby5jb20="))||n.req.domain(t.atob("d3d3LnRyaXBzYXZ2eS5jb20=")))&amp;&amp;(e({iadb:{iyrotsihelbanenoitceriderrof:!1,isabnoitceriderelbanesrotcetedkniltpircsde:!1,ilufelbanenoitcetedl:!1,ihtnemelemunsrotcetededi:0,iidekcolbmunsrotcetedgm:0,ietedtratsemitnoitc:300}}),n.req.mc()&amp;&amp;(n.req.ba("300")&amp;&amp;e({iadb:{ietedtratsemitnoitc:300}}),n.req.ba("500")&amp;&amp;e({iadb:{ietedtratsemitnoitc:500}}),n.req.ba("dcl")&amp;&amp;e({iadb:{ietedtratsemitnoitc:"DOMContentLoaded"}}),n.req.ba("load")&amp;&amp;e({iadb:{ietedtratsemitnoitc:"load"}}))),n.req.a(t.atob("cG9wc2NpLmNvbQ=="))&amp;&amp;e({iadb:{isabnoitceriderelbanesrotcetedkniltpircsde:!1}}),!n.req.a(t.atob("Y25ldC5jb20="))||n.req.host(t.atob("d3d3LmNuZXQuY29t"))||n.req.host(t.atob("dGVzdC5jbmV0LmNvbQ=="))||n.req.host(t.atob("ZG93bmxvYWQuY25ldC5jb20="))||n.req.host(t.atob("ZG93bmxvYWQuc3RhZ2UuY25ldC5jb20="))||e({iadb:{idelbanenoitcete:!1}}),n.req.g("firefox")&amp;&amp;n.req.host(t.atob("dGVzdC5jbmV0LmNvbQ=="))&amp;&amp;e({iadb:{ierelbanenoitcerid:!0}}),n.req.host(t.atob("d3d3LmNuZXQuY29t"))&amp;&amp;e({iadb:{inietatseulavti:"detecting"}}),n.req.a(t.atob("ZWRtdW5kcy5jb20="))&amp;&amp;n.req.g("firefox",54,1e3)&amp;&amp;e({iadb:{ierelbanenoitcerid:!0}}),n.req.host(t.atob("d3d3LmxvbGtpbmcubmV0"))&amp;&amp;e({iadb:{ilufelbanenoitcetedl:!0,iyrotsihelbanenoitceriderrof:!0,iawirudatsilhct:[/(?:mb[.]zam)/i]}}),n.req.host(t.atob("d3d3LmxvbGtpbmcubmV0"))&amp;&amp;n.req.cookie("i10cfd","1")&amp;&amp;e({iadb:{iyrotsihelbanenoitceriderrof:!0,iawirudatsilhct:[/(?:mb[.]zam)/i]}}),(n.req.host(t.atob("d3d3Lm1zbi5jb20="))||n.req.host(t.atob("aW50MS5tc24uY29t")))&amp;&amp;e({iadb:{ivetatselbaira:"Abd",iolbetatseulavdekc:1,ilbtonetatseulavdekco:0,isabnoitceriderelbanesrotcetedkniltpircsde:!1,itemeletdbatniopdneyr:"//tu9srvbirvvtocrjcc1pbi5uyw5vdmlzb3iuaw80.g00.msn.com/g00/2_d3d3LmJvc3Rvbi5jb20%3D_/TU9SRVBIRVVTOCRodHRwOi8vY3AtaW4ubmFub3Zpc29yLmlvL2NsaWVudHByb2ZpbGVyL2FkYj9pMTBjLm1hcmsuc2NyaXB0LnR5cGU%3D_$/$/$"}}),(n.req.host(t.atob("d3d3Lm1zbi5jb20="))||n.req.host(t.atob("aW50MS5tc24uY29t")))&amp;&amp;n.req.g("firefox")&amp;&amp;e({iadb:{ierelbanenoitcerid:!0}}),n.req.host(t.atob("d3d3Lm1zbi5jb20="))&amp;&amp;(n.req.g("chrome",46,1e3)||n.req.g("safari",10,1e3))&amp;&amp;e({iadb:{ilufelbanenoitcetedl:!0,ierelbanenoitcerid:!0,iyrotsihelbanenoitceriderrof:!0,iceriderelbasidnoissesrofnoit:!1,iawirudatsilhct:[/(?:cdn[.]3lift[.]com)|(?:ib[.]3lift[.]com\/ttj)|(?:widgets[.]outbrain[.]com\/external\/publishers\/msn\/MSNOBCore[.]min[.]js)|(?:cdn[.]taboola[.]com\/libtrc\/msn-home-network\/loader[.]js)|(?:cdn[.]taboola[.]com\/libtrc\/msn-section-network\/loader[.]js)|(?:h6[.]msn[.]com\/nativeads\/ms-nativeads-msn[.]min[.]js)|(?:at[.]atwola[.]com)|(?:pixel[.]advertising[.]com)/i]}}),(n.req.host(t.atob("d3d3Lm1zbi5jb20="))||n.req.host(t.atob("aW50MS5tc24uY29t")))&amp;&amp;t&amp;&amp;1===t["ad-instart2"]&amp;&amp;e({iadb:{ierelbanenoitcerid:!1}}),n.req.host(t.atob("d3d3Lm5hc2RhcS5jb20="))&amp;&amp;(.4&gt;=Math.random()&amp;&amp;e({iadb:{ierelbanenoitcerid:!1}}),e().iadb.ierelbanenoitcerid&amp;&amp;.1&gt;=Math.random()&amp;&amp;e({iadb:{ilufelbanenoitcetedl:!0}})),n.req.host(t.atob("bnYuY29t"))&amp;&amp;e({iadb:{iircsdekcolbmunsrotcetedkniltp:4,isdekcolbnamregmunsrotcetedkniltpirc:4,imthdekcolbmunsrotcetedknill:0,ihtnemelemunsrotcetededi:4,iidekcolbmunsrotcetedgm:4,inoitceteddlohserht:16,ierelbanenoitcerid:!1,ilufelbanenoitcetedl:!1,iyrotsihelbanenoitceriderrof:!1}}),(n.req.a(t.atob("Y2FsZ2FyeWhlcmFsZC5jb20="))||n.req.a(t.atob("Y2FsZ2FyeXN1bi5jb20="))||n.req.a(t.atob("Y2FuYWRhLmNvbQ=="))||n.req.a(t.atob("Y2Fub2UuY29t"))||n.req.a(t.atob("ZWRtb250b25qb3VybmFsLmNvbQ=="))||n.req.a(t.atob("ZWRtb250b25zdW4uY29t"))||n.req.a(t.atob("ZmFjZW9mZi5jb20="))||n.req.a(t.atob("ZmluYW5jaWFscG9zdC5jb20="))||n.req.a(t.atob("aG9ja2V5aW5zaWRlb3V0LmNvbQ=="))||n.req.a(t.atob("bGVhZGVycG9zdC5jb20="))||n.req.a(t.atob("bGZwcmVzcy5jb20="))||n.req.a(t.atob("bW9udHJlYWxnYXpldHRlLmNvbQ=="))||n.req.a(t.atob("bmF0aW9uYWxwb3N0LmNvbQ=="))||n.req.a(t.atob("b3R0YXdhY2l0aXplbi5jb20="))||n.req.a(t.atob("b3R0YXdhc3VuLmNvbQ=="))||n.req.a(t.atob("dGhlZ2lmdGd1aWRlLmNh"))||n.req.a(t.atob("dGhlcHJvdmluY2UuY29t"))||n.req.a(t.atob("dGhlc3RhcnBob2VuaXguY29t"))||n.req.a(t.atob("dG9yb250b3N1bi5jb20="))||n.req.a(t.atob("dmFuY291dmVyc3VuLmNvbQ=="))||n.req.a(t.atob("d2luZHNvcnN0YXIuY29t"))||n.req.a(t.atob("d2lubmlwZWdzdW4uY29t")))&amp;&amp;e({iadb:{ilufelbanenoitcetedl:!1,iyrotsihelbanenoitceriderrof:!1}}),n.req.host(t.atob("d3d3LnJhbmtlci5jb20="))&amp;&amp;(n.req.Ra("mac")||n.req.Ra("windows"))&amp;&amp;e({iadb:{isabnoitceriderelbanesrotcetedkniltpircsde:!1,ierelbanenoitcerid:!0,ilufelbanenoitcetedl:!0,iyrotsihelbanenoitceriderrof:!0}}),n.req.host(t.atob("d3d3LnNoZXJkb2cuY29t"))&amp;&amp;.1&gt;=Math.random()&amp;&amp;e({iadb:{ilufelbanenoitcetedl:!0}}),n.req.domain(t.atob("d3d3LnN1cGVyY2hldnkuY29t"))&amp;&amp;e({iadb:{iyrotsihelbanenoitceriderrof:!1,isabnoitceriderelbanesrotcetedkniltpircsde:!1,ilufelbanenoitcetedl:!1,ihtnemelemunsrotcetededi:0,iidekcolbmunsrotcetedgm:0,ietedtratsemitnoitc:300}}),n.req.a(t.atob("d2FzaGluZ3RvbnBvc3QuY29t"))&amp;&amp;e({iadb:{ilufelbanenoitcetedl:!1,ietedtratsemitnoitc:"DOMContentLoaded",iotelbairavlabolgskcabllacretsiger:"__il_wapo",ierelbanenoitcerid:!1}}),n.req.host(t.atob("d3d3Lndvd2hlYWQuY29t"))&amp;&amp;e({iadb:{ilufelbanenoitcetedl:!0,iyrotsihelbanenoitceriderrof:!0,iawirudatsilhct:[/(?:mb[.]zam)/i]}}),n.req.host(t.atob("d3d3Lndvd2hlYWQuY29t"))&amp;&amp;n.req.cookie("i10cfd","1")&amp;&amp;e({iadb:{iyrotsihelbanenoitceriderrof:!0,iawirudatsilhct:[/(?:mb[.]zam)/i]}}),n.req.g("chrome",46,1e3)&amp;&amp;e({iadb:{iidekcolbmunsrotcetedgm:0}}),n.req.jc(mn)&amp;&amp;e({iadb:{idelbanenoitcete:!1}}),n.req.cookie("i10c.expt.history","true")&amp;&amp;e({iadb:{iyrotsihelbanenoitceriderrof:!0}})};var Bn,Cn=null,Gn=Bn={url:t.location.href,headers:{host:t.location.host,cookie:document.cookie}};Cn=Vn({env:{},inp:Gn,req:Bn},{});var In;!function(t){t[t.PENDING=0]="PENDING",t[t.FULLFILLED=1]="FULLFILLED",t[t.REJECTED=2]="REJECTED"}(In||(In={}));var zn=function(){function t(t){if(!t)throw"no executor provided";if("object"!=typeof this)throw"use new";if("function"!=typeof t)throw"not a function";this.state=In.Ia,this.gb(t)}return t.prototype.gb=function(t){var n=this;try{t(function(t){n.Vb(t)},function(t){n.Ma(t)})}catch(t){n.Ma(t)}},t.prototype.Vb=function(t){this.Sa&amp;&amp;this.Sa.call(this,t),this.state=In.ua},t.prototype.Ma=function(t){this.ra&amp;&amp;this.ra.call(this,t),this.state=In.La},t.prototype.then=function(n,e){return this.state===In.Ia?(this.ra=e,this.Sa=n):this.state===In.ua?n.call(this,void 0):this.state===In.La&amp;&amp;e.call(this,void 0),new t(function(){})},t.prototype.catch=function(n){return this.state===In.Ia?this.ra=n:this.state!==In.ua&amp;&amp;this.state===In.La&amp;&amp;n.call(this,void 0),new t(function(){})},t.prototype.all=function(n){var e=Array.prototype.slice.call(n);return new t(function(t,n){function i(o,u){try{if(u&amp;&amp;("object"==typeof u||"function"==typeof u)){var c=u.then;if("function"==typeof c)return void c.call(u,function(t){i(o,t)},n)}e[o]=u,0==--r&amp;&amp;t(e)}catch(t){n(t)}}if(0===e.length)return t([]);for(var r=e.length,o=0;o&lt;e.length;o++)i(o,e[o])})},t}();!function(){if(M("sessionStorage")){var t=ht+"_TAB_ID",n=sessionStorage[t];n||(n=sessionStorage[t]=String(Date.now()))}}();var Xn=(new fn).idtesniamo(t.location.hostname).ioortegniamodt(),Pn={},Qn="aHR0cHM6Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9mYXZpY29uLmljbw== aHR0cHM6Ly9zMC4ybWRuLm5ldC8xNjM1OTA5LzF4MWltYWdlLmpwZw== aHR0cHM6Ly9jb25uZWN0LmZhY2Vib29rLm5ldC9mYXZpY29uLmljbw== aHR0cHM6Ly9hZHMudHdpdHRlci5jb20vZmF2aWNvbi5pY28= aHR0cHM6Ly93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vX191dG0uZ2lm aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL2Zhdmljb24uaWNv aHR0cHM6Ly9zZWN1cmUuZm9vdHByaW50Lm5ldC95aWVsZG1hbmFnZXIvYXBleC9tZWRpYXN0b3JlL2FkY2hvaWNlXzEucG5n".split(" "),Un="aHR0cHM6Ly9jZG4uZmxhc2h0YWxraW5nLmNvbS83MTE5NS8xODkwMTQ2L2pzL3Rpbnlyb29tLmpz aHR0cHM6Ly9jZG4ubWVkaWF2b2ljZS5jb20vbmF0aXZlYWRzL3NjcmlwdC9jYWZlbW9tL3BvbGFyX3RoZXN0aXJfcGlwaW5nLmpz aHR0cHM6Ly9jLmJldHJhZC5jb20vYS9uLzI3OS83ODE3NS5qcw== aHR0cHM6Ly9zY3JpcHRzLmhvc3QuYmFubmVyZmxvdy5jb20vMS4wLjAvd2lkZ2V0Lm1pbi5qcw== aHR0cHM6Ly9zdGF0aWMuZG91YmxlY2xpY2submV0L2luc3RyZWFtL2FkX3N0YXR1cy5qcw== aHR0cHM6Ly9zMC4ybWRuLm5ldC82OTU1NTEyLzE0OTkzNDQxOTMxMjMvd2ViLzMwMHgyNTBfZWRnZS5qcw==".split(" "),Jn="aHR0cHM6Ly9ydGF4LmNyaXRlby5jb20vZGVsaXZlcnkvcnRhL3J0YS5qcw== aHR0cHM6Ly9pYi5hZG54cy5jb20vanB0 aHR0cHM6Ly90bHguM2xpZnQuY29tL2hlYWRlci9hdWN0aW9u aHR0cHM6Ly9hZC55aWVsZGxhYi5uZXQveXAvNTE5NDc4 aHR0cHM6Ly9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvZ29vZ2xlX3RvcF9leHAuanM= aHR0cHM6Ly9zZWN1cmUuYWRueHMuY29tL3R0ag==".split(" "),$n=0===it.l.iytep||0===it.w.iytep||1===it.l.iytep&amp;&amp;(1===it.w.iytep||2===it.w.iytep),qn=function(){function t(t){this.Ja=t,this.fa=Object.create(t&amp;&amp;t.fa),this.sa=this.va=null,this.Ha=new rt,this.Ga=new rt}return t.prototype.pb=function(t){var n=this.fa;return n[n&amp;&amp;n.zb?(""+t).toLowerCase():t]},t.prototype.ya=function(t,n){for(var e;t&amp;&amp;!e;)(e=Object.getOwnPropertyDescriptor(t,n))&amp;&amp;(e.ta=t),t=Object.getPrototypeOf(t);return e},t.prototype.yb=function(t,n){var e=n.ianem;return(t=this.ya(t,e))&amp;&amp;t.value?(n.R(t.value),t.ta[e]=n.u,n.j=t.writable?1:5,t.writable):(n.j=3,!1)},t.prototype.xb=function(t,n){var e=n.ianem;return(t=this.ya(t,e))?(t.get&amp;&amp;(n.B.R(t.get),t.get=n.B.u),t.set&amp;&amp;(n.Set.R(t.set),t.set=n.Set.u),t.get||t.set?(x(t.ta,e,t),n.j=t.configurable?1:4,t.configurable):(t.hasOwnProperty("get")||t.hasOwnProperty("set")?(n.B.R(function(){var t=Object.getOwnPropertyDescriptor(this,e);if(t){delete this[e];var n=this[e];return x(this,e,t),n}return this[e]}),n.Set.R(function(t){var n=Object.getOwnPropertyDescriptor(this,e);return n?(delete this[e],this[e]=t,x(this,e,n),t):this[e]=t}),n.j=7):n.j=6,!1)):(n.j=3,$n||r()||c()||u()||s())},t.prototype.M=function(t,n,e){if(n){for(var i=[],r=n.length-1;0&lt;=r;--r){var o=n[r];2===o.j||this.yb(t,o)||3===o.j||i.push(o)}i.length&amp;&amp;(this.va=i)}if(e){for(n=[],r=e.length-1;0&lt;=r;--r)2===(i=e[r]).j||this.xb(t,i)||3===i.j||n.push(i);n.length&amp;&amp;(this.sa=n)}},t.prototype.Da=function(t){this.Ha&amp;&amp;this.Ha.b(t);var n=this.va;if(n)for(var e=n.length-1;0&lt;=e;--e){var i=n[e];x(t,i.ianem,{value:i.u,configurable:!0,enumerable:!0})}if(n=this.sa)for(e=n.length-1;0&lt;=e;--e)i=n[e],x(t,i.ianem,{get:i.B.u,set:i.Set.u,configurable:!0,enumerable:!0});this.Ga&amp;&amp;this.Ga.b(t),this.Ja&amp;&amp;this.Ja.Da(t)},t}(),Kn=[],te={},ne=0,ee=Object.prototype.hasOwnProperty,ie={enumerable:!1,writable:!1},re=function(t){this.ianem=t,this.j=0},oe=function(t){function n(){return null!==t&amp;&amp;t.apply(this,arguments)||this}return h(n,t),n.prototype.G=function(t){return function(){for(var n=!1,e=0,i=t.length;e&lt;i;++e)n=t[e].apply(this,arguments)||n;return n}},n}(rt);!function(t){function n(){return null!==t&amp;&amp;t.apply(this,arguments)||this}h(n,t),n.prototype.G=function(t){return function(n){for(var e=0,i=t.length;e&lt;i;++e)n=t[e].apply(this,arguments)||n;return n}}}(rt);var ue=function(t){function n(n,e){void 0===e&amp;&amp;(e=!1);var i=t.call(this,n)||this;return i.u=e?function(){return A(i.ga.apply(this,arguments))}:function(){return i.ga.apply(this,arguments)},i}return h(n,t),n.prototype.pa=function(){var t=this.C&amp;&amp;this.C.Aa(),n=this.O&amp;&amp;this.O.Aa();if(t=this.K?t?n?7:5:n?6:4:t?n?3:1:n?2:0,!(n=this.Y&amp;&amp;this.Y[t])){var e=this;switch(t){case 0:n=this.v;break;case 1:n=function(){var t;return e.C.b.apply(this,arguments)||(t=e.v.apply(this,arguments)),t};break;case 2:n=function(){var t=e.v.apply(this,arguments),n=e.O.b.call(this,t);return void 0===n?t:n};break;case 3:n=function(){if(!e.C.b.apply(this,arguments)){var t=e.v.apply(this,arguments),n=e.O.b.call(this,t);t=void 0===n?t:n}return t};break;case 4:n=this.K;break;case 5:n=function(){var t;return e.C.b.apply(this,arguments)||(t=e.K.apply(this,arguments)),t};break;case 6:n=function(){var t=e.K.apply(this,arguments),n=e.O.b.call(this,t);return void 0===n?t:n};break;case 7:n=function(){if(!e.C.b.apply(this,arguments)){var t=e.K.apply(this,arguments),n=e.O.b.call(this,t);t=void 0===n?t:n}return t}}0!=t&amp;&amp;4!=t&amp;&amp;(this.Y||(this.Y=[]),this.Y[t]=n)}this.__=this.ga=n},n.prototype.R=function(t){this.v=t,B(t,this.u),this.u.toString=function(){return t.toString()},this.pa()},n.prototype.aa=function(t){this.K=t,this.pa()},n.prototype.Ob=function(t){this.C||(this.C=new oe),this.C.A(t),this.pa()},n}(re);!function(t){function n(n){var e=t.call(this,n,!0)||this;return e.u=function(){var t=e.ga;switch(arguments.length){case 0:t=new t;break;case 1:t=new t(arguments[0]);break;case 2:t=new t(arguments[0],arguments[1]);break;case 3:t=new t(arguments[0],arguments[1],arguments[2]);break;case 4:t=new t(arguments[0],arguments[1],arguments[2],arguments[3]);break;default:throw"Unsupported case!"}return A(t)},e}h(n,t)}(ue);var ce=function(t){function n(n,e,i){void 0===e&amp;&amp;(e=!1);var r=t.call(this,n)||this;return r.B=new ue(n,e),r.Set=new ue(n,e),i&amp;&amp;C(r),r}return h(n,t),n}(re),se=function(t){function n(n){var e=t.call(this,n,!1)||this;return e.B.aa(function(){var t=V(this,e.ianem);return t&amp;&amp;(t=t.xa(this))?t.Cc:e.B.v.apply(this,arguments)}),e.Set.aa(function(t){var n=V(this,e.ianem);return n?(n.xa(this)||(n.xa(this,!0,t),e.Set.v.call(this,null)),n.Set(this,t,!0,!1),t):e.Set.v.apply(this,arguments)}),e}return h(n,t),n}(ce),ae=new(function(t){function n(){return t.call(this,null)||this}return h(n,t),n}(qn)),he=new(function(n){function e(){var e=n.call(this,ae)||this;e.Ua=new ue("addEventListener"),e.Tb=new ue("removeEventListener"),e.fb=new ue("dispatchEvent");var i=Object.getPrototypeOf(t.document.head);return e.M(i,[e.Ua,e.Tb,e.fb]),e}return h(e,n),e}(qn)),de=new(function(n){function e(){var e=n.call(this,he)||this;e.ELEMENT_NODE=t.Node.ELEMENT_NODE,e.DOCUMENT_NODE=t.Node.DOCUMENT_NODE,e.vb=new ue("insertBefore",!0),e.Va=new ue("appendChild",!0),e.Ub=new ue("replaceChild",!0),e.Ya=new ue("cloneNode",!0),e.Sb=new ue("removeChild",!0),e.Db=new ce("nodeValue"),e.cc=new ce("textContent");var i=Object.getPrototypeOf(t.document.head);return e.M(i,[e.vb,e.Va,e.Ub,e.Ya,e.Sb],[e.Db,e.cc]),e}return h(e,n),e}(qn)),fe=new(function(n){function e(){var e=n.call(this,de)||this;e.hb=new ue("getAttribute"),e.Yb=new ue("setAttribute"),e.Pb=new ue("removeAttribute"),e.ib=new ue("getAttributeNS"),e.Zb=new ue("setAttributeNS"),e.Qb=new ue("removeAttributeNS"),e.jb=new ue("getAttributeNode",!0),e.$b=new ue("setAttributeNode",!0),e.Rb=new ue("removeAttributeNode",!0),e.kb=new ue("getAttributeNodeNS",!0),e.ac=new ue("setAttributeNodeNS",!0),e.ub=new ue("insertAdjacentHTML"),e.Mb=new ue("querySelector",!0),e.Nb=new ue("querySelectorAll",!0),e.Ab=new ue("matches"),e.gc=new ue("webkitMatchesSelector"),e.Cb=new ue("mozMatchesSelector"),e.qc=new ue("getElementById",!0),e.lb=new ue("getElementsByClassName",!0),e.mb=new ue("getElementsByTagName",!0),e.nb=new ue("getElementsByTagNameNS",!0),e.$a=new ue("createShadowRoot",!0),e.Ba=new ce("id",!1,!0),e.Xa=new ce("className"),e.Wa=new ce("classList",!0),e.bb=new ce("dataset"),e.Jb=new ce("outerHTML"),e.sb=new ce("innerHTML"),e.tb=new ce("innerText"),e.ShadowRoot=new ce("shadowRoot"),e.Hb=new se("onload"),e.Gb=new se("onclick"),Kn[t.document.ELEMENT_NODE]=e,e.fa.zb=!0;var i=Object.getPrototypeOf(t.document.head);return e.M(i,[e.hb,e.Yb,e.Pb,e.ib,e.Zb,e.Qb,e.jb,e.$b,e.Rb,e.kb,e.ac,e.ub,e.Mb,e.Nb,e.Ab,e.gc,e.Cb,e.lb,e.mb,e.nb,e.$a],[e.Ba,e.Xa,e.Wa,e.bb,e.Jb,e.sb,e.tb,e.Gb,e.Hb,e.ShadowRoot]),e}return h(e,n),e}(qn)),le=new(function(n){function e(){var e=n.call(this,fe)||this;e.bc=new ce("style",!0);var i=Object.getPrototypeOf(t.document.head);return e.M(i,[],[e.bc]),e}return h(e,n),e}(qn)),be=new(function(n){function e(){var e=n.call(this,le)||this;e.Na=new ce("src",!1,!0),e.wb=new ce("integrity",!1,!0),te.SCRIPT=e;var i=Object.getPrototypeOf(t.document.createElement("SCRIPT"));return e.M(i,null,[e.Na,e.wb]),e}return h(e,n),e}(qn)),ve=new rt,me={},pe={},we=void 0,ye=new ot,Le=r()&amp;&amp;i()&amp;&amp;I();ye.b(Le);var Re=new ot,ge=r()&amp;&amp;i()&amp;&amp;!I();Re.b(ge);var Ne=void 0,Se=new ot,je=r()&amp;&amp;(void 0!==Ne?Ne:Ne=!!t[dt]);Se.b(je);var De=t.document.currentScript||t.document.scripts[document.scripts.length-1],Ee=t.Promise||zn,Te="&amp;ad_box_ &amp;ad_channel= &amp;ad_classid= &amp;ad_height= &amp;ad_keyword= &amp;ad_network_ &amp;ad_number= &amp;ad_type= &amp;ad_type_ &amp;ad_url= &amp;ad_zones= &amp;adbannerid=".split(" "),_e=[["iframe","google_ads_frame"],["iframe","google_ads_iframe"],["div","ADV-SLOT-"],["div","YFBMSN"],["div","google_dfp_"],["div","MarketGid"]],Ye=function(){function n(t){this.H={},this.Config=t,this.m={N:0,la:0,$:0},this.Eb=this.qb(),this.na=[],G(t)}return n.prototype.h=function(t){return this.H[t]},n.prototype.ob=function(){for(var t=[],n=[],e=0,i=Object.keys(pe);e&lt;i.length;e++){var r=i[e];me[r]||n.push(r.substring(0,100))}for(0&lt;n.length&amp;&amp;(this.H[gt]=!0,t.push(F(gt,!0,JSON.stringify(n)))),n=[],e=0,i=Object.keys(me);e&lt;i.length;e++)n.push(i[e].substring(0,100));0&lt;n.length&amp;&amp;t.push(F(kt,!0,JSON.stringify(n))),t.push(F(Ot,!0,JSON.stringify(this.m))),n=Z();for(var o in n)t.push(F(o,n[o].I,"STORED:"+JSON.stringify(n[o].J)));o=this.H,Pn=Z();for(var u in o)Pn&amp;&amp;Pn[u]?Pn[u].I===o[u]?Pn[u].J+=1:(Pn[u].I=o[u],Pn[u].J=1):Pn[u]={I:o[u],J:1};for(u in Pn)o[u]||delete Pn[u];if(u=JSON.stringify(Pn),M(Ut))try{sessionStorage._198_8424151822013404=u}catch(t){}return W(document.cookie,Jt)||(document.cookie=Jt+"=1; domain="+Xn+"; path=/"),t},n.prototype.za=function(){for(var n=[],e=new Date,i=1;6&gt;=i;i++){var r=i+":"+e.getMonth()+":"+i+":"+e.getDate()+":"+i+":"+e.getHours()%2+":"+i,o=$t+"="+i+"&amp;ad_channel=1";r="//hxyzhas.g00."+new fn(t.location.href).ioortegniamodt()+Bt+"/"+encodeURIComponent(t.btoa(r))+"/ad?"+o,n.push(r)}return n},n.prototype.qb=function(){for(var t=[],n=this.Config.iadb.icolbdaslru_k?this.Config.iadb.icolbdaslru_k.slice():this.Config.iadb.isabnoitceriderelbanesrotcetedkniltpircsde?this.za():Un.slice(),e=Jn.slice(),i=0;i&lt;this.Config.iadb.iircsdekcolbmunsrotcetedkniltp;i++)t.push(X("track",n,!1,r(),!1));for(i=0;i&lt;this.Config.iadb.isdekcolbnamregmunsrotcetedkniltpirc;i++)t.push(X("track",e,void 0,void 0,void 0));for(i=0;i&lt;this.Config.iadb.ihtnemelemunsrotcetededi;i++)t.push(P());for(i=0;i&lt;this.Config.iadb.iidekcolbmunsrotcetedgm;i++)t.push(z());return this.m.N=t.length,t},n.prototype.rb=function(){var t=[],n=this.Config.iadb.isabnoitceriderelbanesrotcetedkniltpircsde?this.za():Un.slice();0&lt;this.Config.iadb.isdekcolbnamregmunsrotcetedkniltpirc&amp;&amp;(n=n.concat(Jn));for(var e=0;e&lt;n.length;e++)t.push(X("track",n,void 0,void 0,void 0));return this.m.N+=t.length,t},n.prototype.cb=function(n){function e(t){r.m.la++,t[Gt]&amp;&amp;(r.m.$++,!r.H[Ht]&amp;&amp;r.m.$&gt;=r.Config.iadb.inoitceteddlohserht&amp;&amp;(r.H[Ht]=!0)),n(t)}function i(t,e){r.H[t]=e,n(F(t,e))}var r=this;ye.A(function(t){i(vt,t)}),Se.A(function(t){i(wt,t)}),Re.A(function(t){i(bt,t)});for(var o=0;o&lt;this.m.N;o++)this.Eb[o].then(e);this.Config.iadb.ilufelbanenoitcetedl&amp;&amp;(this.na=this.rb(),t.addEventListener("load",function(){for(var t=0;t&lt;r.na.length;t++)r.na[t].then(e)}))},n}();[Qn,Un,Jn].forEach(function(n){return n.forEach(function(n,e,i){return i[e]=t.atob(n)})});var ke=function(){function t(t,n){this.V=t,this.hc=n}return t.prototype.iulr=function(){return this.hc.url},t.prototype.j=function(){return 1223===this.V.status?204:this.V.status},t.prototype.Headers=function(){return this.V.getAllResponseHeaders()},t.prototype.iaehred=function(t){return this.V.getResponseHeader(t)},t.prototype.Error=function(){return 100&gt;this.j()||599&lt;this.j()?"Network request failed":null},t.prototype.Text=function(){return this.V.responseText},t}(),He={ab:XMLHttpRequest,Ib:XMLHttpRequest.prototype.open,Xb:XMLHttpRequest.prototype.send},Oe=F(pt,!1);t.addEventListener("message",function(t){"string"!=typeof(t=t.data)||0!==t.lastIndexOf(Pt,Pt.length+1)&amp;&amp;0!==t.lastIndexOf(Qt,Qt.length+1)||(Oe[Gt]=!0,Oe[It]=t)}),!t[at]&amp;&amp;L(at,{}),!t[st]&amp;&amp;L(st,{});var Fe=function(){function n(t){this.f={},this.eb=Date.now(),this.W=this.X=!1,this.Config=t,this.c=new Ye(t),this.f[zt]=[],this.f[Xt]=0,this.f[Gt]=!1,t.iadb.iceriderelbasidnoissesrofnoit&amp;&amp;!W(document.cookie,"_198_8424151822013404")&amp;&amp;(document.cookie="_198_8424151822013404=1; domain="+Xn+"; path=/")}return n.prototype.ia=function(){var t=this.Config.iadb.ierelbanenoitcerid;return W(document.cookie,"_198_8424151822013404")&amp;&amp;(t=!1),t},n.prototype.Kb=function(){var t=!0;try{R(this.Config.iadb.ivetatselbaira,this.X?this.Config.iadb.iolbetatseulavdekc:this.Config.iadb.ilbtonetatseulavdekco),R(this.Config.iadb.iycnetalelbairav,this.f[Xt]);var n=N(this.f,this.Config.iadb.iotelbairavlabolgskcabllacretsiger);this.X&amp;&amp;!this.c.h(wt)&amp;&amp;!this.c.h(bt)&amp;&amp;n&amp;&amp;this.ia()&amp;&amp;(this.Config.iadb.ilufelbanenoitcetedl&amp;&amp;this.f[zt].push({iytep:_t,Detected:!0}),this.Config.iadb.iyrotsihelbanenoitceriderrof&amp;&amp;this.f[zt].push({iytep:Yt,Detected:!0}),J(this.Config.iadb.itemeletdbatniopdneyr,this.f),this.W=!0,this.ma()),t=!1}catch(n){this.f[zt].push(void 0),this.da(),J(this.Config.iadb.itemeletdbatniopdneyr,this.f),this.W=!0,this.ia()&amp;&amp;this.ma(),t=!1}finally{t&amp;&amp;this.ia()&amp;&amp;this.ma()}},n.prototype.da=function(){this.Config.iadb.iyrotsihelbanenoitceriderrof&amp;&amp;this.f[zt].push({iytep:Yt,Detected:!0}),this.Config.iadb.ilufelbanenoitcetedl&amp;&amp;(this.f[zt].push({iytep:_t,Detected:!0}),this.f[zt]=this.f[zt].concat(this.c.ob()))},n.prototype.Ta=function(){var n=this,e=!1,i=this.Config.iadb.iircsdekcolbmunsrotcetedkniltp+this.Config.iadb.ihtnemelemunsrotcetededi+this.Config.iadb.iidekcolbmunsrotcetedgm+this.Config.iadb.isdekcolbnamregmunsrotcetedkniltpirc,r=this.Config.iadb.iyrotsihelbanenoitceriderrof&amp;&amp;function(){var t,e=Z(),i=n.Config.iadb.irotsihmundlohserhty;return e[Nt]&amp;&amp;e[Nt].I&amp;&amp;e[Nt].J&gt;=i&amp;&amp;(t=Nt),e[Ht]&amp;&amp;e[Ht].I&amp;&amp;e[Ht].J&gt;=i&amp;&amp;(t=t?t+":"+Ht:Ht),e[gt]&amp;&amp;e[gt].I&amp;&amp;(t=t?t+":"+gt:gt),t}();t.addEventListener("unload",function(){n.W||(n.da(),J(n.Config.iadb.itemeletdbatniopdneyr,n.f))}),this.c.cb(function(t){if(n.f[zt].push(t),e){if((t=!n.W)&amp;&amp;(t=!1,e)){var o=n.c.m;o.la!==o.N||void 0===n.c.h(mt)||n.Config.iadb.ilufelbanenoitcetedl&amp;&amp;(void 0===n.c.h(Et)||void 0===n.c.h(St)||void 0===n.c.h(jt)||void 0===n.c.h(Dt)||void 0===n.c.h(Nt)||void 0===n.c.h(gt)||void 0===n.c.h(kt))||(t=!0)}t&amp;&amp;(n.da(),J(n.Config.iadb.itemeletdbatniopdneyr,n.f),n.W=!0)}else{t=n.c.m,o=n.Config.iadb.inoitceteddlohserht;var u=void 0!==n.c.h(vt)&amp;&amp;void 0!==n.c.h(wt)&amp;&amp;void 0!==n.c.h(bt);!0===n.c.h(vt)||!0===n.c.h(wt)||!0===n.c.h(bt)||t.$&gt;=o||r&amp;&amp;u?(r&amp;&amp;n.f[zt].push(F(Ft,!0,r)),t=Mt):t=i===t.la&amp;&amp;t.$&lt;o&amp;&amp;!1===n.c.h(vt)?Wt:Zt,t!==Zt&amp;&amp;(n.X=t===Mt,n.f[Gt]=n.X,n.f[Xt]=Date.now()-n.eb,n.Kb(),e=!0)}})},n.prototype.ma=function(){p()},n}();if(t===top&amp;&amp;!new RegExp(Ct,"i").test(t.location.pathname)&amp;&amp;Cn.iadb.idelbanenoitcete){var Me=function(){var t=new Fe(Cn);$(),t.Ta()},We=Cn.iadb.ietedtratsemitnoitc;We?Number.isInteger(We)?setTimeout(Me,Cn.iadb.ietedtratsemitnoitc):t.addEventListener(We,Me):Me()}}();try{t.INSTART.Init(null)}catch(t){}}}(window);
+  </script>
+  <script type="text/javascript">
+   // Generate page 3 variation w/ K
+var chosenVariation = Math.floor(Math.random() * 3);
+
+window.isMobileResponsive = false;
+
+if (Math.max(document.documentElement.clientHeight, window.innerHeight || 0) &lt; 800) {
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		var element = document.getElementById("cdm-zone-06");
+		if (element) {
+			element.parentNode.removeChild(element);
+		}
+	});
+}
+
+window.factorem = window.factorem || {};
+window.factorem.slotSizes =  [
+	[[728,90],[980,150],[980,250],[970,150],[970,250]],
+	[[300,250],[300,600]],
+	[[300,250]],
+	[[728,90]],
+	[],
+	[[300,250]],
+	[],
+	[]
+];
+// AB Testing
+var script = document.createElement('script');
+var tstamp = new Date();
+script.id = 'factorem';
+if (chosenVariation == 0) {
+	script.src = 'https://cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?misc=' + tstamp.getTime();
+} else if (chosenVariation == 1) {
+	script.src = 'https://cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?misc=' + tstamp.getTime();
+} else {
+	script.src = 'https://cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js?misc=' + tstamp.getTime();
+}
+script.async = true;
+script.type = 'text/javascript';
+document.head.appendChild(script);
+
+//Remove Sekindo weirdness.
+setTimeout(function() {
+	if ("undefined" != typeof b2) {
+		var element = document.getElementById(b2);
+		setTimeout(function() {
+			element.parentNode.innerHTML = '&lt;div id="' + b2 + '"&gt;&lt;/div&gt;'
+		}, 5000)
+	}
+}, 20000);
+setTimeout(function() {
+	if ("undefined" != typeof b3) {
+		var element = document.getElementById(b3);
+		setTimeout(function() {
+			element.parentNode.innerHTML = '&lt;div id="' + b3 + '"&gt;&lt;/div&gt;'
+		}, 5000)
+	}
+}, 20000);
+setTimeout(function() {
+	if ("undefined" != typeof b6) {
+		var element = document.getElementById(b6);
+		setTimeout(function() {
+			element.parentNode.innerHTML = '&lt;div id="' + b6 + '"&gt;&lt;/div&gt;'
+		}, 5000)
+	}
+}, 20000);
+  </script>
+  <!-- Google Tag Manager K -->
+  <script type="text/javascript">
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NR933TZ');
+  </script>
+  <!-- End Google Tag Manager K -->
+  <script type="text/javascript">
+   (function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}
+
+			, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+		ga('create', 'UA-35871056-4', 'auto', 'tracker0', []);
+		ga('create', 'UA-35871056-81', 'auto', 'tracker1', []);
+		ga('tracker0.send', 'pageview');
+
+		if (window.cdnprovider) {
+			ga(
+				'tracker1.send',
+				'pageview',
+				{
+					'dimension1':  window.cdnprovider
+				}
+			);
+		} else {
+			ga('tracker1.send', 'pageview');
+		}
+  </script>
+  <div id="netbar">
+   <div class="netbar-flex">
+    <div class="netbar-box left logo">
+     <a href="http://www.gamepedia.com">
+      Gamepedia
+     </a>
+    </div>
+    <div class="netbar-box left">
+     <a href="http://support.gamepedia.com/">
+      Help
+     </a>
+    </div>
+    <div class="netbar-box left live-on-twitch">
+     <span id="lotNbButton" class="lot-nb-button">
+     </span>
+    </div>
+    <div class="netbar-spacer">
+     &nbsp;
+    </div>
+    <div class="netbar-box right">
+     <a href="/index.php?title=Special:UserLogin&amp;returnto=Feats" id="login-link" class="gold-link">
+      Sign In
+     </a>
+    </div>
+    <div class="netbar-box right">
+     <a href="/index.php?title=Special:CreateAccount&amp;returnto=Feats" id="register-link" class="gold-link">
+      Register
+     </a>
+    </div>
+   </div>
+  </div>
+  <div id="global-wrapper" class="with-siderail">
+   <div id="mw-page-base" class="noprint">
+   </div>
+   <div id="mw-head-base" class="noprint">
+   </div>
+   <div id="pageWrapper">
+    <div id="content" class="mw-body" role="main" itemprop="articleBody">
+     <a id="top">
+     </a>
+     <!-- ATF Leaderboard -->
+     <div id="atflb">
+      <div id="cdm-zone-01">
+      </div>
+     </div>
+     <!-- /ATF Leaderboard -->
+     <div class="mw-indicators mw-body-content">
+     </div>
+     <h1 id="firstHeading" class="firstHeading" lang="en" itemprop="name">
+      Feats
+     </h1>
+     <div id="bodyContent" class="mw-body-content">
+      <div id="siteSub">
+       From Pathfinder: Kingmaker Wiki
+      </div>
+      <div id="contentSub">
+      </div>
+      <div id="jump-to-nav" class="mw-jump">
+       Jump to:
+       <a href="#mw-head">
+        navigation
+       </a>
+       ,
+       <a href="#p-search">
+        search
+       </a>
+      </div>
+
+      <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+       <p>
+        <b>
+         Feats
+        </b>
+        are special abilities of each character, further setting them apart from comparable builds. Feats often have a number of pre-requisites that must be met in order to select them during level ups. How often a character is allowed to choose a new Feat depends on his Class.
+       </p>
+       <h2>
+        <span class="mw-headline" id="Combat_Maneuver_Feats">
+         Combat Maneuver Feats
+        </span>
+        <span class="mw-editsection">
+         <span class="mw-editsection-bracket">
+          [
+         </span>
+         <a href="/index.php?title=Feats&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edit section: Combat Maneuver Feats">
+          edit
+         </a>
+         <span class="mw-editsection-divider">
+          |
+         </span>
+         <a href="/index.php?title=Feats&amp;action=edit&amp;section=1" title="Edit section: Combat Maneuver Feats">
+          edit source
+         </a>
+         <span class="mw-editsection-bracket">
+          ]
+         </span>
+        </span>
+       </h2>
+       <p>
+        Combat Maneuver Feats grant Combat Maneuver Abilities that the player can choose to use actively in fights.
+       </p>
+       <p>
+        →
+        <a href="/Combat_Maneuvers" title="Combat Maneuvers">
+         Combat Maneuvers
+        </a>
+       </p>
+       <h2>
+        <span class="mw-headline" id="All_Feats">
+         All Feats
+        </span>
+        <span class="mw-editsection">
+         <span class="mw-editsection-bracket">
+          [
+         </span>
+         <a href="/index.php?title=Feats&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edit section: All Feats">
+          edit
+         </a>
+         <span class="mw-editsection-divider">
+          |
+         </span>
+         <a href="/index.php?title=Feats&amp;action=edit&amp;section=2" title="Edit section: All Feats">
+          edit source
+         </a>
+         <span class="mw-editsection-bracket">
+          ]
+         </span>
+        </span>
+       </h2>
+       <table class="wikitable mw-collapsible">
+        <tr>
+         <th>
+          Name
+         </th>
+         <th>
+          Prerequisites
+         </th>
+         <th>
+          Effect
+         </th>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Ability_Focus" title="Ability Focus">
+           Ability Focus
+          </a>
+         </th>
+         <td>
+          Bomb or Arcane Bombs
+         </td>
+         <td>
+          Choose one of the creature's special attacks. Add +2 to the DC for all saving throws against the special attack on which the creature focuses.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Ability_Focus_%E2%80%94_Bombs" title="Ability Focus — Bombs">
+           Ability Focus — Bombs
+          </a>
+         </th>
+         <td>
+          Bomb or Arcane Bombs
+         </td>
+         <td>
+          Add +2 to the DC for all saving throws against your bombs.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Accomplished_Sneak_Attacker" title="Accomplished Sneak Attacker">
+           Accomplished Sneak Attacker
+          </a>
+         </th>
+         <td>
+          Sneak Attack 1
+         </td>
+         <td>
+          Your sneak attack damage increases by 1d6.
+          <p>
+           Your number of sneak attack dice cannot exceed half your character level (rounded up).
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Agile_Maneuvers" title="Agile Maneuvers">
+           Agile Maneuvers
+          </a>
+          †
+         </th>
+         <td>
+          Bull Rush or Dirty Trick or Disarm or Sunder Armor or Trip
+         </td>
+         <td>
+          You've learned to use your quickness in place of brute force when performing combat maneuvers.
+          <p>
+           Benefit: You add your Dexterity bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus instead of your Strength bonus.
+Normal: You add your Strength bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Aldori_Dueling_Mastery" title="Aldori Dueling Mastery">
+           Aldori Dueling Mastery
+          </a>
+          †
+         </th>
+         <td>
+          DEX 13, Weapon Finesse, Proficiencies: Dueling Swords, Weapon Focus (Dueling Swords)
+         </td>
+         <td>
+          You have mastered the impenetrable fighting style.
+          <p>
+           You gain a +2 bonus on initiative checks as long as you start combat with a dueling sword. As long as you wield only a single dueling sword in one hand (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons), you gain a +2 shield bonus to your AC.
+Although the dueling sword deals slashing damage, you treat it as if it were also a piercing weapon when determining the effects of weapons used by a duelist
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Alertness" title="Alertness">
+           Alertness
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You get a +2 bonus on Perception skill checks. If you have 10 or more ranks in that skill, the bonus increases to +4.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Allied_Spellcaster" title="Allied Spellcaster">
+           Allied Spellcaster
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          With the aid of an ally, you are skilled at piercing the protections of other creatures with your spells.
+          <p>
+           Benefit: Whenever you are adjacent to an ally who also has this feat, you receive a +2 bonus on concentration checks and level checks made to overcome spell resistance.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Arcane_Armor_Mastery" title="Arcane Armor Mastery">
+           Arcane Armor Mastery
+          </a>
+          †
+         </th>
+         <td>
+          Arcane Armor Training
+         </td>
+         <td>
+          You have mastered the ability to cast spells while wearing armor.
+          <p>
+           Benefit: Reduce the arcane spell failure chance due to the armor you are wearing by 20% for any spells you cast. This bonus replaces, and does not stack with, the bonus granted by Arcane Armor Training.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Arcane_Armor_Training" title="Arcane Armor Training">
+           Arcane Armor Training
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You have learned how to cast spells while wearing armor.
+          <p>
+           Benefit: Reduce the arcane spell failure chance due to the armor you are wearing by 10% for any spells you cast.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Arcane_Strike" title="Arcane Strike">
+           Arcane Strike
+          </a>
+          †
+         </th>
+         <td>
+          Arcane spellcasting
+         </td>
+         <td>
+          Spending a swift action each round, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Armor_Focus" title="Armor Focus">
+           Armor Focus
+          </a>
+          †
+         </th>
+         <td>
+          BAB 1
+         </td>
+         <td>
+          Your familiarity with a specific type of armor increases the amount of protection you receive from it.
+          <p>
+           Benefit(s): Select one type of armor. The AC bonus granted by the selected armor increases by 1.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Armor_Proficiency_(Light_Armor)" title="Armor Proficiency (Light Armor)">
+           Armor Proficiency (Light Armor)
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You become proficient with Light Armor.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Armor_Proficiency_(Medium_Armor)" title="Armor Proficiency (Medium Armor)">
+           Armor Proficiency (Medium Armor)
+          </a>
+          †
+         </th>
+         <td>
+          Armor Proficiency (Light Armor)
+         </td>
+         <td>
+          You become proficient with Medium Armor.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Armor_Proficiency_(Heavy_Armor)" title="Armor Proficiency (Heavy Armor)">
+           Armor Proficiency (Heavy Armor)
+          </a>
+          †
+         </th>
+         <td>
+          Armor Proficiency (Medium Armor)
+         </td>
+         <td>
+          You become proficient with Heavy Armor.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Augment_Summoning" title="Augment Summoning">
+           Augment Summoning
+          </a>
+         </th>
+         <td>
+          Spell Focus (Conjuration)
+         </td>
+         <td>
+          Each creature you conjure with any summon spell gains a +4 enhancement bonus to Strength and Constitution for the duration of the spell that summoned it.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Back_to_Back" title="Back to Back">
+           Back to Back
+          </a>
+          †
+         </th>
+         <td>
+          Perception 3
+         </td>
+         <td>
+          Your ally's eyes are your own, and yours are his.
+          <p>
+           Benefit: While you are flanked and adjacent to an ally with this feat, you receive a +2 circumstance bonus to AC against attacks from opponents flanking you.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Bashing_Finish" title="Bashing Finish">
+           Bashing Finish
+          </a>
+          †
+         </th>
+         <td>
+          Shield Bash
+         </td>
+         <td>
+          You follow a powerful blow from your weapon with an opportunistic bash from your shield.
+          <p>
+           Benefit: Whenever you score a critical hit with a melee weapon, you can make a shield bash attack against the same target using the same bonus as a free action.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Blind_Fight" title="Blind Fight">
+           Blind Fight
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          In melee, every time you miss because of concealment, you can reroll your miss chance percentile roll one time to see if you actually hit.
+          <p>
+           An invisible attacker gets no advantages related to hitting you in melee. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible. The invisible attacker's bonuses do still apply for ranged attacks, however.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Blinding_Critical" title="Blinding Critical">
+           Blinding Critical
+          </a>
+          †
+         </th>
+         <td>
+          Critical Focus, BAB 15
+         </td>
+         <td>
+          Whenever you score a critical hit, your opponent is permanently blinded. A successful Fortitude save reduces this to dazzled for 1d4 rounds. The DC of this Fortitude save is equal to 10 + your base attack bonus. This feat has no effect on creatures that do not rely on eyes for sight or creatures with more than two eyes. Blindness can be cured by heal, regenerate, remove blindness, or similar abilities.
+          <p>
+           Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Boon_Companion" title="Boon Companion">
+           Boon Companion
+          </a>
+         </th>
+         <td>
+          Animal Companion
+         </td>
+         <td>
+          Your bond with your animal companion is unusually close.
+          <p>
+           The abilities of your animal companion are calculated as though your class were 4 levels higher, to a maximum effective level equal to your character level.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Bull_Rush" title="Bull Rush">
+           Bull Rush
+          </a>
+          †
+         </th>
+         <td>
+          Power Attack, STR 13
+         </td>
+         <td>
+          This feat gives the character an ability to perform the bull rush combat maneuver. It also grants a +2 bonus to CMB when performing this maneuver, and a +2 bonus to CMD when defending against it.
+          <p>
+           A bull rush attempts to push an opponent straight back without doing any harm. If your combat maneuver is successful, your target is pushed back 5 feet. For every 5 by which your attack exceeds your opponent's CMD you can push the target back an additional 5 feet.
+An enemy being moved by a bull rush does not provoke an attack of opportunity because of the movement unless you possess the Greater Bull Rush feat. You cannot bull rush a creature into a square that is occupied by a solid object or obstacle.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Cautious_Fighter" title="Cautious Fighter">
+           Cautious Fighter
+          </a>
+         </th>
+         <td>
+          Halfling
+         </td>
+         <td>
+          When fighting defensively, your dodge bonus to AC increases by 2.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Cleave" title="Cleave">
+           Cleave
+          </a>
+          †
+         </th>
+         <td>
+          Power Attack, STR 13
+         </td>
+         <td>
+          As a standard action, you can make a single attack at your full base attack bonus against a foe within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against a foe that is adjacent to the first and also within reach. You can only make one additional attack per round with this feat. When you use this feat, you take a –2 penalty to your Armor Class until your next turn.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Cleaving_Finish" title="Cleaving Finish">
+           Cleaving Finish
+          </a>
+          †
+         </th>
+         <td>
+          Power Attack, Cleave, STR 13
+         </td>
+         <td>
+          If you make a melee attack, and your target drops to 0 or fewer hit points as a result of your attack, you can make another melee attack using your highest base attack bonus against another opponent within reach. You can make only one extra attack per round with this feat.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Clustered_Shots" title="Clustered Shots">
+           Clustered Shots
+          </a>
+          †
+         </th>
+         <td>
+          Point-Blank Shot, Precise Shot, BAB 6
+         </td>
+         <td>
+          You take a moment to carefully aim your shots, causing them all to strike nearly the same spot.
+          <p>
+           Benefit: When you use a full attack to make multiple ranged weapon attacks against the same opponent, total the damage from all hits before applying that opponent's damage reduction.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Combat_Casting" title="Combat Casting">
+           Combat Casting
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You are adept at spellcasting when threatened or distracted.
+          <p>
+           You get a +4 bonus on concentration checks made to cast a spell or use a spell-like ability.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Combat_Expertise" title="Combat Expertise">
+           Combat Expertise
+          </a>
+          †
+         </th>
+         <td>
+          INT 13
+         </td>
+         <td>
+          You can choose to take a –1 penalty on melee attack rolls and combat maneuver checks to gain a +1 dodge bonus to your Armor Class. When your base attack bonus reaches +4, and every +4 thereafter, the penalty increases by –1 and the dodge bonus increases by +1. You can only choose to use this feat when you declare that you are making an attack or a full attack with a melee weapon. The effects of this feat last until your next turn.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Combat_Mobility" title="Combat Mobility">
+           Combat Mobility
+          </a>
+          †
+         </th>
+         <td>
+          DEX 13, Dodge
+         </td>
+         <td>
+          You can easily move through a dangerous melee.
+          <p>
+           Benefit: You get a +4 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. A
+           <a href="/Condition" title="Condition">
+            condition
+           </a>
+           that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.
+Dodge bonuses stack with each other, unlike most types of bonuses.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Combat_Reflexes" title="Combat Reflexes">
+           Combat Reflexes
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus. With this feat, you may also make attacks of opportunity while flat-footed.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Coordinated_Defense" title="Coordinated Defense">
+           Coordinated Defense
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus to your Combat Maneuver Defense. This bonus increases to +4 if the creature attempting the maneuver is larger than both you and your ally.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Coordinated_Maneuvers" title="Coordinated Maneuvers">
+           Coordinated Maneuvers
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You are skilled at working with your allies to perform dangerous combat maneuvers.
+          <p>
+           Benefit: Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus on all combat maneuver checks. This bonus increases to +4 when attempting to break free from a grapple.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Cornugon_Smash" title="Cornugon Smash">
+           Cornugon Smash
+          </a>
+          †
+         </th>
+         <td>
+          Persuasion 6, Power Attack
+         </td>
+         <td>
+          When you damage an opponent with a Power Attack, you may make an immediate Persuasion (intimidate) check as a free action to attempt to demoralize your opponent.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Crane_Riposte" title="Crane Riposte">
+           Crane Riposte
+          </a>
+          †
+         </th>
+         <td>
+          Dodge, Improved Unarmed Strike, Crane Style, Crane Wing,
+          <a href="/Monk" title="Monk">
+           Monk
+          </a>
+          7 or BAB 8
+         </td>
+         <td>
+          You take only a –1 penalty on attack rolls for fighting defensively.
+          <p>
+           Whenever you lose the dodge bonus from Crane Wing because an attack missed you by 4 or less, the enemy provokes an attack of opportunity.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Crane_Style" title="Crane Style">
+           Crane Style
+          </a>
+          †
+         </th>
+         <td>
+          Dodge, Improved Unarmed Strike,
+          <p>
+           <a href="/Monk" title="Monk">
+            Monk
+           </a>
+           1 or BAB 2
+          </p>
+         </td>
+         <td>
+          You take only a –2 penalty on attack rolls for fighting defensively. While using this style and fighting defensively, you gain an additional +1 dodge bonus to your Armor Class.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Crane_Wing" title="Crane Wing">
+           Crane Wing
+          </a>
+          †
+         </th>
+         <td>
+          Dodge, Improved Unarmed Strike, Crane Style,
+          <a href="/Monk" title="Monk">
+           Monk
+          </a>
+          5 or BAB 5
+         </td>
+         <td>
+          When fighting defensively with at least one hand free, you gain a +4 dodge bonus to AC against melee attacks. If a melee attack misses you by 4 or less, you lose this dodge bonus until the beginning of your next turn.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Critical_Focus" title="Critical Focus">
+           Critical Focus
+          </a>
+          †
+         </th>
+         <td>
+          BAB 9
+         </td>
+         <td>
+          You are trained in the art of causing pain. You receive a +4 circumstance bonus on attack rolls made to confirm critical hits.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Critical_Mastery" title="Critical Mastery">
+           Critical Mastery
+          </a>
+          †
+         </th>
+         <td>
+          <a href="/Fighter" title="Fighter">
+           Fighter
+          </a>
+          14, Critical Focus, Has one of the following features:(Blinding Critical, Exhausting Critical, Sickening Critical, Staggering Critical, Tiring Critical)
+         </td>
+         <td>
+          When you score a critical hit, you can apply the effects of two critical feats in addition to the damage dealt.
+          <p>
+           Normal: You can only apply the effects of one critical feat to a given critical hit in addition to the damage dealt.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Crushing_Blow" title="Crushing Blow">
+           Crushing Blow
+          </a>
+          †
+         </th>
+         <td>
+          Improved Unarmed Strike, Stunning Fist
+         </td>
+         <td>
+          You can make a Stunning Fist attempt as a full-round action. If successful, instead of stunning your target, you reduce the target's AC by an amount equal to your Wisdom modifier for 1 minute. This penalty does not stack with other penalties applied due to Crushing Blow.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Dazzling_Display" title="Dazzling Display">
+           Dazzling Display
+          </a>
+          †
+         </th>
+         <td>
+          Weapon Focus
+         </td>
+         <td>
+          Your skill with your favored weapon can frighten enemies.
+          <p>
+           Benefit: While wielding the weapon in which you have Weapon Focus, you can perform a bewildering show of prowess as a full-round action. Make a Persuasion (intimidate) check to demoralize all foes within 30 feet who can see your display.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Deadly_Aim" title="Deadly Aim">
+           Deadly Aim
+          </a>
+          †
+         </th>
+         <td>
+          DEX 13, BAB 1
+         </td>
+         <td>
+          You can choose to take a –1 penalty on all ranged attack rolls to gain a +2 bonus on all ranged damage rolls.
+          <p>
+           When your base attack bonus reaches +4, and every +4 thereafter, the penalty increases by –1 and the bonus to damage increases by +2. You must choose to use this feat before making an attack roll and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Deceitful" title="Deceitful">
+           Deceitful
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You get a +2 bonus on all Persuasion and Trickery skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Defensive_Combat_Training" title="Defensive Combat Training">
+           Defensive Combat Training
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You excel at defending yourself from all manner of combat maneuvers.
+          <p>
+           Benefit: You treat your total Hit Dice as your base attack bonus when calculating your Combat Maneuver Defense.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Deflect_Arrows" title="Deflect Arrows">
+           Deflect Arrows
+          </a>
+          †
+         </th>
+         <td>
+          Improved Unarmed Strike, DEX 13
+         </td>
+         <td>
+          You must have at least one hand free (holding nothing) to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon, you may deflect it so that you take no damage from it. You must be aware of the attack and not flat-footed. Attempting to deflect a ranged attack doesn't count as an action.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Deft_Hands" title="Deft Hands">
+           Deft Hands
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You get a +2 bonus on all Trickery and Use Magic Device skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Diehard" title="Diehard">
+           Diehard
+          </a>
+         </th>
+         <td>
+          Currently none, Books say that the prerequisite is Endurance, Game says that it is Orc Ferocity despite that being true
+         </td>
+         <td>
+          You are especially hard to kill. When your hit point total is below 0 but you are not killed, you can fight on for 1 more round as if disabled. At the end of your next turn, unless brought to above 0 hit points, you immediately fall unconscious.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Dirty_Trick" title="Dirty Trick">
+           Dirty Trick
+          </a>
+          †
+         </th>
+         <td>
+          Combat Expertise, INT 13
+         </td>
+         <td>
+          This feat gives the character an ability to perform the dirty trick combat maneuver. It also grants a +2 bonus to CMB when performing this maneuver, and a +2 bonus to CMD when defending against it.
+          <p>
+           You can attempt to hinder a foe in melee as a standard action. If your attack is successful, the target takes a penalty. The penalty is limited to one of the following conditions: blinded, entangled, or sickened.
+This
+           <a href="/Condition" title="Condition">
+            condition
+           </a>
+           lasts for 1 round. For every 5 by which your attack exceeds your opponent's CMD, the penalty lasts 1 additional round.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Disarm" title="Disarm">
+           Disarm
+          </a>
+          †
+         </th>
+         <td>
+          Combat Expertise, INT 13
+         </td>
+         <td>
+          You can attempt to disarm a foe in melee as a standard action. If your combat maneuver is successful, the target cannot use his weapons for 1 round.
+          <p>
+           For every 5 by which your attack exceeds your opponent's CMD, the disarmed
+           <a href="/Condition" title="Condition">
+            condition
+           </a>
+           lasts 1 additional round.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Dodge" title="Dodge">
+           Dodge
+          </a>
+          †
+         </th>
+         <td>
+          DEX 13
+         </td>
+         <td>
+          You gain a +1 dodge bonus to your AC. A
+          <a href="/Condition" title="Condition">
+           condition
+          </a>
+          that makes you lose your Dex bonus to AC also makes you lose the benefits of this feat.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Double_Slice" title="Double Slice">
+           Double Slice
+          </a>
+          †
+         </th>
+         <td>
+          DEX 15, Two-Weapon Fighting
+         </td>
+         <td>
+          Your off-hand weapon while dual-wielding strikes with greater power.
+          <p>
+           Benefit: Add your Strength bonus to damage rolls made with your off-hand weapon.
+Normal: You normally add only half of your Strength modifier to damage rolls made with a weapon wielded in your off-hand.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Dragon_Ferocity" title="Dragon Ferocity">
+           Dragon Ferocity
+          </a>
+          †
+         </th>
+         <td>
+          Improved Unarmed Strike, Mobility 5, STR 15, Dragon Style, Stunning Fist
+         </td>
+         <td>
+          You attack with the strength of a dragon, your telling blows striking fear into your enemies.
+          <p>
+           While using Dragon Style, increase your Strength bonus on unarmed strike damage rolls by an additional one-half your Strength bonus, to a total of double your Strength bonus on the first attack and 1.5 times your Strength bonus on the other attacks.
+When you score a critical hit or a successful Stunning Fist attempt against an opponent while using this style, that opponent is also shaken for a number of rounds equal to 1d4 + your Strength bonus.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Dragon_Style" title="Dragon Style">
+           Dragon Style
+          </a>
+          †
+         </th>
+         <td>
+          Improved Unarmed Strike, Mobility 3 or STR 15
+         </td>
+         <td>
+          You call upon the spirit of dragonkind, gaining greater resilience, mobility, and fierceness from the blessing of these great beings.
+          <p>
+           While using this style, you gain a +2 bonus on saving throws against sleep effects, paralysis effects, and stunning effects. Further, you can add 1.5 times your Strength bonus on the damage roll for your first unarmed strike on a given round.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Dreadful_Carnage" title="Dreadful Carnage">
+           Dreadful Carnage
+          </a>
+          †
+         </th>
+         <td>
+          Power Attack, Dazzling Display, STR 15, BAB 11
+         </td>
+         <td>
+          Slaying an enemy demoralizes your other nearby foes.
+          <p>
+           Benefit: Whenever you reduce an enemy to 0 or fewer hit points, you can make a Persuasion (to intimidate) check to demoralize all enemies within 30 feet as a free action. Enemies that cannot see both you and the enemy you reduced to 0 or fewer hit points are unaffected.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Elemental_Focus" title="Elemental Focus">
+           Elemental Focus
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Your spells of a certain element are more difficult to resist.
+          <p>
+           Benefit: Choose one energy type (acid, cold, electricity, or fire). Add +1 to the Difficulty Class for all saving throws against spells that deal damage of the energy type you select.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Endurance" title="Endurance">
+           Endurance
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          Harsh conditions or long exertions do not easily tire you.
+          <p>
+           Benefit: You gain +2 bonus on Athletics checks and +4 bonus on Fortitude saves against fatigue and exhaustion.
+You may sleep in light or medium armor without becoming fatigued.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Exhausting_Critical" title="Exhausting Critical">
+           Exhausting Critical
+          </a>
+          †
+         </th>
+         <td>
+          Critical Focus, Tiring Critical, BAB 15
+         </td>
+         <td>
+          When you score a critical hit on a foe, your target immediately becomes exhausted. This feat has no effect on exhausted creatures.
+          <p>
+           Special: You can only apply the effects of one critical feat to a given critical hit unless you possess the Critical Mastery feat.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Exotic_Weapon_Proficiency" title="Exotic Weapon Proficiency">
+           Exotic Weapon Proficiency
+          </a>
+          †
+         </th>
+         <td>
+          BAB 1, Martial Weapon Proficiency
+         </td>
+         <td>
+          Choose one type of exotic weapon, such as the dueling sword or sai. You understand how to use that type of exotic weapon in combat, and can utilize any special tricks or qualities that exotic weapon might allow.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Extra_Arcane_Pool" title="Extra Arcane Pool">
+           Extra Arcane Pool
+          </a>
+         </th>
+         <td>
+          Arcane Pool or Eldritch Pool
+         </td>
+         <td>
+          You can gain this feat multiple times. Its effects stack, granting you an increase to your arcane pool each time you take this feat.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Extra_Bane" title="Extra Bane">
+           Extra Bane
+          </a>
+         </th>
+         <td>
+          Bane
+         </td>
+         <td>
+          You can use your bane ability for 3 additional rounds per day.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Extra_Bombs" title="Extra Bombs">
+           Extra Bombs
+          </a>
+         </th>
+         <td>
+          Bomb
+         </td>
+         <td>
+          You can throw four additional bombs per day.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Extra_Channel" title="Extra Channel">
+           Extra Channel
+          </a>
+         </th>
+         <td>
+          Channel Energy
+         </td>
+         <td>
+          You can channel energy two additional times per day.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Extra_Lay_On_Hands" title="Extra Lay On Hands">
+           Extra Lay On Hands
+          </a>
+         </th>
+         <td>
+          Lay on Hands
+         </td>
+         <td>
+          Benefit: You can use your lay on hands ability two additional times per day.
+          <p>
+           Special: You can gain Extra Lay On Hands multiple times. Its effects stack.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Extra_Performance" title="Extra Performance">
+           Extra Performance
+          </a>
+         </th>
+         <td>
+          Deadly Performance
+         </td>
+         <td>
+          You can use bardic performance for 6 additional rounds per day.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Extra_Rage" title="Extra Rage">
+           Extra Rage
+          </a>
+         </th>
+         <td>
+          Rage
+         </td>
+         <td>
+          Benefit: You can rage for 6 additional rounds per day.
+          <p>
+           Special: You can gain Extra Rage multiple times. Its effects stack.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Fencing_Grace" title="Fencing Grace">
+           Fencing Grace
+          </a>
+          †
+         </th>
+         <td>
+          Weapon Focus (Appropriate Weapon)r, Weapon Finesse. DEX 13
+         </td>
+         <td>
+          Your dashing style and fluid fencing forms allow you to use agility rather than brute force to fell your foes.
+          <p>
+           Benefits: Choose one kind of light or one-handed piercing weapon (such as the rapier). When wielding your chosen weapon one-handed, you can add your Dexterity modifier instead of your Strength modifier to that weapon's damage. You do not gain this benefit while fighting with two weapons or using flurry of blows, or anytime another hand is otherwise occupied.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Fury%27s_Fall" title="Fury's Fall">
+           Fury's Fall
+          </a>
+          †
+         </th>
+         <td>
+          Trip
+         </td>
+         <td>
+          You can use strength and agility to send foes crashing to the ground.
+          <p>
+           Benefit: When making a trip attack, add your Dexterity bonus to your CMB.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Great_Cleave" title="Great Cleave">
+           Great Cleave
+          </a>
+          †
+         </th>
+         <td>
+          Cleave, STR 13
+         </td>
+         <td>
+          As a standard action, you can make a single attack at your full base attack bonus against a foe within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against a foe that is adjacent to the previous foe and also within reach. If you hit, you can continue to make attacks against foes adjacent to the previous foe, so long as they are within your reach. You cannot attack an individual foe more than once during this attack action. When you use this feat, you take a –2 penalty to your Armor Class until your next turn.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Great_Fortitude" title="Great Fortitude">
+           Great Fortitude
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Gives a +2 bonus to fortitude saves
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Blind_Fight" title="Greater Blind Fight">
+           Greater Blind Fight
+          </a>
+          †
+         </th>
+         <td>
+          Perception 15, Improved Blind Fight
+         </td>
+         <td>
+          Your melee attacks ignore the miss chance for less than total concealment, and you treat opponents with total concealment as if they had normal concealment (20% miss chance instead of 50%). You may still reroll a miss chance percentile roll as normal.
+          <p>
+           If you successfully pinpoint an invisible or hidden attacker, that attacker gets no advantages related to hitting you with ranged attacks, regardless of the range. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Bull_Rush" title="Greater Bull Rush">
+           Greater Bull Rush
+          </a>
+          †
+         </th>
+         <td>
+          Bull Rush, STR 15, Power Attack, BAB 6
+         </td>
+         <td>
+          You receive a +2 bonus on checks made to bull rush a foe. This bonus stacks with the bonus granted by Bull Rush. Whenever you bull rush an opponent, his movement provokes attacks of opportunity from you and all of your allies.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Dirty_Trick" title="Greater Dirty Trick">
+           Greater Dirty Trick
+          </a>
+          †
+         </th>
+         <td>
+          Dirty Trick, INT 13, Combat Expertise, BAB 6
+         </td>
+         <td>
+          You receive a +2 bonus on checks made to attempt a dirty trick. This bonus stacks with the bonus granted by Dirty Trick. Whenever you successfully perform a dirty trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target's CMD.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Disarm" title="Greater Disarm">
+           Greater Disarm
+          </a>
+          †
+         </th>
+         <td>
+          Disarm, INT 13, Combat Expertise, BAB 6
+         </td>
+         <td>
+          You receive a +2 bonus on checks made to attempt a disarm. This bonus stacks with the bonus granted by Disarm. Whenever you successfully perform a disarm, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target's CMD.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Elemental_Focus" title="Greater Elemental Focus">
+           Greater Elemental Focus
+          </a>
+         </th>
+         <td>
+          Elemental Focus
+         </td>
+         <td>
+          Choose an energy type to which you have already applied the Elemental Focus feat. Any spells you cast of this energy type are very hard to resist. Add +1 to the Difficulty Class for all saving throws against spells that deal damage of the energy type you select. This bonus stacks with the bonus from Elemental Focus.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Penetrating_Strike" title="Greater Penetrating Strike">
+           Greater Penetrating Strike
+          </a>
+          †
+         </th>
+         <td>
+          <a href="/Fighter" title="Fighter">
+           Fighter
+          </a>
+          16, Weapon Focus, Penetrating Strike
+         </td>
+         <td>
+          Your attacks made with weapons selected with Weapon Focus ignore up to 10 points of damage reduction.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Shield_Focus" title="Greater Shield Focus">
+           Greater Shield Focus
+          </a>
+          †
+         </th>
+         <td>
+          <a href="/Fighter" title="Fighter">
+           Fighter
+          </a>
+          8, Shield Focus, Proficiencies:( Light Shield Proficiency, Heavy Shield Proficiency, Buckler Proficiency)
+         </td>
+         <td>
+          You are skilled at deflecting blows with your shield.
+          <p>
+           Benefit: Increase the AC bonus granted by any shield you are using by 1. This bonus stacks with the bonus granted by Shield Focus.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Spell_Focus" title="Greater Spell Focus">
+           Greater Spell Focus
+          </a>
+         </th>
+         <td>
+          Spell Focus
+         </td>
+         <td>
+          Choose a school of magic to which you have already applied the Spell Focus feat. Any spells you cast of this school are very hard to resist.
+          <p>
+           Benefit: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select. This bonus stacks with the bonus from Spell Focus.
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new school to which you already have applied the Spell Focus feat.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Spell_Penetration" title="Greater Spell Penetration">
+           Greater Spell Penetration
+          </a>
+         </th>
+         <td>
+          Spell Penetration
+         </td>
+         <td>
+          Your spells break through spell resistance much more easily than most.
+          <p>
+           You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature's spell resistance. This bonus stacks with the one from Spell Penetration.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Sunder_Armor" title="Greater Sunder Armor">
+           Greater Sunder Armor
+          </a>
+          †
+         </th>
+         <td>
+          Sunder Armor, STR 13, Power Attack, BAB 6
+         </td>
+         <td>
+          You receive a +2 bonus on checks made to attempt a sunder. This bonus stacks with the bonus granted by Sunder Armor. Whenever you successfully perform a sunder, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target's CMD.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Trip" title="Greater Trip">
+           Greater Trip
+          </a>
+          †
+         </th>
+         <td>
+          Combat Expertise, INT 13, Trip, BAB 6
+         </td>
+         <td>
+          You can make free attacks on foes that you knock down.
+          <p>
+           Benefit: You receive a +2 bonus on checks made to trip a foe. This bonus stacks with the bonus granted by Trip. Whenever you successfully trip an opponent, that opponent provokes attacks of opportunity.
+Normal: Creatures do not provoke attacks of opportunity from being tripped.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Two-Weapon_Fighting" title="Greater Two-Weapon Fighting">
+           Greater Two-Weapon Fighting
+          </a>
+          †
+         </th>
+         <td>
+          DEX 19, Improved Two-Weapon Fighting
+         </td>
+         <td>
+          You get a third attack with your off-hand weapon, albeit at a –10 penalty.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Vital_Strike" title="Greater Vital Strike">
+           Greater Vital Strike
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You can make a single attack that deals incredible damage.
+          <p>
+           Benefit: As a standard action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack four times and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Weapon_Focus" title="Greater Weapon Focus">
+           Greater Weapon Focus
+          </a>
+          †
+         </th>
+         <td>
+          <a href="/Fighter" title="Fighter">
+           Fighter
+          </a>
+          8, Weapon Focus
+         </td>
+         <td>
+          Choose one type of weapon (including unarmed strike) for which you have already selected Weapon Focus. You are a master at your chosen weapon.
+          <p>
+           Benefit: You gain a +1 bonus on attack rolls you make using the selected weapon. This bonus stacks with other bonuses on attack rolls, including those from Weapon Focus.
+Special: You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Greater_Weapon_Specialization" title="Greater Weapon Specialization">
+           Greater Weapon Specialization
+          </a>
+          †
+         </th>
+         <td>
+          <a href="/Fighter" title="Fighter">
+           Fighter
+          </a>
+          12, Weapon Specialization
+         </td>
+         <td>
+          Choose one type of weapon (including unarmed strike) for which you possess the Weapon Specialization feat. Your attacks with the chosen weapon are more devastating than normal.
+          <p>
+           Benefit: You gain a +2 bonus on all damage rolls you make using the selected weapon. This bonus to damage stacks with other damage roll bonuses, including any you gain from Weapon Specialization.
+Special: You can gain Greater Weapon Specialization multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Hammer_the_Gap" title="Hammer the Gap">
+           Hammer the Gap
+          </a>
+          †
+         </th>
+         <td>
+          BAB 6
+         </td>
+         <td>
+          You repeatedly strike the same location, causing increasing amounts of damage.
+          <p>
+           Benefit: When you make a full attack, each consecutive hit against the same opponent deals extra damage equal to the number of previous consecutive hits you have made against that opponent this turn. This damage is multiplied on a critical hit.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Blind_Fight" title="Improved Blind Fight">
+           Improved Blind Fight
+          </a>
+          †
+         </th>
+         <td>
+          Perception 10, Blind-Fight
+         </td>
+         <td>
+          Your melee attacks ignore the miss chance for less than total concealment. You may still reroll your miss chance percentile roll for total concealment. If you successfully pinpoint an invisible or hidden attacker within 30 feet, that attacker gets no advantages related to hitting you with ranged attacks. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Cleaving_Finish" title="Improved Cleaving Finish">
+           Improved Cleaving Finish
+          </a>
+          †
+         </th>
+         <td>
+          Cleave, STR 13, Power Attack, Great Cleave, Cleaving Finish, BAB 6
+         </td>
+         <td>
+          You can use Cleaving Finish any number of times per round.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Critical" title="Improved Critical">
+           Improved Critical
+          </a>
+          †
+         </th>
+         <td>
+          BAB 8
+         </td>
+         <td>
+          Choose one type of weapon. When using the weapon you selected, your threat range is doubled.
+          <p>
+           Special: You can gain Improved Critical multiple times. The effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+This effect doesn't stack with any other effect that expands the threat range of a weapon.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Great_Fortitude" title="Improved Great Fortitude">
+           Improved Great Fortitude
+          </a>
+         </th>
+         <td>
+          Great Fortitude
+         </td>
+         <td>
+          You get a +2 bonus on all Fortitude saving throws.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Initiative" title="Improved Initiative">
+           Improved Initiative
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          Your quick reflexes allow you to react rapidly to danger. You get a +4 bonus on initiative checks.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Iron_Will" title="Improved Iron Will">
+           Improved Iron Will
+          </a>
+         </th>
+         <td>
+          Iron Will
+         </td>
+         <td>
+          You get a +2 bonus on all Will saving throws.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Lightning_Reflexes" title="Improved Lightning Reflexes">
+           Improved Lightning Reflexes
+          </a>
+         </th>
+         <td>
+          Iron Will
+         </td>
+         <td>
+          You get a +2 bonus on all Reflex saving throws.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Precise_Shot" title="Improved Precise Shot">
+           Improved Precise Shot
+          </a>
+          †
+         </th>
+         <td>
+          Precise Shot, BAB 11, DEX 19, Point-Blank Shot
+         </td>
+         <td>
+          Your ranged attacks ignore anything but total concealment and cover.
+          <p>
+           Benefit: Your ranged attacks ignore the miss chance granted to targets by anything less than total concealment. Total concealment provides their normal benefits against your ranged attacks.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Two-Weapon_Fighting" title="Improved Two-Weapon Fighting">
+           Improved Two-Weapon Fighting
+          </a>
+          †
+         </th>
+         <td>
+          DEX 17, Two-Weapon Fighting
+         </td>
+         <td>
+          You get a second attack with your off-hand weapon, albeit at a –5 penalty.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Unarmed_Strike" title="Improved Unarmed Strike">
+           Improved Unarmed Strike
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You are considered to be armed even when unarmed — you can make unarmed attacks that deal 1d3 bludgeoning damage (if Medium; 1d2 if Small).
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Improved_Vital_Strike" title="Improved Vital Strike">
+           Improved Vital Strike
+          </a>
+          †
+         </th>
+         <td>
+          Vital Strike
+         </td>
+         <td>
+          You can make a single attack that deals a large amount of damage.
+          <p>
+           Benefit: As a standard action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack three times and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision-based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Intimidating_Prowess" title="Intimidating Prowess">
+           Intimidating Prowess
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          Your physical might is intimidating to others.
+          <p>
+           Benefit: Add your Strength modifier to Persuasion (intimidate) checks in addition to your Charisma modifier.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Iron_Will" title="Iron Will">
+           Iron Will
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You get a +2 bonus on all Will saving throws.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Light_Armor_Focus" title="Light Armor Focus">
+           Light Armor Focus
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          The AC bonus granted by any light armor that you equip increases by 1.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Lightning_Reflexes" title="Lightning Reflexes">
+           Lightning Reflexes
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You get a +2 bonus on all Reflex saving throws.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Lingering_Performance" title="Lingering Performance">
+           Lingering Performance
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          The effects of your bardic performance carry on, even after you have stopped performing.
+          <p>
+           Benefit: The bonuses and penalties from your bardic performance continue for 2 rounds after you cease performing. Any other requirement, such as range or specific conditions, must still be met for the effect to continue. If you begin a new bardic performance during this time, the effects of the previous performance immediately cease.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Manyshot" title="Manyshot">
+           Manyshot
+          </a>
+          †
+         </th>
+         <td>
+          Rapid Shot, BAB 6
+         </td>
+         <td>
+          When making a full attack with a bow, your first attack fires two arrows. If the attack hits, both arrows hit. Apply precision-based damage (such as sneak attack) and critical hit damage only once for this attack. Damage bonuses from using a composite bow with a high Strength bonus apply to each arrow, as do other damage bonuses, such as a ranger's favored enemy bonus. Damage reduction and resistances apply separately to each arrow.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Martial_Weapons_Proficiency" title="Martial Weapons Proficiency">
+           Martial Weapons Proficiency
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You become proficient with all Martial Weapons.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Medium_Armor_Focus" title="Medium Armor Focus">
+           Medium Armor Focus
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          The AC bonus granted by any medium armor that you equip increases by 1.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Metamagic_(Empower_Spell)" title="Metamagic (Empower Spell)">
+           Metamagic (Empower Spell)
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You can increase the power of your spells, causing them to deal more damage.
+          <p>
+           Benefit: All variable, numeric effects of an empowered spell are increased by half including bonuses to those rolls.
+Saving throws and opposed rolls are not affected, nor are spells without random variables.
+Level Increase: +2 (An empowered spell uses up a spell slot two levels higher than the spell's actual level.)
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Metamagic_(Extend_Spell)" title="Metamagic (Extend Spell)">
+           Metamagic (Extend Spell)
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You can make your spells last twice as long.
+          <p>
+           Benefit: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat.
+Level Increase: +1 (An extended spell uses up a spell slot one level higher than the spell's actual level.)
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Metamagic_(Heighten_Spell)" title="Metamagic (Heighten Spell)">
+           Metamagic (Heighten Spell)
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You can cast spells as if they were a higher level.
+          <p>
+           Benefit: A heightened spell has a higher spell level than normal (up to a maximum of 9th level). Unlike other metamagic feats, Heighten Spell actually increases the effective level of the spell that it modifies. All effects dependent on spell level (such as saving throw DCs and ability to penetrate a lesser globe of invulnerability) are calculated according to the heightened level.
+Level Increase: The heightened spell is as difficult to prepare and cast as a spell of its effective level.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Metamagic_(Maximize_Spell)" title="Metamagic (Maximize Spell)">
+           Metamagic (Maximize Spell)
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Your spells have the maximum possible effect.
+          <p>
+           Benefit: All variable, numeric effects of a spell modified by this feat are maximized. Saving throws and opposed rolls are not affected, nor are spells without random variables.
+Level Increase: +3 (A maximized spell uses up a spell slot three levels higher than the spell's actual level.)
+An empowered, maximized spell gains the separate benefits of each feat: the maximum result plus half the normally rolled result.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Metamagic_(Quicken_Spell)" title="Metamagic (Quicken Spell)">
+           Metamagic (Quicken Spell)
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You can cast spells in a fraction of the normal time.
+          <p>
+           Benefit: Casting a quickened spell is a swift action. You can perform another action, even casting another spell, in the same round as you cast a quickened spell. A spell whose casting time is more than 1 round or 1 full-round action cannot be quickened.
+Level Increase: +4 (A quickened spell uses up a spell slot four levels higher than the spell's actual level.)
+Casting a quickened spell doesn't provoke an attack of opportunity.
+Special: You can apply the effects of this feat to a spell cast spontaneously, so long as it has a casting time that is not more than 1 full-round action, without increasing the spell's casting time.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Metamagic_(Reach_Spell)" title="Metamagic (Reach Spell)">
+           Metamagic (Reach Spell)
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Your spells go farther than normal.
+          <p>
+           Benefit: You can alter a spell with a range of touch, close, or medium to increase its range by one range category, using the following order: touch, close, medium, and long.
+Level Increase: +1 (A reach spell uses up a spell slot one level higher than the spell's actual level.)
+Spells modified by this feat that require melee touch attacks instead require ranged touch attacks.
+Spells that do not have a range of touch, close, or medium do not benefit from this feat.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Missile_Shield" title="Missile Shield">
+           Missile Shield
+          </a>
+          †
+         </th>
+         <td>
+          Shield Focus, DEX 13
+         </td>
+         <td>
+          You must be using a shield to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon (not including spell effects, natural attacks, or massive ranged weapons), you may deflect it so that you take no damage, as if you had the Deflect Arrows feat. You must be aware of the attack and not flat-footed.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Natural_Spell" title="Natural Spell">
+           Natural Spell
+          </a>
+          †
+         </th>
+         <td>
+          Wild Shape, Wisdom 13
+         </td>
+         <td>
+          You can cast spells while using wild shape. You substitute various noises and gestures for the normal verbal and somatic components of a spell.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Outflank" title="Outflank">
+           Outflank
+          </a>
+          †
+         </th>
+         <td>
+          BAB 4
+         </td>
+         <td>
+          Whenever you and an ally who also has this feat are flanking the same creature, your flanking bonus on attack rolls increases to +4. In addition, whenever you score a critical hit against the flanked creature, it provokes an attack of opportunity from your ally.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Penetrating_Strike" title="Penetrating Strike">
+           Penetrating Strike
+          </a>
+          †
+         </th>
+         <td>
+          <a href="/Fighter" title="Fighter">
+           Fighter
+          </a>
+          12, Weapon Focus
+         </td>
+         <td>
+          Your attacks made with weapons selected with Weapon Focus ignore up to 5 points of damage reduction.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Persuasive" title="Persuasive">
+           Persuasive
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You get a +2 bonus on all Persuasion and Perception skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Piranha_Strike" title="Piranha Strike">
+           Piranha Strike
+          </a>
+          †
+         </th>
+         <td>
+          DEX 13, Weapon Finesse
+         </td>
+         <td>
+          When wielding a light weapon or any other weapon that can be used with Weapon Finesse, you can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls.
+          <p>
+           This bonus to damage is halved (–50%) if you are making an attack with an off-hand weapon or secondary natural weapon.
+When your base attack bonus reaches +4, and for every 4 points thereafter, the penalty increases by –1 and the bonus on damage rolls increases by +2. You must choose to use this feat before the attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage. This feat cannot be used in conjunction with the Power Attack feat.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Point-Blank_Master" title="Point-Blank Master">
+           Point-Blank Mastery
+          </a>
+          †
+         </th>
+         <td>
+          <a href="/Fighter" title="Fighter">
+           Fighter
+          </a>
+          4, Weapon Specialization (Appropriate Weapon)
+         </td>
+         <td>
+          Benefit: Choose one type of ranged weapon. You do not provoke attacks of opportunity when firing the selected weapon while threatened.
+          <p>
+           Normal: Using a ranged weapon while you are threatened provokes attacks of opportunity.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Point-Blank_Shot" title="Point-Blank Shot">
+           Point-Blank Shot
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of up to 30 feet.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Power_Attack" title="Power Attack">
+           Power Attack
+          </a>
+          †
+         </th>
+         <td>
+          STR 13
+         </td>
+         <td>
+          You can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls.
+          <p>
+           This bonus to damage is increased by half (+50%) if you are making an attack with a two-handed weapon, a one handed weapon using two hands, or a primary natural weapon that adds 1-1/2 times your Strength modifier on damage rolls. This bonus to damage is halved (–50%) if you are making an attack with an off-hand weapon or secondary natural weapon.
+When your base attack bonus reaches +4, and every 4 points thereafter, the penalty increases by –1 and the bonus to damage increases by +2.
+You must choose to use this feat before making an attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Precise_Shot" title="Precise Shot">
+           Precise Shot
+          </a>
+          †
+         </th>
+         <td>
+          Point-Blank Shot
+         </td>
+         <td>
+          You can shoot or throw ranged weapons at an opponent engaged in melee without taking the standard –4 penalty on your attack roll.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Precise_Strike" title="Precise Strike">
+           Precise Strike
+          </a>
+          †
+         </th>
+         <td>
+          DEX 13, BAB 1
+         </td>
+         <td>
+          Whenever you and an ally who also has this feat are flanking the same creature, you deal an additional 1d6 points of precision damage with each successful melee attack. This bonus damage stacks with other sources of precision damage, such as sneak attack. This bonus damage is not multiplied on a critical hit.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Pummeling_Bully" title="Pummeling Bully">
+           Pummeling Bully
+          </a>
+          †
+         </th>
+         <td>
+          Pummeling Style, Trip, Improved Unarmed Strike, BAB 9 or
+          <a href="/index.php?title=Monk_5&amp;action=edit&amp;redlink=1" class="new" title="Monk 5 (page does not exist)">
+           Monk 5
+          </a>
+         </td>
+         <td>
+          When you use Pummeling Style to make an entire full attack or flurry of blows against a single target, if you hit with any of your attacks, you attempt a trip combat maneuver check as a free action.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Pummeling_Charge" title="Pummeling Charge">
+           Pummeling Charge
+          </a>
+          †
+         </th>
+         <td>
+          Pummeling Style, BAB 12 or
+          <a href="/Monk" title="Monk">
+           Monk
+          </a>
+          8
+         </td>
+         <td>
+          Your charge ends with a mighty haymaker.
+          <p>
+           Benefit: You can charge and make a full attack or flurry of blows at the end of your charge as part of the charge action. You can use Pummeling Charge in this way only if all of your attacks qualify for using Pummeling Style against a single target.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Pummeling_Style" title="Pummeling Style">
+           Pummeling Style
+          </a>
+          †
+         </th>
+         <td>
+          Improved Unarmed Style, Flurry of Blows or BAB 6
+         </td>
+         <td>
+          Your unarmed strikes weave together in an effortless combo, focusing on the spots you've weakened with the last hit.
+          <p>
+           Benefit: Whenever you use a full attack or flurry of blows to make multiple attacks against a single opponent with unarmed strikes, total the damage from all hits before applying damage reduction. This ability works only with unarmed strikes, no matter what other abilities you might possess.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Rapid_Shot" title="Rapid Shot">
+           Rapid Shot
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          When making a full attack with a ranged weapon, you can fire one additional time this round at your highest bonus. All of your attack rolls take a –2 penalty when using Rapid Shot.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Seize_the_Moment" title="Seize the Moment">
+           Seize the Moment
+          </a>
+          †
+         </th>
+         <td>
+          Combat Reflexes
+         </td>
+         <td>
+          When an ally who also has this feat confirms a critical hit against an opponent that you also threaten, you can make an attack of opportunity against that opponent.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Selective_Channel" title="Selective Channel">
+           Selective Channel
+          </a>
+         </th>
+         <td>
+          Channel Energy, Charisma 13
+         </td>
+         <td>
+          Whenever you channel positive energy to heal the living or channel negative energy to heal the undead, you do not affect enemies. When you channel positive energy to damage undead or channel negative energy to damage living, you do not affect allies.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Shake_It_Off" title="Shake It Off">
+           Shake It Off
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          When you are adjacent to one or more allies who also have this feat, you gain a +1 bonus on saving throws per such ally (maximum +4).
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Shatter_Defenses" title="Shatter Defenses">
+           Shatter Defenses
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          Your skill with your chosen weapon leaves opponents unable to defend themselves if you strike them when their defenses are already compromised.
+          <p>
+           Benefit: Any shaken, frightened, or panicked opponent hit by you this round is flat-footed to your attacks until the end of your next turn. This includes any additional attacks you make this round.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Shield_Bash" title="Shield Bash">
+           Shield Bash
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You may attack with light and heavy shields. This incurs standard penalties for two-weapon fighting if you have a weapon in your other hand.
+          <p>
+           A light shield deals 1d3 damage and is considered a light weapon. A heavy shield deals 1d4 damage and is considered a one-handed weapon.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Shield_Focus" title="Shield Focus">
+           Shield Focus
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          Increase the AC bonus granted by any shield you are using by 1.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Shield_Master" title="Shield Master">
+           Shield Master
+          </a>
+          †
+         </th>
+         <td>
+          Proficiencies: (Light &amp; Heavy Shield Proficiency), Shield Bash, Two-Weapon Fighting, BAB 11
+         </td>
+         <td>
+          Your mastery of the shield allows you to fight with it without hindrance.
+          <p>
+           Benefit: You do not suffer any penalties on attack rolls made with a shield while you are wielding another weapon. Add your shield's enhancement bonus to attack and damage rolls made with the shield as if it were a weapon enhancement bonus.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Shield_Proficiency" title="Shield Proficiency">
+           Shield Proficiency
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You have become proficient with Bucklers, Light Shields, and Heavy Shields
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Shield_Wall" title="Shield Wall">
+           Shield Wall
+          </a>
+          †
+         </th>
+         <td>
+          Shield Proficiency with Bucklers, Light, and Heavy Shields
+         </td>
+         <td>
+          Whenever you are wielding a shield and are adjacent to an ally wielding a shield who also has this feat, the AC bonus from your shield increases, depending on the shield wielded by your ally.
+          <p>
+           If your ally is wielding a buckler or a light shield, your shield bonus increases by +1.
+If your ally is wielding a heavy shield or a tower shield, your shield bonus increases by +2.
+You keep these bonuses even if your ally loses his shield bonus due to making a shield bash attack.
+If an adjacent ally with this feat uses a tower shield to grant total cover, you also benefit if an attack targeting you passes through the edge of the shield.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Shielded_Caster" title="Shielded Caster">
+           Shielded Caster
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          Your allies cover you while you cast complicated spells.
+          <p>
+           Benefit: Whenever you are adjacent to an ally who also has this feat, you receive a +4 competence bonus on concentration checks.
+If your ally is wielding a buckler or a light shield, this bonus increases by +1.
+If your ally is wielding a heavy shield or a tower shield, this bonus increases by +2.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Sickening_Critical" title="Sickening Critical">
+           Sickening Critical
+          </a>
+          †
+         </th>
+         <td>
+          Critical Focus, BAB 11
+         </td>
+         <td>
+          Whenever you score a critical hit, your opponent becomes sickened for 1 minute. The effects of this feat do not stack. Additional hits instead add to the effect's duration.
+          <p>
+           Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Simple_Weapon_Proficiency" title="Simple Weapon Proficiency">
+           Simple Weapon Proficiency
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          You become proficient with all Simple Weapons.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Skill_Focus" title="Skill Focus">
+           Skill Focus
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Choose a skill. You are particularly adept at that skill.
+          <p>
+           Benefit: You get a +3 bonus on all checks involving the chosen skill. If you have 10 or more ranks in that skill, this bonus increases to +6.
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new skill.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Slashing_Grace" title="Slashing Grace">
+           Slashing Grace
+          </a>
+          †
+         </th>
+         <td>
+          DEX 13, Weapon Finesse, Weapon Focus (Appropriate Weapon)
+         </td>
+         <td>
+          You can stab your enemies with your sword or another slashing weapon.
+          <p>
+           Benefit: Choose one kind of light or one-handed slashing weapon (such as the longsword). When wielding your chosen weapon one-handed, you can treat it as a one-handed piercing melee weapon for all feats and class abilities that require such a weapon (such as a duelist's precise strike) and you can add your Dexterity modifier instead of your Strength modifier to that weapon's damage. The weapon must be one appropriate for your size.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Spell_Focus" title="Spell Focus">
+           Spell Focus
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Choose a school of magic. Any spells you cast of that school are more difficult to resist.
+          <p>
+           Benefit: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select.
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new school of magic.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Spell_Penetration" title="Spell Penetration">
+           Spell Penetration
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Your spells break through spell resistance more easily than most.
+          <p>
+           You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature's spell resistance.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Spell_Specialization" title="Spell Specialization">
+           Spell Specialization
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Select one spell. You cast that spell with greater than normal power.
+          <p>
+           Benefit: Select one spell. Treat your caster level as being two higher for all level-variable effects of the spell.
+Every time you gain a level in a spellcasting class, you can choose a new spell to replace the spell selected with this feat, and that spell becomes your specialized spell.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Staggering_Critical" title="Staggering Critical">
+           Staggering Critical
+          </a>
+          †
+         </th>
+         <td>
+          Critical Focus, BAB 13
+         </td>
+         <td>
+          Whenever you score a critical hit, your opponent becomes staggered for 1d4+1 rounds. A successful Fortitude save reduces the duration to 1 round. The DC of this Fortitude save is equal to 10 + your base attack bonus. The effects of this feat do not stack. Additional hits instead add to the duration.
+          <p>
+           Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Stealthy" title="Stealthy">
+           Stealthy
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You get a +2 bonus on all Mobility and Stealth skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Steel_Soul" title="Steel Soul">
+           Steel Soul
+          </a>
+         </th>
+         <td>
+          Dwarf, Hardy
+         </td>
+         <td>
+          You are especially resistant to magic.
+          <p>
+           Benefit: You receive a +4 racial bonus on saving throws against spells and spell-like abilities. This replaces the normal bonus from the dwarf's Hardy racial trait.
+Normal: Dwarves normally receive a +2 racial bonus on saving throws against spells and spell-like abilities.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Stunning_Fist" title="Stunning Fist">
+           Stunning Fist
+          </a>
+          †
+         </th>
+         <td>
+          Improved Unarmed Strike
+         </td>
+         <td>
+          You know just where to strike to temporarily stun a foe.
+          <p>
+           You must use this feat before you make your attack (thus, a failed attack roll ruins the attempt). Stunning Fist forces a foe damaged by your unarmed attack to make a Fortitude saving throw (DC 10 + 1/2 your character level + your Wis modifier), in addition to dealing damage normally. A defender who fails this saving throw is stunned for 1 round (until just before your next turn). A stunned character drops everything held, can't take actions, loses any Dexterity bonus to AC, and takes a –2 penalty to AC. You may attempt a stunning attack once per day for every four levels you have attained, and no more than once per round. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be stunned.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Sunder_Armor" title="Sunder Armor">
+           Sunder Armor
+          </a>
+          †
+         </th>
+         <td>
+          Power Attack, STR 13
+         </td>
+         <td>
+          You can attempt to dislodge a piece of armor worn by your opponent. If your combat maneuver is successful, the target loses its bonuses from armor for 1 round.
+          <p>
+           For every 5 by which your attack exceeds your opponent's CMD, the penalty lasts 1 additional round.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Superior_Summoning" title="Superior Summoning">
+           Superior Summoning
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          Each time you cast a summoning spell that conjures more than one creature, add one to the total number of creatures summoned.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Tandem_Trip" title="Tandem Trip">
+           Tandem Trip
+          </a>
+          †
+         </th>
+         <td>
+          Trip
+         </td>
+         <td>
+          You know how to work together to trip your foes.
+          <p>
+           Benefit: Whenever you attempt a trip combat maneuver against an enemy threatened by an ally with this feat, you roll twice and take the better result.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Throw_Anything" title="Throw Anything">
+           Throw Anything
+          </a>
+         </th>
+         <td>
+          Alchemist(Automatic)
+         </td>
+         <td>
+          You receive a +1 circumstance bonus on attack rolls made with thrown splash weapons.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Tiring_Critical" title="Tiring Critical">
+           Tiring Critical
+          </a>
+          †
+         </th>
+         <td>
+          Critical Focus, BAB 13
+         </td>
+         <td>
+          Whenever you score a critical hit, your opponent becomes fatigued. This feat has no additional effect on a fatigued or exhausted creature.
+          <p>
+           Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Toughness" title="Toughness">
+           Toughness
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You gain +3 hit points. For every Hit Die you possess beyond 3, you gain an additional +1 hit point. If you have more than 3 Hit Dice, you gain +1 hit points whenever you gain a Hit Die (such as when you gain a level).
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Tower_Shield_Proficiency" title="Tower Shield Proficiency">
+           Tower Shield Proficiency
+          </a>
+          †
+         </th>
+         <td>
+          Shield Proficiency
+         </td>
+         <td>
+          You become proficient with Tower Shields.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Trip" title="Trip">
+           Trip
+          </a>
+          †
+         </th>
+         <td>
+          Combat Expertise, INT 13
+         </td>
+         <td>
+          You can attempt to trip your opponent in place of a melee attack. If your combat maneuver is successful, the target is knocked prone.
+          <p>
+           If the target has more than two legs, add +2 to the DC of the combat maneuver attack roll for each additional leg it has. Some creatures—such as oozes, creatures without legs, and flying creatures—cannot be tripped.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Two-Weapon_Fighting" title="Two-Weapon Fighting">
+           Two-Weapon Fighting
+          </a>
+          †
+         </th>
+         <td>
+          DEX 15
+         </td>
+         <td>
+          Benefit: Your penalties on attack rolls for fighting with two weapons are reduced. The penalty for your primary hand lessens by 2 and the one for your off hand lessens by 6.
+          <p>
+           Normal: If you wield a second weapon in your off hand, you can get one extra attack per round with that weapon. When fighting in this way you suffer a –6 penalty with your regular attack or attacks with your primary hand and a –10 penalty to the attack with your off hand. If your off-hand weapon is light, the penalties are reduced by 2 each. An unarmed strike is always considered light.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Vital_Strike" title="Vital Strike">
+           Vital Strike
+          </a>
+          †
+         </th>
+         <td>
+          BAB 6
+         </td>
+         <td>
+          You make a single attack that deals significantly more damage than normal.
+          <p>
+           Benefit: As a standard action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack twice and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision-based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Volley_Fire" title="Volley Fire">
+           Volley Fire
+          </a>
+         </th>
+         <td>
+         </td>
+         <td>
+          You have trained to work in ranks of archers to rain arrows down upon your foes.
+          <p>
+           Benefit: You gain a +1 bonus on ranged attack rolls for each ally with this feat who made a ranged attack since the end of your last turn against a target within 15 feet of your target, to a maximum of +4.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Weapon_Finesse" title="Weapon Finesse">
+           Weapon Finesse
+          </a>
+          †
+         </th>
+         <td>
+         </td>
+         <td>
+          With a light weapon, elven curve blade, estoc, rapier, or spiked chain made for a creature of your size category, you may use your Dexterity modifier instead of your Strength modifier on attack rolls. If you carry a shield, its armor check penalty applies to your attack rolls.
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Weapon_Focus" title="Weapon Focus">
+           Weapon Focus
+          </a>
+          †
+         </th>
+         <td>
+          BAB 1
+         </td>
+         <td>
+          Choose one type of weapon. You can also choose unarmed strike (or ray, if you are a spellcaster) as your weapon for the purposes of this feat.
+          <p>
+           Benefit: You gain a +1 bonus on all attack rolls you make using the selected weapon.
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Weapon_Specialization" title="Weapon Specialization">
+           Weapon Specialization
+          </a>
+          †
+         </th>
+         <td>
+          <a href="/Fighter" title="Fighter">
+           Fighter
+          </a>
+          4, Weapon Focus
+         </td>
+         <td>
+          You are skilled at dealing damage with one weapon. Choose one type of weapon (including unarmed strike) for which you have already selected the Weapon Focus feat. You deal extra damage when using this weapon.
+          <p>
+           Benefit: You gain a +2 bonus on all damage rolls you make using the selected weapon.
+Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+          </p>
+         </td>
+        </tr>
+        <tr>
+         <th>
+          <a href="/Wings" title="Wings">
+           Wings
+          </a>
+         </th>
+         <td>
+          Aasimar, level 10
+         </td>
+         <td>
+          You gain a pair of wings that grant a +3 dodge bonus to AC against melee attacks and an immunity to ground based effects, such as difficult terrain.
+         </td>
+        </tr>
+       </table>
+       <p>
+        † indicates the feat is a valid fighter bonus feat.
+       </p>
+       <p>
+        BAB -
+        <a href="/Basic_Attack_Bonus_(BAB)" title="Basic Attack Bonus (BAB)">
+         Basic Attack Bonus (BAB)
+        </a>
+       </p>
+       <div class="nomobile">
+        <table style="" class="plainlinks ambox ambox-orange">
+         <tr>
+          <td class="ambox-image">
+           <a href="/File:Icon-stub.svg" class="image" title="Stub">
+            <img alt="Stub" src="https://d1u5p3l4wpay3k.cloudfront.net/commons_hydra/2/25/Icon-stub.svg?version=09187df96aefa00f01af9746eee169b8" width="44" height="44" />
+           </a>
+          </td>
+          <td class="ambox-text">
+           <i>
+            This article is a
+            <a href="/Category:Stubs" title="Category:Stubs">
+             stub
+            </a>
+            . You can help Pathfinder: Kingmaker Wiki by
+            <span class="plainlinks">
+             <a target="_blank" rel="noreferrer noopener" class="external text" href="https://pathfinderkingmaker.gamepedia.com/index.php?title=Feats&amp;action=edit">
+              expanding it
+             </a>
+            </span>
+            .
+           </i>
+          </td>
+         </tr>
+        </table>
+        <br />
+       </div>
+       <div class="mobileonly" style="text-align:center">
+        <i>
+         This article is a
+         <a href="/Category:Stubs" title="Category:Stubs">
+          stub
+         </a>
+         . You can help Pathfinder: Kingmaker Wiki by
+         <span class="plainlinks">
+          <a target="_blank" rel="noreferrer noopener" class="external text" href="https://pathfinderkingmaker.gamepedia.com/index.php?title=Feats&amp;action=edit">
+           expanding it
+          </a>
+         </span>
+         .
+        </i>
+        <br />
+        <br />
+       </div>
+       <!-- 
+NewPP limit report
+Cached time: 20181029160405
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.038 seconds
+Real time usage: 0.055 seconds
+Preprocessor visited node count: 88/1000000
+Preprocessor generated node count: 493/1000000
+Post‐expand include size: 1836/2097152 bytes
+Template argument size: 356/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/99
+-->
+       <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   10.311      1 Template:Stub
+100.00%   10.311      1 -total
+ 63.45%    6.542      1 Template:Ambox
+ 43.21%    4.455      2 Template:Fullurl
+ 12.66%    1.306      2 Template:=
+-->
+       <!-- Saved in parser cache with key pathfinderkingmaker_gamepedia_en:pcache:idhash:764-0!*!0!!*!5!* and timestamp 20181029160424 and revision id 3732
+ -->
+      </div>
+      <div class="printfooter">
+       Retrieved from "
+       <a dir="ltr" href="https://pathfinderkingmaker.gamepedia.com/index.php?title=Feats&amp;oldid=3732">
+        https://pathfinderkingmaker.gamepedia.com/index.php?title=Feats&amp;oldid=3732
+       </a>
+       "
+      </div>
+      <div id="catlinks" class="catlinks" data-mw="interface">
+       <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+        <a href="/Special:Categories" title="Special:Categories">
+         Categories
+        </a>
+        :
+        <ul>
+         <li>
+          <a href="/Category:Stubs" title="Category:Stubs">
+           Stubs
+          </a>
+         </li>
+         <li>
+          <a href="/Category:Feats" title="Category:Feats">
+           Feats
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="visualClear">
+      </div>
+     </div>
+     <div id="siderail">
+      <div id="atfmrec">
+       <div id="cdm-zone-02">
+       </div>
+      </div>
+      <div id="middlemrec">
+       <a href="https://www.gamepedia.com/PRO?utm_source=wiki&amp;utm_medium=promorail">
+        <img src="https://d1u5p3l4wpay3k.cloudfront.net/commons_hydra/c/c2/Pro_Promorail_v2.jpg" alt="" />
+       </a>
+      </div>
+      <div id="btfmrec">
+       <div id="cdm-zone-06">
+       </div>
+      </div>
+     </div>
+     <div class="visualClear">
+     </div>
+     <div id="btfheroContainer">
+      <div id="btfhero_container">
+       <div id="promo-content-embed">
+        Promotional Content
+       </div>
+       <div id="cdm-zone-embed">
+       </div>
+      </div>
+     </div>
+     <div id="btflb">
+      <div id="cdm-zone-04">
+      </div>
+     </div>
+    </div>
+    <div id="mw-navigation">
+     <h2>
+      Navigation menu
+     </h2>
+     <div id="mw-head">
+      <div id="left-navigation">
+       <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+        <h3 id="p-namespaces-label">
+         Namespaces
+        </h3>
+        <ul>
+         <li id="ca-nstab-main" class="selected">
+          <span>
+           <a href="/Feats" title="View the content page [c]" accesskey="c">
+            Page
+           </a>
+          </span>
+         </li>
+         <li id="ca-talk" class="new">
+          <span>
+           <a href="/index.php?title=Talk:Feats&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t" rel="discussion">
+            Discussion
+           </a>
+          </span>
+         </li>
+        </ul>
+       </div>
+       <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+        <h3 id="p-variants-label">
+         <span>
+          Variants
+         </span>
+         <a href="#">
+         </a>
+        </h3>
+        <div class="menu">
+         <ul>
+         </ul>
+        </div>
+       </div>
+       <div id="p-sharing" role="navigation" class="vectorMenu" aria-labelledby="p-sharing-label">
+        <h3 id="p-sharing-label">
+         <span>
+          Share
+         </span>
+         <a href="#">
+         </a>
+        </h3>
+        <div class="menu">
+         <div id="socialIconImages">
+          <a href="https://twitter.com/intent/tweet?text=Check+out+Feats+on+Pathfinder%3A+Kingmaker+Wiki+--&amp;via=CurseGamepedia&amp;url=https%3A%2F%2Fpathfinderkingmaker.gamepedia.com%2FFeats" target="_blank">
+           <img src="/extensions/Social/images/social/twitter.svg" />
+          </a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpathfinderkingmaker.gamepedia.com%2FFeats" target="_blank">
+           <img src="/extensions/Social/images/social/facebook.svg" />
+          </a>
+          <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fpathfinderkingmaker.gamepedia.com%2FFeats&amp;title=Check+out+Feats+on+Pathfinder%3A+Kingmaker+Wiki+via+%40CurseGamepedia%3A+https%3A%2F%2Fpathfinderkingmaker.gamepedia.com%2FFeats" target="_blank">
+           <img src="/extensions/Social/images/social/reddit.svg" />
+          </a>
+          <a href="https://www.tumblr.com/share/link?url=https%3A%2F%2Fpathfinderkingmaker.gamepedia.com%2FFeats&amp;name=Pathfinder%3A+Kingmaker+Wiki&amp;description=Check+out+Feats+on+Pathfinder%3A+Kingmaker+Wiki+via+%3Ca+href%3D%22https%3A%2F%2Ftwitter.com%2FCurseGamepedia%22+target%3D%22_blank%22%3E%40CurseGamepedia%3C%2Fa%3E%3A+https%3A%2F%2Fpathfinderkingmaker.gamepedia.com%2FFeats" target="_blank">
+           <img src="/extensions/Social/images/social/tumblr.svg" />
+          </a>
+          <a href="https://vk.com/share.php?url=https%3A%2F%2Fpathfinderkingmaker.gamepedia.com%2FFeats" target="_blank">
+           <img src="/extensions/Social/images/social/vk.svg" />
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="right-navigation">
+       <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+        <h3 id="p-views-label">
+         Views
+        </h3>
+        <ul>
+         <li id="ca-view" class="selected">
+          <span>
+           <a href="/Feats">
+            View
+           </a>
+          </span>
+         </li>
+         <li id="ca-ve-edit" class="">
+          <span>
+           <a href="/index.php?title=Feats&amp;veaction=edit" title="Edit this page [v]" accesskey="v">
+            Edit
+           </a>
+          </span>
+         </li>
+         <li id="ca-edit" class=" collapsible">
+          <span>
+           <a href="/index.php?title=Feats&amp;action=edit" title="Edit this page [e]" accesskey="e">
+            Edit source
+           </a>
+          </span>
+         </li>
+         <li id="ca-history" class="collapsible">
+          <span>
+           <a href="/index.php?title=Feats&amp;action=history" title="Past revisions of this page [h]" accesskey="h">
+            History
+           </a>
+          </span>
+         </li>
+        </ul>
+       </div>
+       <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+        <h3 id="p-cactions-label">
+         <span>
+          More
+         </span>
+         <a href="#">
+         </a>
+        </h3>
+        <div class="menu">
+         <ul>
+         </ul>
+        </div>
+       </div>
+       <div id="p-search" role="search">
+        <h3>
+         <label for="searchInput">
+          Search
+         </label>
+        </h3>
+        <form action="/index.php" id="searchform">
+         <div id="simpleSearch">
+          <input type="search" name="search" placeholder="Search Pathfinder: Kingmaker Wiki" title="Search Pathfinder: Kingmaker Wiki [f]" accesskey="f" id="searchInput" />
+          <input type="hidden" value="Special:Search" name="title" />
+          <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" />
+          <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />
+         </div>
+        </form>
+       </div>
+      </div>
+     </div>
+     <div id="mw-panel">
+      <div id="p-logo" role="banner">
+       <a class="mw-wiki-logo" href="/Pathfinder:_Kingmaker_Wiki" title="Visit the main page - Pathfinder: Kingmaker Wiki">
+       </a>
+      </div>
+      <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+       <h3 id="p-navigation-label">
+        Navigation
+       </h3>
+       <div class="body">
+        <ul>
+         <li id="n-mainpage-description">
+          <a href="/Pathfinder:_Kingmaker_Wiki" title="Visit the main page [z]" accesskey="z">
+           Main page
+          </a>
+         </li>
+         <li id="n-portal">
+          <a href="/Pathfinder_Kingmaker_Wiki:Community_portal" title="About the project, what you can do, where to find things">
+           Community portal
+          </a>
+         </li>
+         <li id="n-recentchanges">
+          <a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+           Recent changes
+          </a>
+         </li>
+         <li id="n-randompage">
+          <a href="/Special:Random" title="Load a random page [x]" accesskey="x">
+           Random page
+          </a>
+         </li>
+         <li id="n-Admin-noticeboard">
+          <a href="/Pathfinder_Kingmaker_Wiki:Admin_noticeboard">
+           Admin noticeboard
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="portal" role="navigation" id="p-Portals" aria-labelledby="p-Portals-label">
+       <h3 id="p-Portals-label">
+        Portals
+       </h3>
+       <div class="body">
+        <ul>
+         <li id="n-Official-site">
+          <a href="https://owlcatgames.com/" rel="nofollow" target="_blank">
+           Official site
+          </a>
+         </li>
+         <li id="n-Official-forums">
+          <a href="https://owlcatgames.com/forums/activity.php" rel="nofollow" target="_blank">
+           Official forums
+          </a>
+         </li>
+         <li id="n-On-Steam">
+          <a href="https://store.steampowered.com/app/640820/Pathfinder_Kingmaker/" rel="nofollow" target="_blank">
+           On Steam
+          </a>
+         </li>
+         <li id="n-On-GOG">
+          <a href="https://www.gog.com/game/pathfinder_kingmaker_explorer_edition" rel="nofollow" target="_blank">
+           On GOG
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="portal" role="navigation" id="p-Gamepedia" aria-labelledby="p-Gamepedia-label">
+       <h3 id="p-Gamepedia-label">
+        Gamepedia
+       </h3>
+       <div class="body">
+        <ul>
+         <li id="n-Gamepedia-support">
+          <a href="https://gamepedia.zendesk.com" rel="nofollow" target="_blank">
+           Gamepedia support
+          </a>
+         </li>
+         <li id="n-Help-Wiki">
+          <a href="https://help.gamepedia.com/">
+           Help Wiki
+          </a>
+         </li>
+         <li id="n-Contact-us">
+          <a href="https://help.gamepedia.com/How_to_contact_Gamepedia">
+           Contact us
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+       <h3 id="p-tb-label">
+        Tools
+       </h3>
+       <div class="body">
+        <ul>
+         <li id="t-whatlinkshere">
+          <a href="/Special:WhatLinksHere/Feats" title="A list of all wiki pages that link here [j]" accesskey="j">
+           What links here
+          </a>
+         </li>
+         <li id="t-recentchangeslinked">
+          <a href="/Special:RecentChangesLinked/Feats" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">
+           Related changes
+          </a>
+         </li>
+         <li id="t-specialpages">
+          <a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+           Special pages
+          </a>
+         </li>
+         <li id="t-print">
+          <a href="/index.php?title=Feats&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">
+           Printable version
+          </a>
+         </li>
+         <li id="t-permalink">
+          <a href="/index.php?title=Feats&amp;oldid=3732" title="Permanent link to this revision of the page">
+           Permanent link
+          </a>
+         </li>
+         <li id="t-info">
+          <a href="/index.php?title=Feats&amp;action=info" title="More information about this page">
+           Page information
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="portal" role="navigation" id="p-socialProfiles" aria-labelledby="p-socialProfiles-label">
+       <h3 id="p-socialProfiles-label">
+       </h3>
+       <div class="body">
+        <div class="socialSidebar">
+         <script type="text/javascript">
+          document.getElementById('p-socialProfiles').className = 'portal persistent';
+         </script>
+         <div class="socialLink twitter">
+          <a href="https://twitter.com/CurseGamepedia" target="_blank">
+           <img src="/extensions/Social/images/social/twitter.svg" width="32" />
+          </a>
+         </div>
+         <div class="socialLink facebook">
+          <a href="https://www.facebook.com/CurseGamepedia" target="_blank">
+           <img src="/extensions/Social/images/social/facebook.svg" width="32" />
+          </a>
+         </div>
+         <div class="socialLink twitch">
+          <a href="https://www.twitch.tv/curse/videos/all" target="_blank">
+           <img src="/extensions/Social/images/social/twitch.svg" width="32" />
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div id="footer" role="contentinfo">
+     <ul id="footer-info">
+      <li id="footer-info-lastmod">
+       This page was last edited on 29 October 2018, at 16:04.
+      </li>
+      <li id="footer-info-copyright">
+       Content is available under
+       <a class="external" rel="nofollow" href="//creativecommons.org/licenses/by-nc-sa/3.0/">
+        CC BY-NC-SA 3.0
+       </a>
+       unless otherwise noted.
+       <br />
+       Game content and materials are trademarks and copyrights of their respective publisher and its licensors.  All rights reserved.
+       <br />
+       This site is a part of Curse, Inc. and is not affiliated with the game publisher.
+      </li>
+     </ul>
+     <ul id="footer-places">
+      <li id="footer-places-about">
+       <a href="/Pathfinder_Kingmaker_Wiki:About" title="Pathfinder Kingmaker Wiki:About">
+        About Pathfinder: Kingmaker Wiki
+       </a>
+      </li>
+      <li id="footer-places-disclaimer">
+       <a href="/Pathfinder_Kingmaker_Wiki:General_disclaimer" title="Pathfinder Kingmaker Wiki:General disclaimer">
+        Disclaimers
+       </a>
+      </li>
+      <li id="footer-places-mobileview">
+       <a href="https://pathfinderkingmaker.gamepedia.com/index.php?title=Feats&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">
+        Mobile view
+       </a>
+      </li>
+     </ul>
+     <ul id="footer-icons" class="noprint">
+      <li id="footer-copyrightico">
+       <a href="//creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank">
+        <img src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="CC BY-NC-SA 3.0" width="88" height="31" />
+       </a>
+      </li>
+      <li id="footer-poweredbyico">
+       <a href="//www.mediawiki.org/" target="_blank">
+        <img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" />
+       </a>
+       <a href="https://help.gamepedia.com/What_is_Hydra" target="_blank">
+        <img src="/skins/Hydra/images/icons/poweredbyhydra.png" alt="Powered by Hydra" width="88" height="31" />
+       </a>
+      </li>
+     </ul>
+     <div style="clear:both">
+     </div>
+    </div>
+   </div>
+   <div id="footer-push">
+   </div>
+  </div>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.038","walltime":"0.055","ppvisitednodes":{"value":88,"limit":1000000},"ppgeneratednodes":{"value":493,"limit":1000000},"postexpandincludesize":{"value":1836,"limit":2097152},"templateargumentsize":{"value":356,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":99},"timingprofile":["100.00%   10.311      1 Template:Stub","100.00%   10.311      1 -total"," 63.45%    6.542      1 Template:Ambox"," 43.21%    4.455      2 Template:Fullurl"," 12.66%    1.306      2 Template:="]},"cachereport":{"timestamp":"20181029160405","ttl":86400,"transientcontent":false}}});});
+  </script>
+  <footer id="footer" role="complimentary" class="show-ads">
+   <div class="footer-flex">
+    <div class="footer-box">
+     <a href="http://www.gamepedia.com" class="curse">
+      Gamepedia powered by Curse
+     </a>
+    </div>
+    <div class="footer-box">
+     <ul class="social">
+      <li>
+       <a href="https://www.facebook.com/CurseGamepedia" class="fb">
+        Facebook
+       </a>
+      </li>
+      <li>
+       <a href="https://twitter.com/CurseGamepedia" class="tw">
+        Twitter
+       </a>
+      </li>
+      <li>
+       <a href="http://youtube.com/CurseEntertainment" class="yt">
+        Youtube
+       </a>
+      </li>
+      <li>
+       <a href="http://help.gamepedia.com/How_To_Contact_Gamepedia" class="nl">
+        Contact Us
+       </a>
+      </li>
+      <li>
+       <a href="https://monsterhunterworld.gamepedia.com" class="advertise">
+        MH: World
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-box">
+     <ul class="you">
+      <li>
+       <a href="/index.php?title=Special:UserLogin&amp;returnto=Feats" id="login-link" class="sign-in">
+        Sign In
+       </a>
+      </li>
+      <li>
+       <a href="/index.php?title=Special:CreateAccount&amp;returnto=Feats" class="register" id="register-link">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="https://www.curse.com/careers" class="careers">
+        Careers
+       </a>
+      </li>
+      <li>
+       <a href="http://support.gamepedia.com/" class="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <a href="https://kingdomcomedeliverance.gamepedia.com" class="advertise">
+        KC: Deliverance
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-box">
+     <ul class="more">
+      <li>
+       <a href="https://www.curse.com/" class="about">
+        About Curse
+       </a>
+      </li>
+      <li>
+       <a href="https://www.curse.com/advertising" class="advertise">
+        Advertise
+       </a>
+      </li>
+      <li>
+       <a href="https://www.twitch.tv/p/legal/terms-of-service/" class="tos">
+        Terms of Service
+       </a>
+      </li>
+      <li>
+       <a href="https://www.twitch.tv/p/legal/privacy-policy/" class="privacy-policy">
+        Privacy Policy
+       </a>
+      </li>
+      <li>
+       <a href="https://zelda.gamepedia.com/Main_Page" class="advertise">
+        Zelda Wiki
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="footer-box">
+     <div class="ad-placement ad-main-med-rect-footer">
+      <div id="cdm-zone-03">
+      </div>
+     </div>
+    </div>
+   </div>
+   <span class="copyright">
+    Copyright 2005-2018, Curse
+   </span>
+  </footer>
+  <!-- Begin comScore -->
+  <script>
+   var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035118" });
+(function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+})();
+  </script>
+  <noscript>
+   <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6035118&amp;cv=2.0&amp;cj=1" alt="Tracking Pixel" />
+  </noscript>
+  <!-- End comScore -->
+  <!-- Begin Nielsen -->
+  <script type="text/javascript">
+   (function () {
+	var d = new Image(1, 1);
+	d.onerror = d.onload = function () {
+		d.onerror = d.onload = null;
+	};
+	d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&amp;cg=0&amp;cc=1&amp;si=", escape(window.location.href), "&amp;rp=", escape(document.referrer), "&amp;ts=compact&amp;rnd=", (new Date()).getTime()].join('');
+})();
+  </script>
+  <noscript>
+   <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+   </div>
+  </noscript>
+  <!-- End Nielsen -->
+  <script type="text/javascript" src="https://cdm.cursecdn.com/js/landscape/landscape_min.js" async="async">
+  </script>
+  <div id="cdm-zone-end">
+  </div>
+  <!-- Start PubMP -->
+  <script type="text/javascript" src="//ads.pubmatic.com/AdServer/js/showad.js#PIX&amp;ptask=DSP&amp;SPug=1">
+  </script>
+  <!-- End PubMP -->
+  <script type="text/javascript">
+   window.genreCategory = 'RPG';
+				window.wikiTags = ["adventure","game:pathfinder: kingmaker","isometric","kickstarter","owlcat games","single player"];
+  </script>
+  <script>
+   (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93});});
+  </script>
+ </body>
+</html>
+

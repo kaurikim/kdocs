@@ -1,0 +1,331 @@
+
+Name	Prerequisites	Effect
+Ability Focus	Bomb or Arcane Bombs	Choose one of the creature's special attacks. Add +2 to the DC for all saving throws against the special attack on which the creature focuses.
+Ability Focus — Bombs	Bomb or Arcane Bombs	Add +2 to the DC for all saving throws against your bombs.
+Accomplished Sneak Attacker	Sneak Attack 1	Your sneak attack damage increases by 1d6.
+Your number of sneak attack dice cannot exceed half your character level (rounded up).
+
+Agile Maneuvers†	Bull Rush or Dirty Trick or Disarm or Sunder Armor or Trip	You've learned to use your quickness in place of brute force when performing combat maneuvers.
+Benefit: You add your Dexterity bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus instead of your Strength bonus. Normal: You add your Strength bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus.
+
+Aldori Dueling Mastery†	DEX 13, Weapon Finesse, Proficiencies: Dueling Swords, Weapon Focus (Dueling Swords)	You have mastered the impenetrable fighting style.
+You gain a +2 bonus on initiative checks as long as you start combat with a dueling sword. As long as you wield only a single dueling sword in one hand (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons), you gain a +2 shield bonus to your AC. Although the dueling sword deals slashing damage, you treat it as if it were also a piercing weapon when determining the effects of weapons used by a duelist
+
+Alertness		You get a +2 bonus on Perception skill checks. If you have 10 or more ranks in that skill, the bonus increases to +4.
+Allied Spellcaster†		With the aid of an ally, you are skilled at piercing the protections of other creatures with your spells.
+Benefit: Whenever you are adjacent to an ally who also has this feat, you receive a +2 bonus on concentration checks and level checks made to overcome spell resistance.
+
+Arcane Armor Mastery†	Arcane Armor Training	You have mastered the ability to cast spells while wearing armor.
+Benefit: Reduce the arcane spell failure chance due to the armor you are wearing by 20% for any spells you cast. This bonus replaces, and does not stack with, the bonus granted by Arcane Armor Training.
+
+Arcane Armor Training†		You have learned how to cast spells while wearing armor.
+Benefit: Reduce the arcane spell failure chance due to the armor you are wearing by 10% for any spells you cast.
+
+Arcane Strike†	Arcane spellcasting	Spending a swift action each round, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.
+Armor Focus†	BAB 1	Your familiarity with a specific type of armor increases the amount of protection you receive from it.
+Benefit(s): Select one type of armor. The AC bonus granted by the selected armor increases by 1.
+
+Armor Proficiency (Light Armor)†		You become proficient with Light Armor.
+Armor Proficiency (Medium Armor)†	Armor Proficiency (Light Armor)	You become proficient with Medium Armor.
+Armor Proficiency (Heavy Armor)†	Armor Proficiency (Medium Armor)	You become proficient with Heavy Armor.
+Augment Summoning	Spell Focus (Conjuration)	Each creature you conjure with any summon spell gains a +4 enhancement bonus to Strength and Constitution for the duration of the spell that summoned it.
+Back to Back†	Perception 3	Your ally's eyes are your own, and yours are his.
+Benefit: While you are flanked and adjacent to an ally with this feat, you receive a +2 circumstance bonus to AC against attacks from opponents flanking you.
+
+Bashing Finish†	Shield Bash	You follow a powerful blow from your weapon with an opportunistic bash from your shield.
+Benefit: Whenever you score a critical hit with a melee weapon, you can make a shield bash attack against the same target using the same bonus as a free action.
+
+Blind Fight†		In melee, every time you miss because of concealment, you can reroll your miss chance percentile roll one time to see if you actually hit.
+An invisible attacker gets no advantages related to hitting you in melee. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible. The invisible attacker's bonuses do still apply for ranged attacks, however.
+
+Blinding Critical†	Critical Focus, BAB 15	Whenever you score a critical hit, your opponent is permanently blinded. A successful Fortitude save reduces this to dazzled for 1d4 rounds. The DC of this Fortitude save is equal to 10 + your base attack bonus. This feat has no effect on creatures that do not rely on eyes for sight or creatures with more than two eyes. Blindness can be cured by heal, regenerate, remove blindness, or similar abilities.
+Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+
+Boon Companion	Animal Companion	Your bond with your animal companion is unusually close.
+The abilities of your animal companion are calculated as though your class were 4 levels higher, to a maximum effective level equal to your character level.
+
+Bull Rush†	Power Attack, STR 13	This feat gives the character an ability to perform the bull rush combat maneuver. It also grants a +2 bonus to CMB when performing this maneuver, and a +2 bonus to CMD when defending against it.
+A bull rush attempts to push an opponent straight back without doing any harm. If your combat maneuver is successful, your target is pushed back 5 feet. For every 5 by which your attack exceeds your opponent's CMD you can push the target back an additional 5 feet. An enemy being moved by a bull rush does not provoke an attack of opportunity because of the movement unless you possess the Greater Bull Rush feat. You cannot bull rush a creature into a square that is occupied by a solid object or obstacle.
+
+Cautious Fighter	Halfling	When fighting defensively, your dodge bonus to AC increases by 2.
+Cleave†	Power Attack, STR 13	As a standard action, you can make a single attack at your full base attack bonus against a foe within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against a foe that is adjacent to the first and also within reach. You can only make one additional attack per round with this feat. When you use this feat, you take a –2 penalty to your Armor Class until your next turn.
+Cleaving Finish†	Power Attack, Cleave, STR 13	If you make a melee attack, and your target drops to 0 or fewer hit points as a result of your attack, you can make another melee attack using your highest base attack bonus against another opponent within reach. You can make only one extra attack per round with this feat.
+Clustered Shots†	Point-Blank Shot, Precise Shot, BAB 6	You take a moment to carefully aim your shots, causing them all to strike nearly the same spot.
+Benefit: When you use a full attack to make multiple ranged weapon attacks against the same opponent, total the damage from all hits before applying that opponent's damage reduction.
+
+Combat Casting		You are adept at spellcasting when threatened or distracted.
+You get a +4 bonus on concentration checks made to cast a spell or use a spell-like ability.
+
+Combat Expertise†	INT 13	You can choose to take a –1 penalty on melee attack rolls and combat maneuver checks to gain a +1 dodge bonus to your Armor Class. When your base attack bonus reaches +4, and every +4 thereafter, the penalty increases by –1 and the dodge bonus increases by +1. You can only choose to use this feat when you declare that you are making an attack or a full attack with a melee weapon. The effects of this feat last until your next turn.
+Combat Mobility†	DEX 13, Dodge	You can easily move through a dangerous melee.
+Benefit: You get a +4 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses. Dodge bonuses stack with each other, unlike most types of bonuses.
+
+Combat Reflexes†		You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus. With this feat, you may also make attacks of opportunity while flat-footed.
+Coordinated Defense†		Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus to your Combat Maneuver Defense. This bonus increases to +4 if the creature attempting the maneuver is larger than both you and your ally.
+Coordinated Maneuvers†		You are skilled at working with your allies to perform dangerous combat maneuvers.
+Benefit: Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus on all combat maneuver checks. This bonus increases to +4 when attempting to break free from a grapple.
+
+Cornugon Smash†	Persuasion 6, Power Attack	When you damage an opponent with a Power Attack, you may make an immediate Persuasion (intimidate) check as a free action to attempt to demoralize your opponent.
+Crane Riposte†	Dodge, Improved Unarmed Strike, Crane Style, Crane Wing, Monk 7 or BAB 8	You take only a –1 penalty on attack rolls for fighting defensively.
+Whenever you lose the dodge bonus from Crane Wing because an attack missed you by 4 or less, the enemy provokes an attack of opportunity.
+
+Crane Style†	Dodge, Improved Unarmed Strike,
+Monk 1 or BAB 2
+
+You take only a –2 penalty on attack rolls for fighting defensively. While using this style and fighting defensively, you gain an additional +1 dodge bonus to your Armor Class.
+Crane Wing†	Dodge, Improved Unarmed Strike, Crane Style, Monk 5 or BAB 5	When fighting defensively with at least one hand free, you gain a +4 dodge bonus to AC against melee attacks. If a melee attack misses you by 4 or less, you lose this dodge bonus until the beginning of your next turn.
+Critical Focus†	BAB 9	You are trained in the art of causing pain. You receive a +4 circumstance bonus on attack rolls made to confirm critical hits.
+Critical Mastery†	Fighter 14, Critical Focus, Has one of the following features:(Blinding Critical, Exhausting Critical, Sickening Critical, Staggering Critical, Tiring Critical)	When you score a critical hit, you can apply the effects of two critical feats in addition to the damage dealt.
+Normal: You can only apply the effects of one critical feat to a given critical hit in addition to the damage dealt.
+
+Crushing Blow†	Improved Unarmed Strike, Stunning Fist	You can make a Stunning Fist attempt as a full-round action. If successful, instead of stunning your target, you reduce the target's AC by an amount equal to your Wisdom modifier for 1 minute. This penalty does not stack with other penalties applied due to Crushing Blow.
+Dazzling Display†	Weapon Focus	Your skill with your favored weapon can frighten enemies.
+Benefit: While wielding the weapon in which you have Weapon Focus, you can perform a bewildering show of prowess as a full-round action. Make a Persuasion (intimidate) check to demoralize all foes within 30 feet who can see your display.
+
+Deadly Aim†	DEX 13, BAB 1	You can choose to take a –1 penalty on all ranged attack rolls to gain a +2 bonus on all ranged damage rolls.
+When your base attack bonus reaches +4, and every +4 thereafter, the penalty increases by –1 and the bonus to damage increases by +2. You must choose to use this feat before making an attack roll and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage.
+
+Deceitful		You get a +2 bonus on all Persuasion and Trickery skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+Defensive Combat Training†		You excel at defending yourself from all manner of combat maneuvers.
+Benefit: You treat your total Hit Dice as your base attack bonus when calculating your Combat Maneuver Defense.
+
+Deflect Arrows†	Improved Unarmed Strike, DEX 13	You must have at least one hand free (holding nothing) to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon, you may deflect it so that you take no damage from it. You must be aware of the attack and not flat-footed. Attempting to deflect a ranged attack doesn't count as an action.
+Deft Hands		You get a +2 bonus on all Trickery and Use Magic Device skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+Diehard	Currently none, Books say that the prerequisite is Endurance, Game says that it is Orc Ferocity despite that being true	You are especially hard to kill. When your hit point total is below 0 but you are not killed, you can fight on for 1 more round as if disabled. At the end of your next turn, unless brought to above 0 hit points, you immediately fall unconscious.
+Dirty Trick†	Combat Expertise, INT 13	This feat gives the character an ability to perform the dirty trick combat maneuver. It also grants a +2 bonus to CMB when performing this maneuver, and a +2 bonus to CMD when defending against it.
+You can attempt to hinder a foe in melee as a standard action. If your attack is successful, the target takes a penalty. The penalty is limited to one of the following conditions: blinded, entangled, or sickened. This condition lasts for 1 round. For every 5 by which your attack exceeds your opponent's CMD, the penalty lasts 1 additional round.
+
+Disarm†	Combat Expertise, INT 13	You can attempt to disarm a foe in melee as a standard action. If your combat maneuver is successful, the target cannot use his weapons for 1 round.
+For every 5 by which your attack exceeds your opponent's CMD, the disarmed condition lasts 1 additional round.
+
+Dodge†	DEX 13	You gain a +1 dodge bonus to your AC. A condition that makes you lose your Dex bonus to AC also makes you lose the benefits of this feat.
+Double Slice†	DEX 15, Two-Weapon Fighting	Your off-hand weapon while dual-wielding strikes with greater power.
+Benefit: Add your Strength bonus to damage rolls made with your off-hand weapon. Normal: You normally add only half of your Strength modifier to damage rolls made with a weapon wielded in your off-hand.
+
+Dragon Ferocity†	Improved Unarmed Strike, Mobility 5, STR 15, Dragon Style, Stunning Fist	You attack with the strength of a dragon, your telling blows striking fear into your enemies.
+While using Dragon Style, increase your Strength bonus on unarmed strike damage rolls by an additional one-half your Strength bonus, to a total of double your Strength bonus on the first attack and 1.5 times your Strength bonus on the other attacks. When you score a critical hit or a successful Stunning Fist attempt against an opponent while using this style, that opponent is also shaken for a number of rounds equal to 1d4 + your Strength bonus.
+
+Dragon Style†	Improved Unarmed Strike, Mobility 3 or STR 15	You call upon the spirit of dragonkind, gaining greater resilience, mobility, and fierceness from the blessing of these great beings.
+While using this style, you gain a +2 bonus on saving throws against sleep effects, paralysis effects, and stunning effects. Further, you can add 1.5 times your Strength bonus on the damage roll for your first unarmed strike on a given round.
+
+Dreadful Carnage†	Power Attack, Dazzling Display, STR 15, BAB 11	Slaying an enemy demoralizes your other nearby foes.
+Benefit: Whenever you reduce an enemy to 0 or fewer hit points, you can make a Persuasion (to intimidate) check to demoralize all enemies within 30 feet as a free action. Enemies that cannot see both you and the enemy you reduced to 0 or fewer hit points are unaffected.
+
+Elemental Focus		Your spells of a certain element are more difficult to resist.
+Benefit: Choose one energy type (acid, cold, electricity, or fire). Add +1 to the Difficulty Class for all saving throws against spells that deal damage of the energy type you select.
+
+Endurance†		Harsh conditions or long exertions do not easily tire you.
+Benefit: You gain +2 bonus on Athletics checks and +4 bonus on Fortitude saves against fatigue and exhaustion. You may sleep in light or medium armor without becoming fatigued.
+
+Exhausting Critical†	Critical Focus, Tiring Critical, BAB 15	When you score a critical hit on a foe, your target immediately becomes exhausted. This feat has no effect on exhausted creatures.
+Special: You can only apply the effects of one critical feat to a given critical hit unless you possess the Critical Mastery feat.
+
+Exotic Weapon Proficiency†	BAB 1, Martial Weapon Proficiency	Choose one type of exotic weapon, such as the dueling sword or sai. You understand how to use that type of exotic weapon in combat, and can utilize any special tricks or qualities that exotic weapon might allow.
+Extra Arcane Pool	Arcane Pool or Eldritch Pool	You can gain this feat multiple times. Its effects stack, granting you an increase to your arcane pool each time you take this feat.
+Extra Bane	Bane	You can use your bane ability for 3 additional rounds per day.
+Extra Bombs	Bomb	You can throw four additional bombs per day.
+Extra Channel	Channel Energy	You can channel energy two additional times per day.
+Extra Lay On Hands	Lay on Hands	Benefit: You can use your lay on hands ability two additional times per day.
+Special: You can gain Extra Lay On Hands multiple times. Its effects stack.
+
+Extra Performance	Deadly Performance	You can use bardic performance for 6 additional rounds per day.
+Extra Rage	Rage	Benefit: You can rage for 6 additional rounds per day.
+Special: You can gain Extra Rage multiple times. Its effects stack.
+
+Fencing Grace†	Weapon Focus (Appropriate Weapon)r, Weapon Finesse. DEX 13	Your dashing style and fluid fencing forms allow you to use agility rather than brute force to fell your foes.
+Benefits: Choose one kind of light or one-handed piercing weapon (such as the rapier). When wielding your chosen weapon one-handed, you can add your Dexterity modifier instead of your Strength modifier to that weapon's damage. You do not gain this benefit while fighting with two weapons or using flurry of blows, or anytime another hand is otherwise occupied.
+
+Fury's Fall†	Trip	You can use strength and agility to send foes crashing to the ground.
+Benefit: When making a trip attack, add your Dexterity bonus to your CMB.
+
+Great Cleave†	Cleave, STR 13	As a standard action, you can make a single attack at your full base attack bonus against a foe within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against a foe that is adjacent to the previous foe and also within reach. If you hit, you can continue to make attacks against foes adjacent to the previous foe, so long as they are within your reach. You cannot attack an individual foe more than once during this attack action. When you use this feat, you take a –2 penalty to your Armor Class until your next turn.
+Great Fortitude		Gives a +2 bonus to fortitude saves
+Greater Blind Fight†	Perception 15, Improved Blind Fight	Your melee attacks ignore the miss chance for less than total concealment, and you treat opponents with total concealment as if they had normal concealment (20% miss chance instead of 50%). You may still reroll a miss chance percentile roll as normal.
+If you successfully pinpoint an invisible or hidden attacker, that attacker gets no advantages related to hitting you with ranged attacks, regardless of the range. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible.
+
+Greater Bull Rush†	Bull Rush, STR 15, Power Attack, BAB 6	You receive a +2 bonus on checks made to bull rush a foe. This bonus stacks with the bonus granted by Bull Rush. Whenever you bull rush an opponent, his movement provokes attacks of opportunity from you and all of your allies.
+Greater Dirty Trick†	Dirty Trick, INT 13, Combat Expertise, BAB 6	You receive a +2 bonus on checks made to attempt a dirty trick. This bonus stacks with the bonus granted by Dirty Trick. Whenever you successfully perform a dirty trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target's CMD.
+Greater Disarm†	Disarm, INT 13, Combat Expertise, BAB 6	You receive a +2 bonus on checks made to attempt a disarm. This bonus stacks with the bonus granted by Disarm. Whenever you successfully perform a disarm, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target's CMD.
+Greater Elemental Focus	Elemental Focus	Choose an energy type to which you have already applied the Elemental Focus feat. Any spells you cast of this energy type are very hard to resist. Add +1 to the Difficulty Class for all saving throws against spells that deal damage of the energy type you select. This bonus stacks with the bonus from Elemental Focus.
+Greater Penetrating Strike†	Fighter 16, Weapon Focus, Penetrating Strike	Your attacks made with weapons selected with Weapon Focus ignore up to 10 points of damage reduction.
+Greater Shield Focus†	Fighter 8, Shield Focus, Proficiencies:( Light Shield Proficiency, Heavy Shield Proficiency, Buckler Proficiency)	You are skilled at deflecting blows with your shield.
+Benefit: Increase the AC bonus granted by any shield you are using by 1. This bonus stacks with the bonus granted by Shield Focus.
+
+Greater Spell Focus	Spell Focus	Choose a school of magic to which you have already applied the Spell Focus feat. Any spells you cast of this school are very hard to resist.
+Benefit: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select. This bonus stacks with the bonus from Spell Focus. Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new school to which you already have applied the Spell Focus feat.
+
+Greater Spell Penetration	Spell Penetration	Your spells break through spell resistance much more easily than most.
+You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature's spell resistance. This bonus stacks with the one from Spell Penetration.
+
+Greater Sunder Armor†	Sunder Armor, STR 13, Power Attack, BAB 6	You receive a +2 bonus on checks made to attempt a sunder. This bonus stacks with the bonus granted by Sunder Armor. Whenever you successfully perform a sunder, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target's CMD.
+Greater Trip†	Combat Expertise, INT 13, Trip, BAB 6	You can make free attacks on foes that you knock down.
+Benefit: You receive a +2 bonus on checks made to trip a foe. This bonus stacks with the bonus granted by Trip. Whenever you successfully trip an opponent, that opponent provokes attacks of opportunity. Normal: Creatures do not provoke attacks of opportunity from being tripped.
+
+Greater Two-Weapon Fighting†	DEX 19, Improved Two-Weapon Fighting	You get a third attack with your off-hand weapon, albeit at a –10 penalty.
+Greater Vital Strike		You can make a single attack that deals incredible damage.
+Benefit: As a standard action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack four times and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.
+
+Greater Weapon Focus†	Fighter 8, Weapon Focus	Choose one type of weapon (including unarmed strike) for which you have already selected Weapon Focus. You are a master at your chosen weapon.
+Benefit: You gain a +1 bonus on attack rolls you make using the selected weapon. This bonus stacks with other bonuses on attack rolls, including those from Weapon Focus. Special: You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+
+Greater Weapon Specialization†	Fighter 12, Weapon Specialization	Choose one type of weapon (including unarmed strike) for which you possess the Weapon Specialization feat. Your attacks with the chosen weapon are more devastating than normal.
+Benefit: You gain a +2 bonus on all damage rolls you make using the selected weapon. This bonus to damage stacks with other damage roll bonuses, including any you gain from Weapon Specialization. Special: You can gain Greater Weapon Specialization multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+
+Hammer the Gap†	BAB 6	You repeatedly strike the same location, causing increasing amounts of damage.
+Benefit: When you make a full attack, each consecutive hit against the same opponent deals extra damage equal to the number of previous consecutive hits you have made against that opponent this turn. This damage is multiplied on a critical hit.
+
+Improved Blind Fight†	Perception 10, Blind-Fight	Your melee attacks ignore the miss chance for less than total concealment. You may still reroll your miss chance percentile roll for total concealment. If you successfully pinpoint an invisible or hidden attacker within 30 feet, that attacker gets no advantages related to hitting you with ranged attacks. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible.
+Improved Cleaving Finish†	Cleave, STR 13, Power Attack, Great Cleave, Cleaving Finish, BAB 6	You can use Cleaving Finish any number of times per round.
+Improved Critical†	BAB 8	Choose one type of weapon. When using the weapon you selected, your threat range is doubled.
+Special: You can gain Improved Critical multiple times. The effects do not stack. Each time you take the feat, it applies to a new type of weapon. This effect doesn't stack with any other effect that expands the threat range of a weapon.
+
+Improved Great Fortitude	Great Fortitude	You get a +2 bonus on all Fortitude saving throws.
+Improved Initiative†		Your quick reflexes allow you to react rapidly to danger. You get a +4 bonus on initiative checks.
+Improved Iron Will	Iron Will	You get a +2 bonus on all Will saving throws.
+Improved Lightning Reflexes	Iron Will	You get a +2 bonus on all Reflex saving throws.
+Improved Precise Shot†	Precise Shot, BAB 11, DEX 19, Point-Blank Shot	Your ranged attacks ignore anything but total concealment and cover.
+Benefit: Your ranged attacks ignore the miss chance granted to targets by anything less than total concealment. Total concealment provides their normal benefits against your ranged attacks.
+
+Improved Two-Weapon Fighting†	DEX 17, Two-Weapon Fighting	You get a second attack with your off-hand weapon, albeit at a –5 penalty.
+Improved Unarmed Strike†		You are considered to be armed even when unarmed — you can make unarmed attacks that deal 1d3 bludgeoning damage (if Medium; 1d2 if Small).
+Improved Vital Strike†	Vital Strike	You can make a single attack that deals a large amount of damage.
+Benefit: As a standard action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack three times and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision-based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.
+
+Intimidating Prowess†		Your physical might is intimidating to others.
+Benefit: Add your Strength modifier to Persuasion (intimidate) checks in addition to your Charisma modifier.
+
+Iron Will		You get a +2 bonus on all Will saving throws.
+Light Armor Focus		The AC bonus granted by any light armor that you equip increases by 1.
+Lightning Reflexes		You get a +2 bonus on all Reflex saving throws.
+Lingering Performance		The effects of your bardic performance carry on, even after you have stopped performing.
+Benefit: The bonuses and penalties from your bardic performance continue for 2 rounds after you cease performing. Any other requirement, such as range or specific conditions, must still be met for the effect to continue. If you begin a new bardic performance during this time, the effects of the previous performance immediately cease.
+
+Manyshot†	Rapid Shot, BAB 6	When making a full attack with a bow, your first attack fires two arrows. If the attack hits, both arrows hit. Apply precision-based damage (such as sneak attack) and critical hit damage only once for this attack. Damage bonuses from using a composite bow with a high Strength bonus apply to each arrow, as do other damage bonuses, such as a ranger's favored enemy bonus. Damage reduction and resistances apply separately to each arrow.
+Martial Weapons Proficiency†		You become proficient with all Martial Weapons.
+Medium Armor Focus		The AC bonus granted by any medium armor that you equip increases by 1.
+Metamagic (Empower Spell)		You can increase the power of your spells, causing them to deal more damage.
+Benefit: All variable, numeric effects of an empowered spell are increased by half including bonuses to those rolls. Saving throws and opposed rolls are not affected, nor are spells without random variables. Level Increase: +2 (An empowered spell uses up a spell slot two levels higher than the spell's actual level.)
+
+Metamagic (Extend Spell)		You can make your spells last twice as long.
+Benefit: An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat. Level Increase: +1 (An extended spell uses up a spell slot one level higher than the spell's actual level.)
+
+Metamagic (Heighten Spell)		You can cast spells as if they were a higher level.
+Benefit: A heightened spell has a higher spell level than normal (up to a maximum of 9th level). Unlike other metamagic feats, Heighten Spell actually increases the effective level of the spell that it modifies. All effects dependent on spell level (such as saving throw DCs and ability to penetrate a lesser globe of invulnerability) are calculated according to the heightened level. Level Increase: The heightened spell is as difficult to prepare and cast as a spell of its effective level.
+
+Metamagic (Maximize Spell)		Your spells have the maximum possible effect.
+Benefit: All variable, numeric effects of a spell modified by this feat are maximized. Saving throws and opposed rolls are not affected, nor are spells without random variables. Level Increase: +3 (A maximized spell uses up a spell slot three levels higher than the spell's actual level.) An empowered, maximized spell gains the separate benefits of each feat: the maximum result plus half the normally rolled result.
+
+Metamagic (Quicken Spell)		You can cast spells in a fraction of the normal time.
+Benefit: Casting a quickened spell is a swift action. You can perform another action, even casting another spell, in the same round as you cast a quickened spell. A spell whose casting time is more than 1 round or 1 full-round action cannot be quickened. Level Increase: +4 (A quickened spell uses up a spell slot four levels higher than the spell's actual level.) Casting a quickened spell doesn't provoke an attack of opportunity. Special: You can apply the effects of this feat to a spell cast spontaneously, so long as it has a casting time that is not more than 1 full-round action, without increasing the spell's casting time.
+
+Metamagic (Reach Spell)		Your spells go farther than normal.
+Benefit: You can alter a spell with a range of touch, close, or medium to increase its range by one range category, using the following order: touch, close, medium, and long. Level Increase: +1 (A reach spell uses up a spell slot one level higher than the spell's actual level.) Spells modified by this feat that require melee touch attacks instead require ranged touch attacks. Spells that do not have a range of touch, close, or medium do not benefit from this feat.
+
+Missile Shield†	Shield Focus, DEX 13	You must be using a shield to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon (not including spell effects, natural attacks, or massive ranged weapons), you may deflect it so that you take no damage, as if you had the Deflect Arrows feat. You must be aware of the attack and not flat-footed.
+Natural Spell†	Wild Shape, Wisdom 13	You can cast spells while using wild shape. You substitute various noises and gestures for the normal verbal and somatic components of a spell.
+Outflank†	BAB 4	Whenever you and an ally who also has this feat are flanking the same creature, your flanking bonus on attack rolls increases to +4. In addition, whenever you score a critical hit against the flanked creature, it provokes an attack of opportunity from your ally.
+Penetrating Strike†	Fighter 12, Weapon Focus	Your attacks made with weapons selected with Weapon Focus ignore up to 5 points of damage reduction.
+Persuasive		You get a +2 bonus on all Persuasion and Perception skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+Piranha Strike†	DEX 13, Weapon Finesse	When wielding a light weapon or any other weapon that can be used with Weapon Finesse, you can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls.
+This bonus to damage is halved (–50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and for every 4 points thereafter, the penalty increases by –1 and the bonus on damage rolls increases by +2. You must choose to use this feat before the attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage. This feat cannot be used in conjunction with the Power Attack feat.
+
+Point-Blank Mastery†	Fighter 4, Weapon Specialization (Appropriate Weapon)	Benefit: Choose one type of ranged weapon. You do not provoke attacks of opportunity when firing the selected weapon while threatened.
+Normal: Using a ranged weapon while you are threatened provokes attacks of opportunity.
+
+Point-Blank Shot†		You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of up to 30 feet.
+Power Attack†	STR 13	You can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls.
+This bonus to damage is increased by half (+50%) if you are making an attack with a two-handed weapon, a one handed weapon using two hands, or a primary natural weapon that adds 1-1/2 times your Strength modifier on damage rolls. This bonus to damage is halved (–50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and every 4 points thereafter, the penalty increases by –1 and the bonus to damage increases by +2. You must choose to use this feat before making an attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage.
+
+Precise Shot†	Point-Blank Shot	You can shoot or throw ranged weapons at an opponent engaged in melee without taking the standard –4 penalty on your attack roll.
+Precise Strike†	DEX 13, BAB 1	Whenever you and an ally who also has this feat are flanking the same creature, you deal an additional 1d6 points of precision damage with each successful melee attack. This bonus damage stacks with other sources of precision damage, such as sneak attack. This bonus damage is not multiplied on a critical hit.
+Pummeling Bully†	Pummeling Style, Trip, Improved Unarmed Strike, BAB 9 or Monk 5	When you use Pummeling Style to make an entire full attack or flurry of blows against a single target, if you hit with any of your attacks, you attempt a trip combat maneuver check as a free action.
+Pummeling Charge†	Pummeling Style, BAB 12 or Monk 8	Your charge ends with a mighty haymaker.
+Benefit: You can charge and make a full attack or flurry of blows at the end of your charge as part of the charge action. You can use Pummeling Charge in this way only if all of your attacks qualify for using Pummeling Style against a single target.
+
+Pummeling Style†	Improved Unarmed Style, Flurry of Blows or BAB 6	Your unarmed strikes weave together in an effortless combo, focusing on the spots you've weakened with the last hit.
+Benefit: Whenever you use a full attack or flurry of blows to make multiple attacks against a single opponent with unarmed strikes, total the damage from all hits before applying damage reduction. This ability works only with unarmed strikes, no matter what other abilities you might possess.
+
+Rapid Shot†		When making a full attack with a ranged weapon, you can fire one additional time this round at your highest bonus. All of your attack rolls take a –2 penalty when using Rapid Shot.
+Seize the Moment†	Combat Reflexes	When an ally who also has this feat confirms a critical hit against an opponent that you also threaten, you can make an attack of opportunity against that opponent.
+Selective Channel	Channel Energy, Charisma 13	Whenever you channel positive energy to heal the living or channel negative energy to heal the undead, you do not affect enemies. When you channel positive energy to damage undead or channel negative energy to damage living, you do not affect allies.
+Shake It Off		When you are adjacent to one or more allies who also have this feat, you gain a +1 bonus on saving throws per such ally (maximum +4).
+Shatter Defenses†		Your skill with your chosen weapon leaves opponents unable to defend themselves if you strike them when their defenses are already compromised.
+Benefit: Any shaken, frightened, or panicked opponent hit by you this round is flat-footed to your attacks until the end of your next turn. This includes any additional attacks you make this round.
+
+Shield Bash†		You may attack with light and heavy shields. This incurs standard penalties for two-weapon fighting if you have a weapon in your other hand.
+A light shield deals 1d3 damage and is considered a light weapon. A heavy shield deals 1d4 damage and is considered a one-handed weapon.
+
+Shield Focus†		Increase the AC bonus granted by any shield you are using by 1.
+Shield Master†	Proficiencies: (Light & Heavy Shield Proficiency), Shield Bash, Two-Weapon Fighting, BAB 11	Your mastery of the shield allows you to fight with it without hindrance.
+Benefit: You do not suffer any penalties on attack rolls made with a shield while you are wielding another weapon. Add your shield's enhancement bonus to attack and damage rolls made with the shield as if it were a weapon enhancement bonus.
+
+Shield Proficiency†		You have become proficient with Bucklers, Light Shields, and Heavy Shields
+Shield Wall†	Shield Proficiency with Bucklers, Light, and Heavy Shields	Whenever you are wielding a shield and are adjacent to an ally wielding a shield who also has this feat, the AC bonus from your shield increases, depending on the shield wielded by your ally.
+If your ally is wielding a buckler or a light shield, your shield bonus increases by +1. If your ally is wielding a heavy shield or a tower shield, your shield bonus increases by +2. You keep these bonuses even if your ally loses his shield bonus due to making a shield bash attack. If an adjacent ally with this feat uses a tower shield to grant total cover, you also benefit if an attack targeting you passes through the edge of the shield.
+
+Shielded Caster†		Your allies cover you while you cast complicated spells.
+Benefit: Whenever you are adjacent to an ally who also has this feat, you receive a +4 competence bonus on concentration checks. If your ally is wielding a buckler or a light shield, this bonus increases by +1. If your ally is wielding a heavy shield or a tower shield, this bonus increases by +2.
+
+Sickening Critical†	Critical Focus, BAB 11	Whenever you score a critical hit, your opponent becomes sickened for 1 minute. The effects of this feat do not stack. Additional hits instead add to the effect's duration.
+Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+
+Simple Weapon Proficiency†		You become proficient with all Simple Weapons.
+Skill Focus		Choose a skill. You are particularly adept at that skill.
+Benefit: You get a +3 bonus on all checks involving the chosen skill. If you have 10 or more ranks in that skill, this bonus increases to +6. Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new skill.
+
+Slashing Grace†	DEX 13, Weapon Finesse, Weapon Focus (Appropriate Weapon)	You can stab your enemies with your sword or another slashing weapon.
+Benefit: Choose one kind of light or one-handed slashing weapon (such as the longsword). When wielding your chosen weapon one-handed, you can treat it as a one-handed piercing melee weapon for all feats and class abilities that require such a weapon (such as a duelist's precise strike) and you can add your Dexterity modifier instead of your Strength modifier to that weapon's damage. The weapon must be one appropriate for your size.
+
+Spell Focus		Choose a school of magic. Any spells you cast of that school are more difficult to resist.
+Benefit: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select. Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new school of magic.
+
+Spell Penetration		Your spells break through spell resistance more easily than most.
+You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature's spell resistance.
+
+Spell Specialization		Select one spell. You cast that spell with greater than normal power.
+Benefit: Select one spell. Treat your caster level as being two higher for all level-variable effects of the spell. Every time you gain a level in a spellcasting class, you can choose a new spell to replace the spell selected with this feat, and that spell becomes your specialized spell.
+
+Staggering Critical†	Critical Focus, BAB 13	Whenever you score a critical hit, your opponent becomes staggered for 1d4+1 rounds. A successful Fortitude save reduces the duration to 1 round. The DC of this Fortitude save is equal to 10 + your base attack bonus. The effects of this feat do not stack. Additional hits instead add to the duration.
+Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+
+Stealthy		You get a +2 bonus on all Mobility and Stealth skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+Steel Soul	Dwarf, Hardy	You are especially resistant to magic.
+Benefit: You receive a +4 racial bonus on saving throws against spells and spell-like abilities. This replaces the normal bonus from the dwarf's Hardy racial trait. Normal: Dwarves normally receive a +2 racial bonus on saving throws against spells and spell-like abilities.
+
+Stunning Fist†	Improved Unarmed Strike	You know just where to strike to temporarily stun a foe.
+You must use this feat before you make your attack (thus, a failed attack roll ruins the attempt). Stunning Fist forces a foe damaged by your unarmed attack to make a Fortitude saving throw (DC 10 + 1/2 your character level + your Wis modifier), in addition to dealing damage normally. A defender who fails this saving throw is stunned for 1 round (until just before your next turn). A stunned character drops everything held, can't take actions, loses any Dexterity bonus to AC, and takes a –2 penalty to AC. You may attempt a stunning attack once per day for every four levels you have attained, and no more than once per round. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be stunned.
+
+Sunder Armor†	Power Attack, STR 13	You can attempt to dislodge a piece of armor worn by your opponent. If your combat maneuver is successful, the target loses its bonuses from armor for 1 round.
+For every 5 by which your attack exceeds your opponent's CMD, the penalty lasts 1 additional round.
+
+Superior Summoning		Each time you cast a summoning spell that conjures more than one creature, add one to the total number of creatures summoned.
+Tandem Trip†	Trip	You know how to work together to trip your foes.
+Benefit: Whenever you attempt a trip combat maneuver against an enemy threatened by an ally with this feat, you roll twice and take the better result.
+
+Throw Anything	Alchemist(Automatic)	You receive a +1 circumstance bonus on attack rolls made with thrown splash weapons.
+Tiring Critical†	Critical Focus, BAB 13	Whenever you score a critical hit, your opponent becomes fatigued. This feat has no additional effect on a fatigued or exhausted creature.
+Special: You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
+
+Toughness		You gain +3 hit points. For every Hit Die you possess beyond 3, you gain an additional +1 hit point. If you have more than 3 Hit Dice, you gain +1 hit points whenever you gain a Hit Die (such as when you gain a level).
+Tower Shield Proficiency†	Shield Proficiency	You become proficient with Tower Shields.
+Trip†	Combat Expertise, INT 13	You can attempt to trip your opponent in place of a melee attack. If your combat maneuver is successful, the target is knocked prone.
+If the target has more than two legs, add +2 to the DC of the combat maneuver attack roll for each additional leg it has. Some creatures—such as oozes, creatures without legs, and flying creatures—cannot be tripped.
+
+Two-Weapon Fighting†	DEX 15	Benefit: Your penalties on attack rolls for fighting with two weapons are reduced. The penalty for your primary hand lessens by 2 and the one for your off hand lessens by 6.
+Normal: If you wield a second weapon in your off hand, you can get one extra attack per round with that weapon. When fighting in this way you suffer a –6 penalty with your regular attack or attacks with your primary hand and a –10 penalty to the attack with your off hand. If your off-hand weapon is light, the penalties are reduced by 2 each. An unarmed strike is always considered light.
+
+Vital Strike†	BAB 6	You make a single attack that deals significantly more damage than normal.
+Benefit: As a standard action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack twice and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision-based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.
+
+Volley Fire		You have trained to work in ranks of archers to rain arrows down upon your foes.
+Benefit: You gain a +1 bonus on ranged attack rolls for each ally with this feat who made a ranged attack since the end of your last turn against a target within 15 feet of your target, to a maximum of +4.
+
+Weapon Finesse†		With a light weapon, elven curve blade, estoc, rapier, or spiked chain made for a creature of your size category, you may use your Dexterity modifier instead of your Strength modifier on attack rolls. If you carry a shield, its armor check penalty applies to your attack rolls.
+Weapon Focus†	BAB 1	Choose one type of weapon. You can also choose unarmed strike (or ray, if you are a spellcaster) as your weapon for the purposes of this feat.
+Benefit: You gain a +1 bonus on all attack rolls you make using the selected weapon. Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+
+Weapon Specialization†	Fighter 4, Weapon Focus	You are skilled at dealing damage with one weapon. Choose one type of weapon (including unarmed strike) for which you have already selected the Weapon Focus feat. You deal extra damage when using this weapon.
+Benefit: You gain a +2 bonus on all damage rolls you make using the selected weapon. Special: You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+
+Wings	Aasimar, level 10	You gain a pair of wings that grant a +3 dodge bonus to AC against melee attacks and an immunity to ground based effects, such as difficult terrain.
+
