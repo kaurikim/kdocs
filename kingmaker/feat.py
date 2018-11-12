@@ -2,20 +2,21 @@
 
 import json
 import requests
+import copy
 from bs4 import BeautifulSoup
-from unicode_string_utils import open_file_read_unicode
 
-URL = "http://comic.naver.com/webtoon/list.nhn?titleId=20853&weekday=tue&page=1"
+fdb = dict()
+rinfos = dict()
 
 class FInfo:
-    def __init__(self, name, descp, reqs):
-        self.name = name
-        self.descp = descp
-        self.descp = reqs
-
-def crt_finfo(name, reqstr, desc):
-    req = reqstr, d
-
+    def __init__(self, finfo):
+        self.name = finfo.get('name')
+        self.descp = finfo.get('desc')
+        self.reqs = copy.deepcopy(finfo.get('prereq'))
+        self.plist = list()
+        self.is_root = False
+        if len(self.reqs) == 0:
+            self.is_root = True
 
 def get_html(url):
     with open('a.html') as f:
@@ -34,7 +35,7 @@ def get_json():
         data = json.load(f)
     return data
 
-html = get_html(URL)
+html = get_html('tst')
 
 soup = BeautifulSoup(html, 'html.parser')
 
@@ -59,18 +60,44 @@ for tmp in webtoon_area.find_all('tr'):
 
     tst = name.strip()
     finfo['name'] = replace_non_ascii_unicode(tst, '')
+
     reqs = replace_non_ascii_unicode(tmp.text.strip(), '')
     reqs = reqs.replace(' ', '')
-    finfo['prereq'] = [req.strip() for req in reqs.split(',')]
+    if len(reqs) > 0:
+        finfo['prereq'] = [req.strip() for req in reqs.split(',')]
+    else:
+        finfo['prereq'] = list()
+
+    print finfo['prereq']
 
     tmp = tmp.find_next_sibling()
     finfo['desc'] = replace_non_ascii_unicode(tmp.text.strip(), '')
     name = finfo['name']
     infos[name] = finfo
+    tmp = FInfo(finfo)
+    fdb[name] = tmp
+    '''
+    if tmp.is_root:
+        rinfos[name] = tmp
+    '''
+    rinfos[name] = tmp
 
 
-dd = json.dumps(infos, indent=4)
-print dd
+#dd = json.dumps(infos, indent=4)
+#print dd
+
+for name, info in rinfos.items():
+    msg = '{} >> {} :'.format(name, info.reqs)
+    for req in info.reqs:
+        dst = fdb.get(req, None)
+        if dst:
+            msg = msg + ' {}'.format(dst.name)
+        else:
+            print '{} is not exist.'.format(req)
+
+    print msg
+
+
 
 
 #for key, data in infos.items():
